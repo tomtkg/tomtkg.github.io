@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Tom's Homepage
 ---
 
 ## I am an IT company employee and a Ph.D. student.
