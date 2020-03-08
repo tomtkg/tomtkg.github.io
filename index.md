@@ -3,7 +3,6 @@ layout: default
 ---
 
 ## I am an IT company employee and a Ph.D. student.
-## I work and study in Tokyo, Japan.
 
 ## Research Interest
 
@@ -11,11 +10,9 @@ Computational Intelligence, Evolutionary Computation, Optimization.
 
 ## EDUCATION
 The University of Electro-Communications, Chofu, Tokyo, Japan
-<pre>
-Apr. 2020 – Present:    Doctor  of Engineering (Informatics)
-Apr. 2018 – Mar.2020:   Master  of Engineering (Informatics)
+Apr. 2020 – Present: &nbsp;&nbsp; Doctor &nbsp; of Engineering (Informatics)
+Apr. 2018 – Mar.2020: &nbsp; Master &nbsp; of Engineering (Informatics)
 Apr. 2014 – Mar.2018:  Bachelor of Engineering (Informatics)
-</pre>
 
 <!--
 ## Publications
