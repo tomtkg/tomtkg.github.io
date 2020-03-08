@@ -9,7 +9,7 @@ layout: default
 Computational Intelligence, Evolutionary Computation, Optimization.
 
 ## EDUCATION
-The University of Electro-Communications, Chofu, Tokyo, Japan  
+### The University of Electro-Communications, Chofu, Tokyo, Japan  
 Apr. 2020 – Present: &nbsp;&nbsp;Doctor &nbsp;of Engineering (Informatics)  
 Apr. 2018 – Mar.2020: &nbsp;Master &nbsp;of Engineering (Informatics)  
 Apr. 2014 – Mar.2018:  Bachelor of Engineering (Informatics)
