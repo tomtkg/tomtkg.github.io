@@ -1,5 +1,5 @@
 title: Researcher
-url: "https://ankitsultana.com"
+url: "https://tomtkg.github.io"
 baseurl: "/researcher"
 
 markdown: kramdown
@@ -14,11 +14,3 @@ footer_text: "Page design by Ankit Sultana"
 sass:
     style: compressed
     sass_dir: _sass
-
-nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
