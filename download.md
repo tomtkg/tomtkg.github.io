@@ -3,7 +3,7 @@ layout: default
 title: Tomtkg's Homepage
 ---
 
-## Download Contents
+## Download Contents (Not Yet Open)
 
 * **A Distribution Control of Weight Vector Set for Multi-objective Evolutionary Algorithms**
 
