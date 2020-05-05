@@ -1,26 +1,10 @@
 ---
 layout: default
-is_contact: true
+title: Tomtkg's Homepage
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+## Download Contents
 
-* Phone: [+91-123123](tel:+91-123123)
+* **A Distribution Control of Weight Vector Set for Multi-objective Evolutionary Algorithms**
 
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+* **Incremental Lattice Design of Weight Vector Set**
