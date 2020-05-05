@@ -1,4 +1,4 @@
-title: Tom's Homepage
+title: Tomtkg's Homepage
 url: "https://tomtkg.github.io"
 #baseurl: "./"
 
@@ -19,6 +19,6 @@ nav:
  - name: "Home"
    link: "index"
  - name: "Download"
-   link: "resume.pdf"
+   link: "download"
 # - name: "Contact"
 #   link: "contact"
