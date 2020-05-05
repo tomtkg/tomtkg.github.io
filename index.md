@@ -19,8 +19,8 @@ Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Non-dominated Solution Samp
 Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Incremental Lattice Design of Weight Vector Set** Workshop on Decomposition Techniques in Evolutionary Optimization, 2020 Genetic and Evolutionary Computation Conference (GECCO 2020), 2020. (to appear)
 
 ## Work experience
-**Time Intermedia Corporation, Tokyo, Japan**
-Apr. 2020 – Present: AI Solution Division 
+**Time Intermedia Corporation, Tokyo, Japan**  
+Apr. 2020 – Present: AI Solution Division  
 
 ## EDUCATION
 **The University of Electro-Communications, Chofu, Tokyo, Japan**  
