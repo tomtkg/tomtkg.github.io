@@ -16,14 +16,14 @@ Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Non-dominated Solution Samp
 
 Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Incremental Lattice Design of Weight Vector Set** Workshop on Decomposition Techniques in Evolutionary Optimization, 2020 Genetic and Evolutionary Computation Conference (GECCO 2020), 2020. (to appear)
 
-Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Distribution Control of Weight Vector Set for Multi-objective Evolutionary Algorithms** Proc. of the Bio-inspired Information and Communication Technologies (BICT 2019), Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering (LNICST), Vol 289, Springer, Cham, pp. 70--80, 2019. [Web](https://link.springer.com/chapter/10.1007%2F978-3-030-24202-2_6), [PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-030-24202-2_6.pdf)
+Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Distribution Control of Weight Vector Set for Multi-objective Evolutionary Algorithms** Proc. of the Bio-inspired Information and Communication Technologies (BICT 2019), Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering (LNICST), Vol. 289, Springer, Cham, pp. 70--80, 2019. [Web](https://link.springer.com/chapter/10.1007%2F978-3-030-24202-2_6), [PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-030-24202-2_6.pdf)
 
 Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Preliminary Study on Weight Vector Distribution Control Based on Intermediate Objective Value** Proc. of 2018 JPNSEC International Workshop on Evolutionary Computation, pp. 20--26, 2018.
 
 ## Work experience
 **Time Intermedia Corporation, Tokyo, Japan**  
 Apr. 2020 – Present: AI Solution Division  
-Oct. 2019 – Mar. 2020: AI Solution Division (part-time) 
+Oct. 2019 – Mar. 2020: AI Solution Division (part-time)  
 **National Maritime Research Institute, Mitaka, Tokyo, Japan**  
 Jan. 2019 – Sep. 2019: Marine Risk Assessment (part-time)
 
