@@ -23,12 +23,18 @@ Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Incremental Lattice Design 
 ## Work experience
 **Time Intermedia Corporation, Tokyo, Japan**  
 Apr. 2020 – Present: AI Solution Division  
+Oct. 2019 – Mar. 2020: AI Solution Division (part-time) 
+**National Maritime Research Institute, Mitaka, Tokyo, Japan**  
+Jan. 2019 – Sep. 2019: Marine Risk Assessment (part-time)
 
 ## EDUCATION
 **The University of Electro-Communications, Chofu, Tokyo, Japan**  
 Apr. 2020 – Present: &nbsp;&nbsp;Doctor &nbsp;of Philosophy in Engineering  
 Apr. 2018 – Mar.2020: &nbsp;Master &nbsp;of Engineering (Informatics)  
 Apr. 2014 – Mar.2018: Bachelor of Engineering (Informatics)
+
+## PROFESSIONAL AND SOCIETY MEMBERSHIPS
+Feb. 2019 The Japanese Society for Evolutionary Computation
 
 ## Link
 [Google Scholar](https://scholar.google.co.jp/citations?user=jsYC8NMAAAAJ), [DBLP](https://dblp.uni-trier.de/pers/hd/t/Takagi:Tomoaki), [Company](https://www.timedia.co.jp), [University](https://www.uec.ac.jp), [Laboratory](http://hs.hc.uec.ac.jp/index.php?%E9%AB%98%E6%9C%A8%20%E6%99%BA%E7%AB%A0), [JPNSEC](http://www.jpnsec.org/)
