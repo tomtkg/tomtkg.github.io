@@ -3,6 +3,8 @@ layout: default
 title: Tomtkg's Homepage
 ---
 
+<img class="profile-picture" src="myface.jpg">
+
 ## I am an IT company employee and a Ph.D. student.
 
 ## Research Interest
@@ -27,3 +29,5 @@ Apr. 2020 – Present: AI Solution Division
 Apr. 2020 – Present: &nbsp;&nbsp;Doctor &nbsp;of Philosophy in Engineering  
 Apr. 2018 – Mar.2020: &nbsp;Master &nbsp;of Engineering (Informatics)  
 Apr. 2014 – Mar.2018: Bachelor of Engineering (Informatics)
+
+[Google Scholar](https://scholar.google.co.jp/citations?user=jsYC8NMAAAAJ)
