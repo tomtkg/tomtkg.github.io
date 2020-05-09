@@ -30,4 +30,5 @@ Apr. 2020 – Present: &nbsp;&nbsp;Doctor &nbsp;of Philosophy in Engineering
 Apr. 2018 – Mar.2020: &nbsp;Master &nbsp;of Engineering (Informatics)  
 Apr. 2014 – Mar.2018: Bachelor of Engineering (Informatics)
 
-[Google Scholar](https://scholar.google.co.jp/citations?user=jsYC8NMAAAAJ), [DBLP](https://dblp.uni-trier.de/pers/hd/t/Takagi:Tomoaki)
+## Link
+[Google Scholar](https://scholar.google.co.jp/citations?user=jsYC8NMAAAAJ), [DBLP](https://dblp.uni-trier.de/pers/hd/t/Takagi:Tomoaki), [Company](https://www.timedia.co.jp), [University](https://www.uec.ac.jp), [Laboratory](http://hs.hc.uec.ac.jp/index.php?%E9%AB%98%E6%9C%A8%20%E6%99%BA%E7%AB%A0), [JPNSEC](http://www.jpnsec.org/)
