@@ -22,7 +22,7 @@ Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Preliminary Study on Weig
 
 ## Work experience
 **Time Intermedia Corporation, Tokyo, Japan**  
-Apr. 2020 – Present: AI Solution Division  
+Apr. 2020 – Present: &nbsp;&nbsp;AI Solution Division  
 Oct. 2019 – Mar. 2020: AI Solution Division (part-time)  
 **National Maritime Research Institute, Mitaka, Tokyo, Japan**  
 Jan. 2019 – Sep. 2019: Marine Risk Assessment (part-time)
