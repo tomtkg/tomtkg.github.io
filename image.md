@@ -16,8 +16,8 @@ Blue points are infeasible Solution.
 Grey points are feasible Solution.  
 
 ## Example(DTLZ1)
-<p align="center"><img src="image/DTLZ1_M2PF.svg" width="80"><img src="image/DTLZ1_M2Init.svg" width="80"><img src="image/DTLZ1_M2Grid.svg" width="80"></p> 
-<p align="center"><img src="image/DTLZ1_M3PF.svg" width="100"><img src="image/DTLZ1_M3Init.svg" width="100"><img src="image/DTLZ1_M3Grid.svg" width="100"></p> 
+<img src="image/DTLZ1_M2PF.svg" width="80"><img src="image/DTLZ1_M2Init.svg" width="80"><img src="image/DTLZ1_M2Grid.svg" width="80">  
+<img src="image/DTLZ1_M3PF.svg" width="100"><img src="image/DTLZ1_M3Init.svg" width="100"><img src="image/DTLZ1_M3Grid.svg" width="100">  
 
 ## List of problems
 * [BT(Benchmark MOP with bias feature)](https://github.com/tomtkg/Test_Functions_for_Multi-objective_Optimization/blob/master/Problems/BT/README.md)  
