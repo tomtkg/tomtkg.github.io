@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "Home"
-   link: "/"
+   link: "index"
  - name: "Download"
    link: "download"
  - name: "Image"
