@@ -6,18 +6,18 @@ title: Tom TKG's Homepage
 ## Image of multi-objective optimization test problems
 
 ### Left image is Pareto Front
-### Center image is Pareto Front and initial population  
-Population size _N_ = 200. Number of variables _D_ = 5 (if possible).
+### Center image is Pareto Front and random points  
+Point size _N_ = 200. Number of variables _D_ = 5 (if possible).
 ### Right image is Pareto Front and grid points  
-Points size _N_ = 21^5. Number of variables _D_ = 5 (if possible).
+Point size _N_ = 21^5. Number of variables _D_ = 5 (if possible).
 
-Red points are Parto Optimal Solution. 
-Blue points are infeasible Solution. 
+Red points are Parto Optimal Solution.  
+Blue points are infeasible Solution.  
 Grey points are feasible Solution.  
 
 ## Example(DTLZ1)
-<img src="image/DTLZ1_M2PF.svg" width="200"><img src="image/DTLZ1_M2Init.svg" width="200"><img src="image/DTLZ1_M2Grid.svg" width="200">  
-<img src="image/DTLZ1_M3PF.svg" width="200"><img src="image/DTLZ1_M3Init.svg" width="200"><img src="image/DTLZ1_M3Grid.svg" width="200">   
+<img src="image/DTLZ1_M2PF.svg" width="80"><img src="image/DTLZ1_M2Init.svg" width="80"><img src="image/DTLZ1_M2Grid.svg" width="80">  
+<img src="image/DTLZ1_M3PF.svg" width="100"><img src="image/DTLZ1_M3Init.svg" width="100"><img src="image/DTLZ1_M3Grid.svg" width="100">   
 
 ## List of problems
 * [BT(Benchmark MOP with bias feature)](https://github.com/tomtkg/Test_Functions_for_Multi-objective_Optimization/blob/master/Problems/BT/README.md)  
