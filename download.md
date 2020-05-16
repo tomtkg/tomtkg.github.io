@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tomtkg's Homepage
+title: Tom TKG's Homepage
 ---
 
 ## Download Contents (Not Yet Open)

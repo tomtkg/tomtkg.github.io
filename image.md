@@ -1,9 +1,26 @@
 ---
 layout: default
-title: Tomtkg's Homepage
+title: Tom TKG's Homepage
 ---
 
 ## Image of multi-objective optimization test problems
+
+### Left image is Pareto Front
+### Center image is Pareto Front and initial population  
+Population size _N_ = 200. Number of variables _D_ = 5 (if possible).
+### Right image is Pareto Front and grid points  
+Points size _N_ = 21^5. Number of variables _D_ = 5 (if possible).
+
+Red points are Parto Optimal Solution. 
+Blue points are infeasible Solution. 
+Grey points are feasible Solution.  
+
+## Example
+|![image](image/DTLZ1_M2PF.svg)Pareto Front on the DTLZ1|![image](image/DTLZ1_M2Init.svg)Initial population on the DTLZ1|![image](image/DTLZ1_M2Grid.svg)Grid Points on the DTLZ1|
+|:-:|:-:|:-:|
+|![image](image/DTLZ1_M3PF.svg)Pareto Front on the DTLZ1|![image](image/DTLZ1_M3Init.svg)Initial population on the DTLZ1|![image](image/DTLZ1_M3Grid.svg)Grid Points on the DTLZ1|  
+
+## List of problems
 * [BT(Benchmark MOP with bias feature)](https://github.com/tomtkg/Test_Functions_for_Multi-objective_Optimization/blob/master/Problems/BT/README.md)  
 * [CF(Constrained benchmark MOP)](https://github.com/tomtkg/Test_Functions_for_Multi-objective_Optimization/blob/master/Problems/CF/README.md)  
 * [Combinatorial MOPs](https://github.com/tomtkg/Test_Functions_for_Multi-objective_Optimization/blob/master/Problems/Combinatorial%20MOPs/README.md)  
@@ -26,3 +43,13 @@ title: Tomtkg's Homepage
 * [VNT(Benchmark MOP proposed by Viennet)](https://github.com/tomtkg/Test_Functions_for_Multi-objective_Optimization/blob/master/Problems/VNT/README.md)  
 * [WFG(Benchmark MOP proposed by Walking Fish Group)](https://github.com/tomtkg/Test_Functions_for_Multi-objective_Optimization/blob/master/Problems/WFG/README.md)  
 * [ZDT(Benchmark MOP proposed by Zitzler, Deb, and Thiele)](https://github.com/tomtkg/Test_Functions_for_Multi-objective_Optimization/blob/master/Problems/ZDT/README.md)  
+
+## Others
+I use PlatEMO. Some Problems directory files and Public directory files are same as PlatEMO.  
+I hope visitors can help their visual understanding of multi-objective optimization problem.
+ 
+Reference  
+Ye Tian, Ran Cheng, Xingyi Zhang, and Yaochu Jin, PlatEMO: A MATLAB platform
+for evolutionary multi-objective optimization [educational forum], IEEE
+Computational Intelligence Magazine, 2017, 12(4): 73-87".  
+[PlatEMO](https://github.com/BIMK/PlatEMO/)
