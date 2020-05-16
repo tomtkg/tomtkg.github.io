@@ -15,10 +15,9 @@ Red points are Parto Optimal Solution.
 Blue points are infeasible Solution. 
 Grey points are feasible Solution.  
 
-## Example
-|![image](image/DTLZ1_M2PF.svg)Pareto Front on the DTLZ1|![image](image/DTLZ1_M2Init.svg)Initial population on the DTLZ1|![image](image/DTLZ1_M2Grid.svg)Grid Points on the DTLZ1|
-|:-:|:-:|:-:|
-|![image](image/DTLZ1_M3PF.svg)Pareto Front on the DTLZ1|![image](image/DTLZ1_M3Init.svg)Initial population on the DTLZ1|![image](image/DTLZ1_M3Grid.svg)Grid Points on the DTLZ1|  
+## Example(DTLZ1)
+<img src="image/DTLZ1_M2PF.svg" width="200"><img src="image/DTLZ1_M2Init.svg" width="200"><img src="image/DTLZ1_M2Grid.svg" width="200">  
+<img src="image/DTLZ1_M3PF.svg" width="200"><img src="image/DTLZ1_M3Init.svg" width="200"><img src="image/DTLZ1_M3Grid.svg" width="200">   
 
 ## List of problems
 * [BT(Benchmark MOP with bias feature)](https://github.com/tomtkg/Test_Functions_for_Multi-objective_Optimization/blob/master/Problems/BT/README.md)  
