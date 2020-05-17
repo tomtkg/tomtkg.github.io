@@ -7,4 +7,4 @@ title: Tom TKG's Homepage
 
 * **A Distribution Control of Weight Vector Set for Multi-objective Evolutionary Algorithms** [github](https://github.com/tomtkg/MOEA-D-DCWVS), [zip](/data/MOEA-D-DCWVS-master.zip)
 
-* **Incremental Lattice Design of Weight Vector Set**
+* **Incremental Lattice Design of Weight Vector Set** [github](https://github.com/tomtkg/ILD), [zip](/data/ILD-master.zip)
