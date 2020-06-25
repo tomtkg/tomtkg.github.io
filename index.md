@@ -20,20 +20,20 @@ Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Distribution Control of W
 
 Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Preliminary Study on Weight Vector Distribution Control Based on Intermediate Objective Value** Proc. of 2018 JPNSEC International Workshop on Evolutionary Computation, pp. 20--26, 2018.
 
-## Work experience
+## Work Experience
 **Time Intermedia Corporation, Tokyo, Japan**  
 Apr. 2020 – Present: &nbsp;&nbsp;AI Solution Division  
 Oct. 2019 – Mar. 2020: AI Solution Division (part-time)  
 **National Maritime Research Institute, Mitaka, Tokyo, Japan**  
 Jan. 2019 – Sep. 2019: Marine Risk Assessment (part-time)
 
-## EDUCATION
+## Education
 **The University of Electro-Communications, Chofu, Tokyo, Japan**  
 Apr. 2020 – Present: &nbsp;&nbsp;Doctor &nbsp;of Philosophy in Engineering  
 Apr. 2018 – Mar.2020: &nbsp;Master &nbsp;of Engineering (Informatics)  
 Apr. 2014 – Mar.2018: Bachelor of Engineering (Informatics)
 
-## PROFESSIONAL AND SOCIETY MEMBERSHIPS
+## Professional and Society Memberships
 Feb. 2019 The Japanese Society for Evolutionary Computation
 
 ## Link
