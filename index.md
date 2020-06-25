@@ -5,7 +5,7 @@ title: Tom TKG's Homepage
 
 <img class="profile-picture" src="myface.jpg">
 
-## I am an IT company employee and a Ph.D. student.
+## I am an IT company researcher and a Ph.D. student.
 
 ## Research Interest
 
