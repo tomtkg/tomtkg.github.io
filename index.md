@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tom TKG's Homepage
+description: The site owner is an AI researcher and he is mainly interested in evolutionary computation and multi-objective optimization.　You can see his papers, codes, and images on this site.
 ---
 
 <img class="profile-picture" src="myface.jpg">
