@@ -1,7 +1,7 @@
 title: Tom TKG's Homepage
 description: The site owner is an IT researcher.　You can see his papers, codes, and images on this site.
 url: "https://tomtkg.github.io"
-baseurl: "./index"
+#baseurl: "./"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
