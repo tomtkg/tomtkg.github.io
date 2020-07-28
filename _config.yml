@@ -27,3 +27,7 @@ nav:
    link: "download"
  - name: "Image"
    link: "image"
+ - name: "ホーム"
+   link: "indexJP"
+ - name: "論文リスト"
+   link: "paperJP"
