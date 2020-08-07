@@ -35,7 +35,7 @@ Grey points are feasible solution.
 * [Benchmark MOP for MOEA/D-DE](https://github.com/tomtkg/Test_Functions_for_Multi-objective_Optimization/blob/master/Problems/MOPs%20in%20MOEA-D-DE/README.md)  
 * [Benchmark MOP for MOEA/D-M2M](https://github.com/tomtkg/Test_Functions_for_Multi-objective_Optimization/blob/master/Problems/MOPs%20in%20MOEA-D-M2M/README.md)  
 * [Benchmark MOP for Regularity Model-based - MEDA](https://github.com/tomtkg/Test_Functions_for_Multi-objective_Optimization/blob/master/Problems/MOPs%20in%20RM-MEDA/README.md)  
-* [MW(Constrained benchmark MOP proposed by Ma and Wang)](https://github.com/tomtkg/Test_Functions_for_Multi-objective_Optimization/blob/master/MW/README.md)  
+* [MW(Constrained benchmark MOP proposed by Ma and Wang)](https://github.com/tomtkg/Test_Functions_for_Multi-objective_Optimization/blob/master/Problems/MW/README.md)  
 * [SMOP(Benchmark MOP with sparse Pareto optimal solutions)](https://github.com/tomtkg/Test_Functions_for_Multi-objective_Optimization/blob/master/Problems/Sparse%20MOPs/README.md)  
 * [TREE(The time-varying ratio error estimation problems)](https://github.com/tomtkg/Test_Functions_for_Multi-objective_Optimization/blob/master/Problems/TREE/README.md)  
 * [UF(Unconstrained benchmark MOP)](https://github.com/tomtkg/Test_Functions_for_Multi-objective_Optimization/blob/master/Problems/UF/README.md)  
