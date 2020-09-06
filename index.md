@@ -13,7 +13,7 @@ description: The site owner is an AI researcher and he is mainly interested in e
 Computational Intelligence, Evolutionary Computation, Optimization.
 
 ## Publications
-Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Non-dominated Solution Sampling Using Environmental Selection in EMO algorithms**, Proc. of IEEE Congress on Evolutionary Computation (CEC2020), 2020. (to appear)
+Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Non-dominated Solution Sampling Using Environmental Selection in EMO algorithms**, Proc. of IEEE Congress on Evolutionary Computation (CEC2020), 9 pages, 2020. [WCCI2020](https://wcci2020.org/)
 
 Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Incremental Lattice Design of Weight Vector Set**,  Proc. of ACM Genetic and Evolutionary Computation Conference (GECCO 2020), pp. 1486--1494, 2020. [GECCO2020](https://gecco-2020.sigevo.org/), [DOI](https://dl.acm.org/doi/abs/10.1145/3377929.3398082), [Code](https://github.com/tomtkg/ILD).
 
@@ -38,4 +38,4 @@ Apr. 2014 – Mar.2018: Bachelor of Engineering (Informatics)
 Feb. 2019 The Japanese Society for Evolutionary Computation
 
 ## Link
-[Google Scholar](https://scholar.google.co.jp/citations?user=jsYC8NMAAAAJ), [DBLP](https://dblp.uni-trier.de/pers/hd/t/Takagi:Tomoaki), [Company](https://www.timedia.co.jp), [University](https://www.uec.ac.jp), [Laboratory](http://hs.hc.uec.ac.jp/index.php?%E9%AB%98%E6%9C%A8%20%E6%99%BA%E7%AB%A0), [JPNSEC](http://www.jpnsec.org)
+[GitHub](https://github.com/tomtkg), [Google Scholar](https://scholar.google.co.jp/citations?user=jsYC8NMAAAAJ), [DBLP](https://dblp.uni-trier.de/pers/hd/t/Takagi:Tomoaki), [Company](https://www.timedia.co.jp), [University](https://www.uec.ac.jp), [Laboratory](http://hs.hc.uec.ac.jp/index.php?%E9%AB%98%E6%9C%A8%20%E6%99%BA%E7%AB%A0), [JPNSEC](http://www.jpnsec.org)
