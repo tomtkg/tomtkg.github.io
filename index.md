@@ -13,13 +13,13 @@ description: The site owner is an AI researcher and he is mainly interested in e
 Computational Intelligence, Evolutionary Computation, Optimization.
 
 ## Publications
-Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Non-dominated Solution Sampling Using Environmental Selection in EMO algorithms**, Proc. of IEEE Congress on Evolutionary Computation (CEC2020), 9 pages, 2020. [WCCI2020](https://wcci2020.org/), [Paper](https://ieeexplore.ieee.org/abstract/document/9185529).
+Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Non-dominated Solution Sampling Using Environmental Selection in EMO algorithms**, Proc. of IEEE Congress on Evolutionary Computation (CEC2020), 9 pages, 2020. [WCCI2020](https://wcci2020.org){:target="_blank"}, [Paper](https://ieeexplore.ieee.org/abstract/document/9185529){:target="_blank"}.
 
-Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Incremental Lattice Design of Weight Vector Set**,  Proc. of ACM Genetic and Evolutionary Computation Conference (GECCO 2020), pp. 1486--1494, 2020. [GECCO2020](https://gecco-2020.sigevo.org/), [Paper](https://dl.acm.org/doi/abs/10.1145/3377929.3398082), [Code](https://github.com/tomtkg/ILD).
+Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Incremental Lattice Design of Weight Vector Set**,  Proc. of ACM Genetic and Evolutionary Computation Conference (GECCO 2020), pp. 1486--1494, 2020. [GECCO2020](https://gecco-2020.sigevo.org){:target="_blank"}, [Paper](https://dl.acm.org/doi/abs/10.1145/3377929.3398082){:target="_blank"}, [Code](https://github.com/tomtkg/ILD){:target="_blank"}.
 
-Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Distribution Control of Weight Vector Set for Multi-objective Evolutionary Algorithms**,  Proc. of the Bio-inspired Information and Communication Technologies (BICT 2019), Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering (LNICST), Vol. 289, Springer, Cham, pp. 70--80, 2019. [BICT2019](https://bionetics2019.eai-conferences.org), [Paper](https://doi.org/10.1007/978-3-030-24202-2_6), [Code](https://github.com/tomtkg/MOEA-D-DCWVS).
+Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Distribution Control of Weight Vector Set for Multi-objective Evolutionary Algorithms**,  Proc. of the Bio-inspired Information and Communication Technologies (BICT 2019), Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering (LNICST), Vol. 289, Springer, Cham, pp. 70--80, 2019. [BICT2019](https://bionetics2019.eai-conferences.org){:target="_blank"}, [Paper](https://doi.org/10.1007/978-3-030-24202-2_6){:target="_blank"}, [Code](https://github.com/tomtkg/MOEA-D-DCWVS){:target="_blank"}.
 
-Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Preliminary Study on Weight Vector Distribution Control Based on Intermediate Objective Value**,  Proc. of 2018 JPNSEC International Workshop on Evolutionary Computation, pp. 20--26, 2018. [2018_JPNSEC_IWEC](http://www.jpnsec.org/symposium201802.html).
+Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Preliminary Study on Weight Vector Distribution Control Based on Intermediate Objective Value**,  Proc. of 2018 JPNSEC International Workshop on Evolutionary Computation, pp. 20--26, 2018. [2018_JPNSEC_IWEC](http://www.jpnsec.org/symposium201802.html){:target="_blank"}.
 
 ## Work Experience
 **TIMEINTERMEDIA, Inc., Tokyo, Japan**  

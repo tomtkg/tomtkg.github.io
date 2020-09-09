@@ -44,10 +44,10 @@ Grey points are feasible solution.
 * [ZDT(Benchmark MOP proposed by Zitzler, Deb, and Thiele)](https://github.com/tomtkg/Test_Functions_for_Multi-objective_Optimization/blob/master/Problems/ZDT/README.md)  
 
 ## Others
-I use [PlatEMO](https://github.com/BIMK/PlatEMO/). Some Problems directory files and Public directory files are same as PlatEMO.  
+I use [PlatEMO](https://github.com/BIMK/PlatEMO/){:target="_blank"}. Some Problems directory files and Public directory files are same as PlatEMO.  
 I hope visitors can help their visual understanding of multi-objective optimization problem.
  
 Reference  
-Ye Tian, Ran Cheng, Xingyi Zhang, and Yaochu Jin, [PlatEMO](https://github.com/BIMK/PlatEMO/): A MATLAB platform
+Ye Tian, Ran Cheng, Xingyi Zhang, and Yaochu Jin, [PlatEMO](https://github.com/BIMK/PlatEMO/){:target="_blank"}: A MATLAB platform
 for evolutionary multi-objective optimization [educational forum], IEEE
 Computational Intelligence Magazine, 2017, 12(4): 73-87".  
