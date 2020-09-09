@@ -11,7 +11,7 @@ title: Tom TKG's Homepage
 1. 高木智章, 髙玉圭樹, 佐藤寛之: **進化計算による多目的最適化における重みベクトル群の適応配置に関する基礎検討**, 第16回進化計算学会研究会, pp. 28--32, 2019.
 1. 高木智章, 髙玉圭樹, 佐藤寛之: **非劣解サンプリングのための多目的進化計算における環境選択法の比較評価**, 進化計算シンポジウム2019, pp. 143--151, 2019.
 1. 高木智章, 髙玉圭樹, 佐藤寛之: **多目的意思決定支援のためのパレートフロントの上位集合の獲得に関する検討**, 第17回進化計算学会研究会, pp. 40--47, 2020.
-1. 高木智章, 髙玉圭樹, 佐藤寛之: **仮想目的ベクトル群によるパレートフロントの形状推定**, 第18回進化計算学会研究会, 2020.
+1. 高木智章, 髙玉圭樹, 佐藤寛之: **仮想目的ベクトル群によるパレートフロントの形状推定**, 第18回進化計算学会研究会, pp. 46--54, 2020.
 
 ## 共著国際会議論文
 1. Kensuke Kano, Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Preliminary Study of Adaptive Grid-based Decomposition on Many-objective Evolutionary Optimization**, Proc. of ACM Genetic and Evolutionary Computation Conference (GECCO 2020), pp. 1486--1494, 2020.
