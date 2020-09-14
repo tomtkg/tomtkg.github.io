@@ -1,0 +1,54 @@
+<html>
+<head>
+<script type="text/javascript" src="plotly-latest.min.js" charset="utf-8"></script>
+<title>scatter test</title>
+</head>
+<body>
+<div id="scatter"></div>
+<script language="JavaScript" type="text/javascript">
+
+var count = 11;
+var values = new Array(count);
+var stepdata = new Array(count);
+
+for(let i = 0; i < count; i++) {
+  values[i] = i/10
+  stepdata[i] = {
+      label: i+1,
+      method: 'restyle',
+      args: ['marker.maxdisplayed', i+1]
+    };
+}
+var data = [
+{
+    type:'scatter',
+    mode:'markers',
+    x:values,
+    y:values,
+    text:values,
+    marker:{
+        colorscale:'Viridis',
+        color : values,
+    }
+}
+];
+Plotly.newPlot('scatter', data, {
+  title:{text:'Test'},
+  width:750,
+  height:800,
+  sliders: [{
+    pad: {t: 30},
+    currentvalue: {
+      xanchor: 'right',
+      prefix: 'Point size: ',
+      font: {
+        color: '#888',
+        size: 20
+      }
+    },
+    steps: stepdata
+  }]
+});
+</script>
+</body>
+</html>
