@@ -4,7 +4,6 @@ url: "https://tomtkg.github.io"
 #baseurl: "./"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
 
 tracking_id: UA-170789008-1
 
@@ -27,5 +26,9 @@ nav:
    link: "download"
  - name: "Image"
    link: "image"
- - name: "論文リスト"
+ - name: "Animation"
+   link: "animation"
+ - name: "Paper"
+   link: "paper"
+ - name: "論文"
    link: "paperJP"
