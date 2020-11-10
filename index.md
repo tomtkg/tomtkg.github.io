@@ -13,9 +13,9 @@ description: The site owner is an AI researcher and he is mainly interested in e
 Computational Intelligence, Evolutionary Computation, Optimization.
 
 ## Publications
-Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Non-dominated Solution Sampling Using Environmental Selection in EMO algorithms**, Proc. of IEEE Congress on Evolutionary Computation (CEC2020), 9 pages, 2020. [WCCI2020](https://wcci2020.org){:target="_blank"}, [DOI](https://doi.org/10.1109/CEC48606.2020.9185529){:target="_blank"}.
+Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Non-dominated Solution Sampling Using Environmental Selection in EMO algorithms**, Proc. of IEEE Congress on Evolutionary Computation (CEC2020), pp. 1--9, 2020. [WCCI2020](https://wcci2020.org){:target="_blank"}, [DOI](https://doi.org/10.1109/CEC48606.2020.9185529){:target="_blank"}.
 
-Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Incremental Lattice Design of Weight Vector Set**,  Proc. of ACM Genetic and Evolutionary Computation Conference (GECCO 2020), pp. 1486--1494, 2020. [GECCO2020](https://gecco-2020.sigevo.org){:target="_blank"}, [DOI](https://doi.org/10.1145/3377929.3398082){:target="_blank"}, [Code](https://github.com/tomtkg/ILD){:target="_blank"}.
+Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Incremental Lattice Design of Weight Vector Set**,  Proc. of ACM Genetic and Evolutionary Computation Conference (GECCO 2020), pp. 1486--1494, 2020. [GECCO2020](https://gecco-2020.sigevo.org){:target="_blank"}, [DOI](https://doi.org/10.1145/3377929.3398082){:target="_blank"}, [Code](https://github.com/tomtkg/ILD){:target="_blank"}, [Zip](/data/ILD-master.zip).
 
 ## Work Experience
 **TIMEINTERMEDIA, Inc., Tokyo, Japan**  

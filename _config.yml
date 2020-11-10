@@ -22,8 +22,6 @@ sass:
 nav:
  - name: "Home"
    link: "index"
- - name: "Download"
-   link: "download"
  - name: "Image"
    link: "image"
  - name: "Animation"
@@ -32,3 +30,4 @@ nav:
    link: "paper"
  - name: "論文"
    link: "paperJP"
+   
