@@ -12,3 +12,4 @@ title: Tom TKG's Homepage
 ## Conference Paper (Second Author)
 1. Kensuke Kano, Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Preliminary Study of Adaptive Grid-based Decomposition on Many-objective Evolutionary Optimization**, Proc. of ACM Genetic and Evolutionary Computation Conference (GECCO 2020), pp. 1486--1494, 2020.
 1. Kohei Yamamoto, Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Visual Mapping of Multi-objective Optimization Problems and Evolutionary Algorithms**, Proc. of ACM Genetic and Evolutionary Computation Conference (GECCO 2020), pp. 1872--1879, 2020.
+1. Ryo Kumagai, Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Study on Multi-objective Evolutionary Stage Generation Using MarioGAN**, Proc. of The 7th UEC Seminar in ASEAN, 2020 and The 2nd ASEAN-UEC Workshop on Energy and AI, 2020.
