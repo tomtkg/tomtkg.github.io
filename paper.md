@@ -10,6 +10,7 @@ title: Tom TKG's Homepage
 1. Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Non-dominated Solution Sampling Using Environmental Selection in EMO algorithms**, Proc. of IEEE Congress on Evolutionary Computation (CEC2020), pp. 1--9, 2020. [WCCI2020](https://wcci2020.org){:target="_blank"}, [DOI](https://doi.org/10.1109/CEC48606.2020.9185529){:target="_blank"}.
 
 ## Conference Paper (Second Author)
-1. Kensuke Kano, Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Preliminary Study of Adaptive Grid-based Decomposition on Many-objective Evolutionary Optimization**, Proc. of ACM Genetic and Evolutionary Computation Conference (GECCO 2020), pp. 1486--1494, 2020.
+1. Kensuke Kano, Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Preliminary Study of Adaptive Grid-based Decomposition on Many-objective Evolutionary Optimization**, Proc. of ACM Genetic and Evolutionary Computation Conference (GECCO 2020), pp. 1373--1380, 2020.
 1. Kohei Yamamoto, Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Visual Mapping of Multi-objective Optimization Problems and Evolutionary Algorithms**, Proc. of ACM Genetic and Evolutionary Computation Conference (GECCO 2020), pp. 1872--1879, 2020.
 1. Ryo Kumagai, Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Study on Multi-objective Evolutionary Stage Generation Using MarioGAN**, Proc. of The 7th UEC Seminar in ASEAN, 2020 and The 2nd ASEAN-UEC Workshop on Energy and AI, 2020.
+1. Shio Kawakami, Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Distance Minimization Problems for Multi-factorial Evolutionary Optimization Benchmarking**, The 12th World Congress on Nature and Biologically Inspired Computing (NaBIC 2020), 2020. (to appear)
