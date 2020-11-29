@@ -5,9 +5,9 @@ title: Tom TKG's Homepage
 
 ## GIF Animation
 ### Ackley function: Minimize <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" id="MathJax-script">f(\bm{x}) = -20 \exp(-0.2 \sqrt{\frac{1}{n} \sum_{i=1}^n x_i^2}) - \exp(\frac{1}{n} \sum_{i=1}^n \cos(2\pi x_i)) + 20 + \exp(1)</script>
-<a href="./AckleyGA.gif"><img src="animation/AckleyGA.gif"></a><a href="./AckleyEP.gif"><img src="animation/AckleyEP.gif"></a><a href="./AckleyPBIL.gif"><img src="image/AckleyPBIL.gif"></a>
+<a href="animation/AckleyGA.gif"><img src="animation/AckleyGA.gif"></a><a href="animation/AckleyEP.gif"><img src="animation/AckleyEP.gif"></a><a href="animation/AckleyPBIL.gif"><img src="image/AckleyPBIL.gif"></a>
 
-<a href="./AckleyDE.gif"><img src="animation/AckleyDE.svg"></a><a href="./AckleyPSO.gif"><img src="animation/AckleyPSO.svg"></a><a href="./AckleyAS.gif"><img src="animation/AckleyAS.svg"></a>
+<a href="animation/AckleyDE.gif"><img src="animation/AckleyDE.gif"></a><a href="animation/AckleyPSO.gif"><img src="animation/AckleyPSO.gif"></a><a href="animation/AckleyAS.gif"><img src="animation/AckleyAS.gif"></a>
 
 ## Javascript Animation
 ### Weight Vector Generation Method
