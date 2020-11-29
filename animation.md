@@ -7,7 +7,9 @@ use_math: true
 ## GIF Animation
 ### Ackley function:
 $$ \text{Minimize } f(\boldsymbol{x}) = -20 \exp(-0.2 \sqrt{\frac{1}{n} \sum_{i=1}^n x_i^2}) - \exp(\frac{1}{n} \sum_{i=1}^n \cos(2\pi x_i)) + 20 + \exp(1)$$  
-$$-5 \leq x_i \leq 5, f^*(\boldsymbol{x}) = (0,0,\dots,0)=0 $$  
+$$-5 \leq x_i \leq 5$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) = (0,0,\dots,0)=0 $$
+
+
 &nbsp;&nbsp;Genetic Algorithm, GA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Evolutionary Programming, EP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDA-PBIL
 <a href="animation/AckleyGA.gif"><img src="animation/AckleyGA.gif"></a><a href="animation/AckleyEP.gif"><img src="animation/AckleyEP.gif"></a><a href="animation/AckleyPBIL.gif"><img src="animation/AckleyPBIL.gif"></a>
 
@@ -16,7 +18,9 @@ $$-5 \leq x_i \leq 5, f^*(\boldsymbol{x}) = (0,0,\dots,0)=0 $$
 
 ### Rosenbrock function:
 $$ \text{Minimize } f(\boldsymbol{x}) = \sum_{i=1}^{n-1} (100(x_{i+1}-x_i^2)^2+(1-x_i)^2)$$  
-$$-5 \leq x_i \leq 5, f^*(\boldsymbol{x}) = (1,1,\dots,0)=0 $$  
+$$-5 \leq x_i \leq 5$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) = (1,1,\dots,0)=0 $$
+
+
 &nbsp;&nbsp;Genetic Algorithm, GA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Evolutionary Programming, EP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDA-PBIL
 <a href="animation/RosenbrockGA.gif"><img src="animation/RosenbrockGA.gif"></a><a href="animation/RosenbrockEP.gif"><img src="animation/RosenbrockEP.gif"></a><a href="animation/RosenbrockPBIL.gif"><img src="animation/RosenbrockPBIL.gif"></a>
 
@@ -25,7 +29,9 @@ $$-5 \leq x_i \leq 5, f^*(\boldsymbol{x}) = (1,1,\dots,0)=0 $$
 
 ### Sphere function:
 $$ \text{Minimize } f(\boldsymbol{x}) = \sum_{i=1}^n x_i^2$$  
-$$-5 \leq x_i \leq 5, f^*(\boldsymbol{x}) = (0,0,\dots,0)=0 $$  
+$$-5 \leq x_i \leq 5$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) = (0,0,\dots,0)=0 $$
+
+
 &nbsp;&nbsp;Genetic Algorithm, GA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Evolutionary Programming, EP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDA-PBIL
 <a href="animation/SphereGA.gif"><img src="animation/SphereGA.gif"></a><a href="animation/SphereEP.gif"><img src="animation/SphereEP.gif"></a><a href="animation/SpherePBIL.gif"><img src="animation/SpherePBIL.gif"></a>
 
