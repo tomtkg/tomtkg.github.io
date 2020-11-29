@@ -4,11 +4,15 @@ title: Tom TKG's Homepage
 ---
 
 ## GIF Animation
-### Ackley function:$$ \mbox{Minimize} f(\bm{x}) = -20 \exp(-0.2 \sqrt{\frac{1}{n} \sum_{i=1}^n x_i^2}) - \exp(\frac{1}{n} \sum_{i=1}^n \cos(2\pi x_i)) + 20 + \exp(1)$$
- {% endraw %}
-<a href="animation/AckleyGA.gif"><img src="animation/AckleyGA.gif"></a><a href="animation/AckleyEP.gif"><img src="animation/AckleyEP.gif"></a><a href="animation/AckleyPBIL.gif"><img src="animation/AckleyPBIL.gif"></a>
+### Ackley function: <img src="animation/Ackley.PNG">
+<a href="animation/AckleyGA.gif"><img src="animation/AckleyGA.gif" width="200"></a>
+<a href="animation/AckleyEP.gif"><img src="animation/AckleyEP.gif" width="200"></a>
 
-<a href="animation/AckleyDE.gif"><img src="animation/AckleyDE.gif"></a><a href="animation/AckleyPSO.gif"><img src="animation/AckleyPSO.gif"></a><a href="animation/AckleyAS.gif"><img src="animation/AckleyAS.gif"></a>
+<a href="animation/AckleyAS.gif"><img src="animation/AckleyAS.gif"></a>
+<a href="animation/AckleyPBIL.gif"><img src="animation/AckleyPBIL.gif"></a>
+
+<a href="animation/AckleyDE.gif"><img src="animation/AckleyDE.gif" width="250"></a>
+<a href="animation/AckleyPSO.gif"><img src="animation/AckleyPSO.gif" width="250"></a>
 
 ## Javascript Animation
 ### Weight Vector Generation Method
