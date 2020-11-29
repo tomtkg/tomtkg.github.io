@@ -5,7 +5,7 @@ latex: true
 ---
 
 ## GIF Animation
-### Ackley function: $E = mc^2$ and $$E = mc^2$$ and \[E = mc^2\] and \(E = mc^2\)
+### Ackley function: [text] $E = mc^2$ and $$E = mc^2$$ and \[E = mc^2\] and \(E = mc^2\) and \\(E = mc^2\\) [text]
 <a href="animation/AckleyGA.gif"><img src="animation/AckleyGA.gif"></a><a href="animation/AckleyEP.gif"><img src="animation/AckleyEP.gif"></a><a href="animation/AckleyPBIL.gif"><img src="animation/AckleyPBIL.gif"></a>
 
 <a href="animation/AckleyDE.gif"><img src="animation/AckleyDE.gif"></a><a href="animation/AckleyPSO.gif"><img src="animation/AckleyPSO.gif"></a><a href="animation/AckleyAS.gif"><img src="animation/AckleyAS.gif"></a>
