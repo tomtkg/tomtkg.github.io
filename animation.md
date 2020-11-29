@@ -8,9 +8,10 @@ use_math: true
 ### Ackley function:
 $$ \text{Minimize } f(\boldsymbol{x}) = -20 \exp(-0.2 \sqrt{\frac{1}{n} \sum_{i=1}^n x_i^2}) - \exp(\frac{1}{n} \sum_{i=1}^n \cos(2\pi x_i)) + 20 + \exp(1)$$  
 $$(-5 \leq x_i \leq 5)$$  
-Genetic Algorithm, GA~~~~~~~~~~~Evolutionary Programming, EP~~~~~~~~~~~Probability Based Incremental Learning, PBIL
+Genetic Algorithm, Evolutionary Programming, and Probability Based Incremental Learning  
 <a href="animation/AckleyGA.gif"><img src="animation/AckleyGA.gif"></a><a href="animation/AckleyEP.gif"><img src="animation/AckleyEP.gif"></a><a href="animation/AckleyPBIL.gif"><img src="animation/AckleyPBIL.gif"></a>
 
+Differential Evolution, Particle Swarm Optimization, and Ant System  
 <a href="animation/AckleyDE.gif"><img src="animation/AckleyDE.gif"></a><a href="animation/AckleyPSO.gif"><img src="animation/AckleyPSO.gif"></a><a href="animation/AckleyAS.gif"><img src="animation/AckleyAS.gif"></a>
 
 ## Javascript Animation
