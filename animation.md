@@ -1,18 +1,14 @@
 ---
 layout: default
 title: Tom TKG's Homepage
+latex: true
 ---
 
 ## GIF Animation
-### Ackley function: <img src="animation/Ackley.PNG">
-<a href="animation/AckleyGA.gif"><img src="animation/AckleyGA.gif" width="200"></a>
-<a href="animation/AckleyEP.gif"><img src="animation/AckleyEP.gif" width="200"></a>
+### Ackley function: $E = mc^2$ and $$E = mc^2$$
+<a href="animation/AckleyGA.gif"><img src="animation/AckleyGA.gif"></a><a href="animation/AckleyEP.gif"><img src="animation/AckleyEP.gif"></a><a href="animation/AckleyPBIL.gif"><img src="animation/AckleyPBIL.gif"></a>
 
-<a href="animation/AckleyAS.gif"><img src="animation/AckleyAS.gif"></a>
-<a href="animation/AckleyPBIL.gif"><img src="animation/AckleyPBIL.gif"></a>
-
-<a href="animation/AckleyDE.gif"><img src="animation/AckleyDE.gif" width="250"></a>
-<a href="animation/AckleyPSO.gif"><img src="animation/AckleyPSO.gif" width="250"></a>
+<a href="animation/AckleyDE.gif"><img src="animation/AckleyDE.gif"></a><a href="animation/AckleyPSO.gif"><img src="animation/AckleyPSO.gif"></a><a href="animation/AckleyAS.gif"><img src="animation/AckleyAS.gif"></a>
 
 ## Javascript Animation
 ### Weight Vector Generation Method
