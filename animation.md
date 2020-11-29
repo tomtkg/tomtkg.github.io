@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tom TKG's Homepage
-latex: true
+use_math: true
 ---
 
 ## GIF Animation
