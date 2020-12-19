@@ -17,6 +17,10 @@ Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Non-dominated Solution Samp
 
 Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Incremental Lattice Design of Weight Vector Set**,  Proc. of ACM Genetic and Evolutionary Computation Conference (GECCO 2020), pp. 1486--1494, 2020. [GECCO2020](https://gecco-2020.sigevo.org){:target="_blank"}, [DOI](https://doi.org/10.1145/3377929.3398082){:target="_blank"}, [Code](https://github.com/tomtkg/ILD){:target="_blank"}, [Zip](/data/ILD-master.zip).
 
+## Awards
+Winner of [the Evolutionary Computation Competition 2020 (EC-Comp 2020)](https://ec-comp.jpnsec.org/competitions/eccomp2020){:target="_blank"} on Single-Objective Track.  
+Winner of [the Evolutionary Computation Competition 2020 (EC-Comp 2020)](https://ec-comp.jpnsec.org/competitions/eccomp2020){:target="_blank"} on Multi-Objective Track.  
+
 ## Work Experience
 **TIMEINTERMEDIA, Inc., Tokyo, Japan**  
 Apr. 2020 – Present: &nbsp;&nbsp;AI Solution Division  
