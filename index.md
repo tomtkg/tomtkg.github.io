@@ -18,7 +18,7 @@ Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Non-dominated Solution Samp
 Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Incremental Lattice Design of Weight Vector Set**,  Proc. of ACM Genetic and Evolutionary Computation Conference (GECCO 2020), pp. 1486--1494, 2020. [GECCO2020](https://gecco-2020.sigevo.org){:target="_blank"}, [DOI](https://doi.org/10.1145/3377929.3398082){:target="_blank"}, [Code](https://github.com/tomtkg/ILD){:target="_blank"}, [Zip](/data/ILD-master.zip).
 
 ## Awards
-IEEE Computational Intelligence Society Japan Chapter Young Researcher Award presented in the 2020 Symposium on Evolutionary Computation.  
+IEEE CIS Japan Chapter Young Researcher Award presented in [the 2020 Symposium on Evolutionary Computation](http://www.jpnsec.org/symposium202003.html).  
 Winner of [the Evolutionary Computation Competition 2020 (EC-Comp 2020)](https://ec-comp.jpnsec.org/competitions/eccomp2020){:target="_blank"} on Single-Objective Track.  
 Winner of [the Evolutionary Computation Competition 2020 (EC-Comp 2020)](https://ec-comp.jpnsec.org/competitions/eccomp2020){:target="_blank"} on Multi-Objective Track.  
 
@@ -40,5 +40,5 @@ Dec. 2020 Institute of Electrical and Electronics Engineers (IEEE)
 Feb. 2019 The Japanese Society for Evolutionary Computation (JPNSEC)  
 
 ## Link
-[GitHub](https://github.com/tomtkg), [Google Scholar](https://scholar.google.co.jp/citations?user=jsYC8NMAAAAJ), [DBLP](https://dblp.uni-trier.de/pers/hd/t/Takagi:Tomoaki), [ORCID](https://orcid.org/0000-0003-3748-9797), [IEEE](https://ieee-collabratec.ieee.org/app/p/TomoakiTakagi739144), [Company](https://www.timedia.co.jp), [University](https://www.uec.ac.jp), [Laboratory](http://hs.hc.uec.ac.jp/index.php?%E9%AB%98%E6%9C%A8%20%E6%99%BA%E7%AB%A0), [JPNSEC](http://www.jpnsec.org).
+[GitHub](https://github.com/tomtkg), [Google Scholar](https://scholar.google.co.jp/citations?user=jsYC8NMAAAAJ), [DBLP](https://dblp.uni-trier.de/pers/hd/t/Takagi:Tomoaki), [ORCID](https://orcid.org/0000-0003-3748-9797), [IEEE](https://ieee-collabratec.ieee.org/app/p/tomtkg), [Company](https://www.timedia.co.jp), [University](https://www.uec.ac.jp), [Laboratory](http://hs.hc.uec.ac.jp/index.php?%E9%AB%98%E6%9C%A8%20%E6%99%BA%E7%AB%A0), [JPNSEC](http://www.jpnsec.org).
 
