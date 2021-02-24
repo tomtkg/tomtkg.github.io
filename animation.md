@@ -5,6 +5,16 @@ use_math: true
 ---
 
 ## GIF Animation
+### OneMax problem:
+$$ \text{Maxmize } f(\boldsymbol{x}) = \sum_{i=1}^n \cases{1 & \text{if } x_i=0\cr 0 & \text{if } x=0}$$  
+$$x_i \in \{0,1\} \leq 5$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) = (1,1,\dots,1)$$
+<a href="animation/OneMax.gif"><img src="animation/OneMax.gif"></a>
+
+### Extended OneMax problem:
+$$ \text{Maxmize } f(\boldsymbol{x}) = \sum_{i=1}^n \cases{1 & \text{if } x_i=0\cr 0 & \text{otherwise}}$$  
+$$x_i \in \{0,1,\dots,5\} \leq 5$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) = (1,1,\dots,1)$$
+<a href="animation/OneMax2.gif"><img src="animation/OneMax2.gif"></a>
+
 ### Ackley function:
 $$ \text{Minimize } f(\boldsymbol{x}) = -20 \exp(-0.2 \sqrt{\frac{1}{n} \sum_{i=1}^n x_i^2}) - \exp(\frac{1}{n} \sum_{i=1}^n \cos(2\pi x_i)) + 20 + \exp(1)$$  
 $$-5 \leq x_i \leq 5$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) = (0,0,\dots,0)=0 $$
