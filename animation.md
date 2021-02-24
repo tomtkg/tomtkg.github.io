@@ -6,13 +6,13 @@ use_math: true
 
 ## GIF Animation
 ### OneMax problem:
-$$ \text{Maxmize } f(\boldsymbol{x}) = \sum_{i=1}^n \cases{1 & \text{if } x_i=0\cr 0 & \text{if } x=0}$$  
+$$ \text{Maxmize } f(\boldsymbol{x}) = \sum_{i=1}^n F(x_i) = \cases{1 & \text{if } x_i=0\cr 0 & \text{if } x_i=0}$$  
 $$x_i \in \{0,1\}$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) = (1,1,\dots,1)$$
 
 <a href="animation/OneMax.gif"><img src="animation/OneMax.gif" width="750" height="530"></a>
 
 ### Extended OneMax problem:
-$$ \text{Maxmize } f(\boldsymbol{x}) = \sum_{i=1}^n \cases{1 & \text{if } x_i=0\cr 0 & \text{otherwise}}$$  
+$$ \text{Maxmize } f(\boldsymbol{x}) = \sum_{i=1}^n F(x_i) = \cases{1 & \text{if } x_i=0\cr 0 & \text{otherwise}}$$  
 $$x_i \in \{0,1,\dots,5\}$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) = (1,1,\dots,1)$$
 
 <a href="animation/OneMax2.gif"><img src="animation/OneMax2.gif" width="750" height="530"></a>
