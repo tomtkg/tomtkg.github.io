@@ -23,6 +23,7 @@ $$-5 \leq x_i \leq 5$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) 
 
 
 &nbsp;&nbsp;Genetic Algorithm, GA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Evolutionary Programming, EP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDA-PBIL
+
 <a href="animation/AckleyGA.gif"><img src="animation/AckleyGA.gif" width="250"/></a><a href="animation/AckleyEP.gif"><img src="animation/AckleyEP.gif" width="250"/></a><a href="animation/AckleyPBIL.gif"><img src="animation/AckleyPBIL.gif" width="250"/></a>
 
 &nbsp;&nbsp;Differential Evolution, DE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Particle Swarm Optimization, PSO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ant System, AS  
@@ -34,7 +35,7 @@ $$-5 \leq x_i \leq 5$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) 
 
 
 &nbsp;&nbsp;Genetic Algorithm, GA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Evolutionary Programming, EP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDA-PBIL
-<a href="animation/RosenbrockGA.gif"><img src="animation/RosenbrockGA.gif"></a><a href="animation/RosenbrockEP.gif"><img src="animation/RosenbrockEP.gif"></a><a href="animation/RosenbrockPBIL.gif"><img src="animation/RosenbrockPBIL.gif"></a>
+<a href="animation/RosenbrockGA.gif"><img src="animation/RosenbrockGA.gif" width="249"/></a><a href="animation/RosenbrockEP.gif"><img src="animation/RosenbrockEP.gif" width="249"/></a><a href="animation/RosenbrockPBIL.gif"><img src="animation/RosenbrockPBIL.gif" width="249"/></a>
 
 &nbsp;&nbsp;Differential Evolution, DE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Particle Swarm Optimization, PSO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ant System, AS  
 <a href="animation/RosenbrockDE.gif"><img src="animation/RosenbrockDE.gif"></a><a href="animation/RosenbrockPSO.gif"><img src="animation/RosenbrockPSO.gif"></a><a href="animation/RosenbrockAS.gif"><img src="animation/RosenbrockAS.gif"></a>
