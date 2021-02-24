@@ -22,7 +22,7 @@ $$ \text{Minimize } f(\boldsymbol{x}) = -20 \exp(-0.2 \sqrt{\frac{1}{n} \sum_{i=
 $$-5 \leq x_i \leq 5$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) = (0,0,\dots,0)=0 $$
 
 &nbsp;&nbsp;Genetic Algorithm, GA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Evolutionary Programming, EP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDA-PBIL
-<a href="animation/AckleyGA.gif"><img src="animation/AckleyGA.gif" width="233"/></a><a href="animation/AckleyEP.gif"><img src="animation/AckleyEP.gif" width="233"/></a><a href="animation/AckleyPBIL.gif"><img src="animation/AckleyPBIL.gif" width="233"/></a>
+<a href="animation/AckleyGA.gif"><img src="animation/AckleyGA.gif" width="230"/></a><a href="animation/AckleyEP.gif"><img src="animation/AckleyEP.gif" width="230"/></a><a href="animation/AckleyPBIL.gif"><img src="animation/AckleyPBIL.gif" width="230"/></a>
 
 &nbsp;&nbsp;Differential Evolution, DE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Particle Swarm Optimization, PSO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ant System, AS  
 <a href="animation/AckleyDE.gif"><img src="animation/AckleyDE.gif" width="230"/></a><a href="animation/AckleyPSO.gif"><img src="animation/AckleyPSO.gif" width="230"/></a><a href="animation/AckleyAS.gif"><img src="animation/AckleyAS.gif" width="230"/></a>
@@ -32,10 +32,10 @@ $$ \text{Minimize } f(\boldsymbol{x}) = \sum_{i=1}^{n-1} (100(x_{i+1}-x_i^2)^2+(
 $$-5 \leq x_i \leq 5$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) = (1,1,\dots,1)=0 $$
 
 &nbsp;&nbsp;Genetic Algorithm, GA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Evolutionary Programming, EP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDA-PBIL
-<a href="animation/RosenbrockGA.gif"><img src="animation/RosenbrockGA.gif" width="226"/></a><a href="animation/RosenbrockEP.gif"><img src="animation/RosenbrockEP.gif" width="226"/></a><a href="animation/RosenbrockPBIL.gif"><img src="animation/RosenbrockPBIL.gif" width="226"/></a>
+<a href="animation/RosenbrockGA.gif"><img src="animation/RosenbrockGA.gif" width="230"/></a><a href="animation/RosenbrockEP.gif"><img src="animation/RosenbrockEP.gif" width="230"/></a><a href="animation/RosenbrockPBIL.gif"><img src="animation/RosenbrockPBIL.gif" width="230"/></a>
 
 &nbsp;&nbsp;Differential Evolution, DE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Particle Swarm Optimization, PSO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ant System, AS  
-<a href="animation/RosenbrockDE.gif"><img src="animation/RosenbrockDE.gif"></a><a href="animation/RosenbrockPSO.gif"><img src="animation/RosenbrockPSO.gif"></a><a href="animation/RosenbrockAS.gif"><img src="animation/RosenbrockAS.gif"></a>
+<a href="animation/RosenbrockDE.gif"><img src="animation/RosenbrockDE.gif" width="230"/></a><a href="animation/RosenbrockPSO.gif"><img src="animation/RosenbrockPSO.gif" width="230"/></a><a href="animation/RosenbrockAS.gif"><img src="animation/RosenbrockAS.gif" width="230"/></a>
 
 ### Sphere function:
 $$ \text{Minimize } f(\boldsymbol{x}) = \sum_{i=1}^n x_i^2$$  
@@ -43,10 +43,10 @@ $$-5 \leq x_i \leq 5$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) 
 
 
 &nbsp;&nbsp;Genetic Algorithm, GA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Evolutionary Programming, EP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDA-PBIL
-<a href="animation/SphereGA.gif"><img src="animation/SphereGA.gif"></a><a href="animation/SphereEP.gif"><img src="animation/SphereEP.gif"></a><a href="animation/SpherePBIL.gif"><img src="animation/SpherePBIL.gif"></a>
+<a href="animation/SphereGA.gif"><img src="animation/SphereGA.gif" width="230"/></a><a href="animation/SphereEP.gif"><img src="animation/SphereEP.gif" width="230"/></a><a href="animation/SpherePBIL.gif"><img src="animation/SpherePBIL.gif" width="230"/></a>
 
 &nbsp;&nbsp;Differential Evolution, DE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Particle Swarm Optimization, PSO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ant System, AS  
-<a href="animation/SphereDE.gif"><img src="animation/SphereDE.gif"></a><a href="animation/SpherePSO.gif"><img src="animation/SpherePSO.gif"></a><a href="animation/SphereAS.gif"><img src="animation/SphereAS.gif"></a>
+<a href="animation/SphereDE.gif"><img src="animation/SphereDE.gif" width="230"/></a><a href="animation/SpherePSO.gif"><img src="animation/SpherePSO.gif" width="230"/></a><a href="animation/SphereAS.gif"><img src="animation/SphereAS.gif" width="230"/></a>
 
 ## Javascript Animation
 ### Weight Vector Generation Method
