@@ -23,7 +23,7 @@ $$-5 \leq x_i \leq 5$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) 
 
 
 &nbsp;&nbsp;Genetic Algorithm, GA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Evolutionary Programming, EP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDA-PBIL
-<a href="animation/AckleyGA.gif"><img src="animation/AckleyGA.gif" width="750/3"></a><a href="animation/AckleyEP.gif"><img src="animation/AckleyEP.gif" width="750/3"></a><a href="animation/AckleyPBIL.gif"><img src="animation/AckleyPBIL.gif" width="750/3"></a>
+<a href="animation/AckleyGA.gif"><img src="animation/AckleyGA.gif" width="250"/></a><a href="animation/AckleyEP.gif"><img src="animation/AckleyEP.gif" width="250"/></a><a href="animation/AckleyPBIL.gif"><img src="animation/AckleyPBIL.gif" width="250"/></a>
 
 &nbsp;&nbsp;Differential Evolution, DE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Particle Swarm Optimization, PSO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ant System, AS  
 <a href="animation/AckleyDE.gif"><img src="animation/AckleyDE.gif"></a><a href="animation/AckleyPSO.gif"><img src="animation/AckleyPSO.gif"></a><a href="animation/AckleyAS.gif"><img src="animation/AckleyAS.gif"></a>
