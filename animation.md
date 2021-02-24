@@ -9,13 +9,13 @@ use_math: true
 $$ \text{Maxmize } f(\boldsymbol{x}) = \sum_{i=1}^n F(x_i) = \cases{1 & \text{if } x_i=1\cr 0 & \text{if } x_i=0}$$  
 $$x_i \in \{0,1\}$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) = (1,1,\dots,1)$$
 
-<a href="animation/OneMax.gif"><img src="animation/OneMax.gif" width="750" height="530"></a>
+<a href="animation/OneMax.gif"><img src="animation/OneMax.gif" width="750"></a>
 
 ### Extended OneMax problem:
 $$ \text{Maxmize } f(\boldsymbol{x}) = \sum_{i=1}^n F(x_i) = \cases{1 & \text{if } x_i=1\cr 0 & \text{otherwise}}$$  
 $$x_i \in \{0,1,\dots,5\}$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) = (1,1,\dots,1)$$
 
-<a href="animation/OneMax2.gif"><img src="animation/OneMax2.gif" width="750" height="530"></a>
+<a href="animation/OneMax2.gif"><img src="animation/OneMax2.gif" width="750"></a>
 
 ### Ackley function:
 $$ \text{Minimize } f(\boldsymbol{x}) = -20 \exp(-0.2 \sqrt{\frac{1}{n} \sum_{i=1}^n x_i^2}) - \exp(\frac{1}{n} \sum_{i=1}^n \cos(2\pi x_i)) + 20 + \exp(1)$$  
@@ -23,7 +23,7 @@ $$-5 \leq x_i \leq 5$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) 
 
 
 &nbsp;&nbsp;Genetic Algorithm, GA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Evolutionary Programming, EP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDA-PBIL
-<a href="animation/AckleyGA.gif"><img src="animation/AckleyGA.gif"></a><a href="animation/AckleyEP.gif"><img src="animation/AckleyEP.gif"></a><a href="animation/AckleyPBIL.gif"><img src="animation/AckleyPBIL.gif"></a>
+<a href="animation/AckleyGA.gif"><img src="animation/AckleyGA.gif" width="750/3"></a><a href="animation/AckleyEP.gif"><img src="animation/AckleyEP.gif" width="750/3"></a><a href="animation/AckleyPBIL.gif"><img src="animation/AckleyPBIL.gif" width="750/3"></a>
 
 &nbsp;&nbsp;Differential Evolution, DE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Particle Swarm Optimization, PSO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ant System, AS  
 <a href="animation/AckleyDE.gif"><img src="animation/AckleyDE.gif"></a><a href="animation/AckleyPSO.gif"><img src="animation/AckleyPSO.gif"></a><a href="animation/AckleyAS.gif"><img src="animation/AckleyAS.gif"></a>
