@@ -6,26 +6,27 @@ use_math: true
 
 ## GIF Animation
 ### OneMax problem:
-$$ \text{Maxmize } f(\boldsymbol{x}) = \sum_{i=1}^n F(x_i),  F(x_i) = \cases{1 & \text{if } x_i=1\cr 0 & \text{if } x_i=0}$$
-$$x_i \in \{0,1\}$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) = (1,1,\dots,1)$$
+$$ \text{Maxmize } f(\boldsymbol{x}) = \sum_{i=1}^n F(x_i)$$&nbsp;&nbsp;&nbsp;&nbsp;$$F(x_i) = \cases{1 & \text{if } x_i=1\cr 0 & \text{if } x_i=0}$$&nbsp;&nbsp;&nbsp;&nbsp;$$x_i \in \{0,1\}$$&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) = (1,1,\dots,1)$$
 
 <a href="animation/OneMax1.gif"><img src="animation/OneMax1.gif"></a>
 
 ### Extended OneMax problem:
-$$ \text{Maxmize } f(\boldsymbol{x}) = \sum_{i=1}^n F(x_i),  F(x_i) = \cases{1 & \text{if } x_i=1\cr 0 & \text{otherwise}}$$ 
-$$x_i \in \{0,1,\dots,5\}$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) = (1,1,\dots,1)$$
+$$ \text{Maxmize } f(\boldsymbol{x}) = \sum_{i=1}^n F(x_i)$$&nbsp;&nbsp;&nbsp;&nbsp;$$F(x_i) = \cases{1 & \text{if } x_i=1\cr 0 & \text{otherwise}}$$&nbsp;&nbsp;&nbsp;&nbsp;$$x_i \in \{0,1,\dots,5\}$$&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) = (1,1,\dots,1)$$
 
 <a href="animation/OneMax2.gif"><img src="animation/OneMax2.gif"></a>
 
 ### 0/1 Knapsack problem:
-$$ \text{Maxmize } f(\boldsymbol{x}) = \sum_{i=1}^n value_ix_i$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$\text{Subject to } c(\boldsymbol{x}) = \sum_{i=1}^n cost_ix_i \leq W$$
-$$x_i \in {0,1}$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$W = 600$$
+Given a set of $$n$$ items, each with a cost $$w_i$$ and a value $$v_i$$, along with a maximum weight capacity $$W(=600)$$
+
+$$ \text{Maxmize } f(\boldsymbol{x}) = \sum_{i=1}^n v_ix_i$$&nbsp;&nbsp;&nbsp;$$\text{Subject to } c(\boldsymbol{x}) = \sum_{i=1}^n w_ix_i \leq W$$&nbsp;&nbsp;&nbsp;$$x_i \in \{0,1\}$$
 
 <a href="animation/KP1.gif"><img src="animation/KP1.gif"></a>
 
 ### Multiple  Knapsack problem:
-$$ \text{Maxmize } f(\boldsymbol{x}) = \sum_{j=1}^3\sum_{i=1}^n value_iF(x_i,j), F(x_i,j) = \cases{1 & \text{if } x_i=j\cr 0 & \text{otherwise}}$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$\text{Subject to } c_j(\boldsymbol{x}) = \sum_{i=1}^n cost_iF(x_i,j) \leq W_j$$$
-$$x_i \in {0,1,2,3}$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$\boldsymbol{W} = \{500,300,100\}$$
+Given a set of $$n$$ items, each with a cost $$w_i$$ and a value $$v_i$$, along with maximum weight capacitys $$\boldsymbol{W}(=\{500,300,100\})$$
+
+$$ \text{Maxmize } f(\boldsymbol{x}) = \sum_{j=1}^3\sum_{i=1}^n v_iF(x_i,j), F(x_i,j) = \cases{1 & \text{if } x_i=j\cr 0 & \text{otherwise}}$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$\text{Subject to } c_j(\boldsymbol{x}) = \sum_{i=1}^n w_iF(x_i,j) \leq W_j$$
+$$x_i \in \{0,1,2,3\}$$
 
 <a href="animation/KP2.gif"><img src="animation/KP2.gif"></a>
 
