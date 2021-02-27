@@ -16,17 +16,16 @@ $$ \text{Maxmize } f(\boldsymbol{x}) = \sum_{i=1}^n F(x_i)$$&nbsp;&nbsp;&nbsp;&n
 <a href="animation/OneMax2.gif"><img src="animation/OneMax2.gif"></a>
 
 ### 0/1 Knapsack problem:
-Given a set of $$n$$ items, each with a cost $$w_i$$ and a value $$v_i$$, along with a maximum weight capacity $$W(=600)$$
+Given a set of $$n$$ items, each with a value $$v_i$$ and a cost $$w_i$$, along with a maximum capacity $$W(=600)$$
 
 $$ \text{Maxmize } f(\boldsymbol{x}) = \sum_{i=1}^n v_ix_i$$&nbsp;&nbsp;&nbsp;$$\text{Subject to } c(\boldsymbol{x}) = \sum_{i=1}^n w_ix_i \leq W$$&nbsp;&nbsp;&nbsp;$$x_i \in \{0,1\}$$
 
 <a href="animation/KP1.gif"><img src="animation/KP1.gif"></a>
 
 ### Multiple  Knapsack problem:
-Given a set of $$n$$ items, each with a cost $$w_i$$ and a value $$v_i$$, along with maximum weight capacitys $$\boldsymbol{W}(=\{500,300,100\})$$
+Given a set of $$n$$ items, each with a value $$v_i$$ and a cost $$w_i$$, along with maximum capacitys $$\boldsymbol{W}(=\{500,300,100\})$$
 
-$$ \text{Maxmize } f(\boldsymbol{x}) = \sum_{j=1}^3\sum_{i=1}^n v_iF(x_i,j), F(x_i,j) = \cases{1 & \text{if } x_i=j\cr 0 & \text{otherwise}}$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$\text{Subject to } c_j(\boldsymbol{x}) = \sum_{i=1}^n w_iF(x_i,j) \leq W_j$$
-$$x_i \in \{0,1,2,3\}$$
+$$ \text{Maxmize } f(\boldsymbol{x}) = \sum_{j=1}^3\sum_{i=1}^n v_iF(x_i,j)$$&nbsp;&nbsp;&nbsp;$$F(x_i,j) = \cases{1 & \text{if } x_i=j\cr 0 & \text{otherwise}}$$&nbsp;&nbsp;&nbsp;$$\text{Subject to } c_j(\boldsymbol{x}) = \sum_{i=1}^n w_iF(x_i,j) \leq W_j$$$$&nbsp;&nbsp;&nbsp;$$x_i \in \{0,1,2,3\}$$
 
 <a href="animation/KP2.gif"><img src="animation/KP2.gif"></a>
 
