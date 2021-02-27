@@ -6,7 +6,7 @@ use_math: true
 
 ## GIF Animation
 ### OneMax problem:
-$$ \text{Maxmize } f(\boldsymbol{x}) = \sum_{i=1}^n F(x_i)$$&nbsp;&nbsp;&nbsp;&nbsp;$$F(x_i) = \cases{1 & \text{if } x_i=1\cr 0 & \text{if } x_i=0}$$&nbsp;&nbsp;&nbsp;&nbsp;$$x_i \in \{0,1\}$$&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) = (1,1,\dots,1)$$
+$$ \text{Maxmize } f(\boldsymbol{x}) = \sum_{i=1}^n x_i$$&nbsp;&nbsp;&nbsp;&nbsp;$$x_i \in \{0,1\}$$&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) = (1,1,\dots,1)$$
 
 <a href="animation/OneMax1.gif"><img src="animation/OneMax1.gif"></a>
 
