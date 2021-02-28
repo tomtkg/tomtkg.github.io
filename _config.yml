@@ -32,4 +32,6 @@ nav:
    link: "paper"
  - name: "論文"
    link: "paperJP"
+ - name: "雑記"
+   link: "memo"
    
