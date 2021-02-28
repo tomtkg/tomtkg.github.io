@@ -3,7 +3,7 @@ layout: default
 title: Tom TKG's Homepage
 ---
 
-### 自分のPCにインストールしてあるもの
+### PCにインストールしているもの
 - ウェブブラウザ：Edge, Chrome.
 - エディタ：sakura-editor, VS Code.
 - コミュニケーション：Slack, Zoom.
@@ -18,8 +18,8 @@ title: Tom TKG's Homepage
 - その他：7-Zip, OpenVPN, MPC-HC, MS Office, WinMerge.
 
 ### IEEEなどの投稿規定を満たすPDF作成方法
-IEEEなどに投稿する最終英語論文は，学会が用意した機械的なチェックをクリアしないと投稿できない．  
-採択の通知から最終投稿までの期限が短く，論文チェック可能な回数も10回までなど制限があるので注意が必要.  
+IEEEなどに投稿する最終論文は，学会が用意した機械的なチェックをクリアしないと投稿できない．  
+採択の通知から最終投稿までの期間が短く，論文チェック可能な回数も制限があるので注意が必要.  
 ローカルで論文チェックする方法と修正方法：
 - texのコンパイルはplatexではなく，pdflatexを使う
 - pdffontsコマンドで使われているフォント情報を確認
@@ -30,7 +30,8 @@ IEEEなどに投稿する最終英語論文は，学会が用意した機械的�
 - パワーポイントの画像をepsにするならMetafile to EPS Converterを使う．かつ詳細オプションのTrueTypeフォントとダウンロードオプションを画像のように変更
 - texlive使っているならgs_pdfwr.ps 33行目 standardfonts内の項目をコメントアウトする
 
-<img src="image/memo1.png" width="300"/><img src="image/memo2.jpg" width="365"/>
+<a href="image/memo1.png"><img src="image/memo1.png" width="300"/></a>
+<a href="image/memo2.jpg"><img src="image/memo2.jpg" width="365"/></a>
 
 ### 参考文献スタイルファイル (.bst)変更メモ
 文献リストファイル (.bib)の中身はGoogle ScholarのBibTexを参考にする  
@@ -45,4 +46,6 @@ jpnsec.bstで変更した部分
 
 後はbib, bblを自由に変更する (journal, booktitleなど)
 
-<img src="image/memo3.png"/>
+左：変更前，右：変更後
+
+<a href="image/memo3.png"><img src="image/memo3.png"/></a>
