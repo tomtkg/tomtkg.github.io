@@ -42,7 +42,7 @@ jpnsec.bstで変更した部分
 - Line 336: {" (" year * ")" * } -> {", " year * "." * }
 - Line 525,530,573,580,630,677,682,687: "in" -> ""
 - Line 837,846: organization output -> 
-- Line 1036: Add MACRO {tec}  {"IEEE Trans. on Evolutionary Computation"}
+- Line 1036: -> MACRO {tec}  {"IEEE Trans. on Evolutionary Computation"}
 
 後はbib, bblを自由に変更する (journal, booktitleなど)
 
