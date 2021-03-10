@@ -28,6 +28,8 @@ nav:
    link: "image"
  - name: "Animation"
    link: "animation"
+ - name: "Lecture"
+   link: "lecture"
  - name: "Paper"
    link: "paper"
  - name: "論文"

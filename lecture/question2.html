@@ -1,0 +1,36 @@
+<head>
+  <script type="text/javascript">
+    function func1() {
+      v = parseFloat(document.F1.input.value);
+      document.F1.output.value = Math.max(20000 - (128 - v) * (128 - v), 40000 - (365 - v) * (365 - v), 25000 - (555 - v) * (555 - v), 50000 - (807 - v) * (807 - v));
+      return false
+    }
+    function func2() {
+      v = parseFloat(document.F2.input.value);
+      document.F2.output.value = Math.max(20000 - (128 - v) * (128 - v), 40000 - (365 - v) * (365 - v), 25000 - (555 - v) * (555 - v), 50000 - (807 - v) * (807 - v));
+      return false
+    }
+  </script>
+</head>
+
+<body>
+  問題2: 私の好きな数字は何でしょう<br>
+  0から999までの好きな整数を入力してください<br>
+  <form name="F1" onsubmit="return func1();">
+    <input type="tel" name="input" maxlength="3" size="3">
+    <input type="submit" value="提出"><br>
+    スコア: <output name="output">0</output>
+  </form>
+  半角数字以外(-+,.なども含む)は入力しないでください<br>
+  スコアは数字が大きいほうが良いとします
+  <br><br><br><br>
+  Question2: What is my favorite number?<br>
+  Enter any integer from 0 to 999.<br>
+  <form name="F2" onsubmit="return func2();">
+    <input type="tel" name="input" maxlength="3" size="3">
+    <input type="submit" value="Submit"><br>
+    Score: <output name="output">0</output>
+  </form>
+  Do not enter anything other than numbers (including -+,., etc.).<br>
+  The higher the number, the better the score.
+</body>

@@ -1,0 +1,47 @@
+<head>
+  <script type="text/javascript">
+    function func1() {
+      document.F1.output.value = scores[parseFloat(document.F1.input.value)];
+      return false
+    }
+    function func2() {
+      document.F2.output.value = scores[parseFloat(document.F2.input.value)];
+      return false
+    }
+    const scores = {
+      'NaN': 'NaN',
+      '0': '0',
+      '1': '43.21',
+      '2': '70',
+      '3': '33.333333333333',
+      '4': '-10',
+      '5': '55',
+      '6': '60',
+      '7': '120',
+      '8': '80',
+      '9': '99'
+    }
+  </script>
+</head>
+
+<body>
+  問題1: 私の好きな数字は何でしょう?<br>
+  0から9までの好きな整数を入力してください<br>
+  <form name="F1" onsubmit="return func1();">
+    <input type="tel" name="input" maxlength="1" size="1">
+    <input type="submit" value="提出"><br>
+    スコア: <output name="output">0</output>
+  </form>
+  半角数字以外はNaNが出ます<br>
+  スコアは数字が大きいほうが良いとします
+  <br><br><br><br>
+  Question1: What is my favorite number?<br>
+  Enter any integer from 0 to 9.<br>
+  <form name="F2" onsubmit="return func2();">
+    <input type="tel" name="input" maxlength="1" size="1">
+    <input type="submit" value="Submit"><br>
+    Score: <output name="output">0</output>
+  </form>
+  Other than numbers, NaN is given.<br>
+  The higher the number, the better the score.
+</body>
