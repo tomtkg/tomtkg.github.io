@@ -3,6 +3,19 @@ layout: default
 title: Tom TKG's Homepage
 ---
 
+[受賞歴](#受賞歴)  
+[PCにインストールしているもの](#PCにインストールしているもの)  
+[Springer LNCSスタイルファイルのダウンロード方法](#Springer-LNCSスタイルファイルのダウンロード方法)  
+[IEEEなどの投稿規定を満たすPDF作成方法](#IEEEなどの投稿規定を満たすPDF作成方法)  
+[参考文献スタイルファイル (.bst)変更メモ](#参考文献スタイルファイル-bst変更メモ)  
+
+### 受賞歴
+- 電気学会 2019年 電子・情報・システム部門大会 奨励賞
+- IEEE CIS 日本支部 YRA (進化計算シンポジウム2020)
+- 進化計算コンペティション2020 単目的部門トップ賞
+- 進化計算コンペティション2020 多目的部門トップ賞
+- 令和2年度 電気通信大学 学生表彰
+
 ### PCにインストールしているもの
 - ウェブブラウザ：Edge, Chrome.
 - エディタ：sakura-editor, VS Code.
@@ -16,6 +29,16 @@ title: Tom TKG's Homepage
 - Tex：TexStudio, TeXWorks.
 - Unix：Docker, GnuWin32, WSL.
 - その他：7-Zip, OpenVPN, MPC-HC, MS Office, WinMerge.
+
+### Springer LNCSスタイルファイルのダウンロード方法
+まず最初に，2021年3月10日時点でのSpringer LNCSスタイルファイルのURLを示す.  
+ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip  
+Springer LNCSのURLは，http，httpsではなくftpから始まっている．  
+Google Chrome，Microsoft Edgeなどはftpへの対応を止めたため，通常の設定ではファイルのダウンロードが不可能となっている．  
+ファイルをダウンロードする一番簡単な解決策はInternet Explorerで上記URLを開くことである．  
+ただし，安全に利用できないとして他のウェブブラウザでは利用を非推奨・不可能にしているものを，開発が終了した古いウェブブラウザを使って安全でない状態で利用する点に注意されたい．  
+他の手段，スタンドアロンのFTPソフトウエアを利用する方法もあるが，それは各自で調べて対応していただきたい．  
+Springerがftpを利用しないファイル提供方法を用意することを期待したい．(ファイルの再頒布許可を期待したい）
 
 ### IEEEなどの投稿規定を満たすPDF作成方法
 IEEEなどに投稿する最終論文は，学会が用意した機械的なチェックをクリアしないと投稿できない．  
