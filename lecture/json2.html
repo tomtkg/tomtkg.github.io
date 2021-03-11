@@ -1,0 +1,21 @@
+<head>
+  <script type="text/javascript">
+    window.onload = function () {
+      query = location.search;
+      target = document.getElementById("output");
+      target.innerHTML = '{"message": "input is incorrect", "score": null, "status": 400}';
+      if (8 <= query.length && query.length <= 10) {
+        if (query.substr(0, 7) === '?input=') {
+          v = parseFloat(query.substr(7, 3));
+          target.innerHTML = '{"message": null, "score": '
+            + Math.max(20000 - (128 - v) * (128 - v), 40000 - (365 - v) * (365 - v), 25000 - (555 - v) * (555 - v), 50000 - (807 - v) * (807 - v))
+            + ', "status": 200}';
+        }
+      }
+    }
+  </script>
+</head>
+
+<body>
+  <div id="output"></div>
+</body>

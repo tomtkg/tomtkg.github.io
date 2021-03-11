@@ -1,0 +1,31 @@
+<head>
+  <script type="text/javascript">
+    window.onload = function () {
+      query = location.search;
+      target = document.getElementById("output");
+      target.innerHTML = '{"message": "input is incorrect", "score": null, "status": 400}';
+      if (query.length == 8) {
+        if (query.substr(0, 7) === '?input=') {
+          target.innerHTML = '{"message": null, "score": ' + scores[parseFloat(query.substr(7, 1))] + ', "status": 200}';
+        }
+      }
+    }
+    const scores = {
+      'NaN': 'NaN',
+      '0': '0',
+      '1': '43.21',
+      '2': '70',
+      '3': '33.333333333333',
+      '4': '-10',
+      '5': '55',
+      '6': '60',
+      '7': '120',
+      '8': '80',
+      '9': '99'
+    }
+  </script>
+</head>
+
+<body>
+  <div id="output"></div>
+</body>
