@@ -3,13 +3,13 @@
     window.onload = function () {
       query = location.search;
       target = document.getElementById("output");
-      target.innerHTML = '{"message": "input is incorrect", "score": null, "status": 400}';
-      if (query.length == 8) {
-        if (query.substr(0, 7) === '?input=') {
-          target.innerHTML = '{"message": null, "score": ' + scores[parseFloat(query.substr(7, 1))] + ', "status": 200}';
-        }
+      target.innerHTML = 'Input is incorrect';
+      if (query.length == 8
+        && query.substr(0, 7) === '?input=') {
+        target.innerHTML = scores[parseFloat(query.substr(7, 1))];
       }
     }
+    //https://tomtkg.github.io/lecture/evaluator1.html?input=7
     const scores = {
       'NaN': 'NaN',
       '0': '0',

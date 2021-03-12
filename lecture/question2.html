@@ -2,12 +2,20 @@
   <script type="text/javascript">
     function func1() {
       v = parseFloat(document.F1.input.value);
-      document.F1.output.value = Math.max(20000 - (128 - v) * (128 - v), 40000 - (365 - v) * (365 - v), 25000 - (555 - v) * (555 - v), 50000 - (807 - v) * (807 - v));
+      document.F1.output.value = Math.max(
+        20000 - Math.pow(128 - v, 2),
+        40000 - Math.pow(365 - v, 2),
+        25000 - Math.pow(555 - v, 2),
+        50000 - Math.pow(807 - v, 2));
       return false
     }
     function func2() {
       v = parseFloat(document.F2.input.value);
-      document.F2.output.value = Math.max(20000 - (128 - v) * (128 - v), 40000 - (365 - v) * (365 - v), 25000 - (555 - v) * (555 - v), 50000 - (807 - v) * (807 - v));
+      document.F2.output.value = Math.max(
+        20000 - Math.pow(128 - v, 2),
+        40000 - Math.pow(365 - v, 2),
+        25000 - Math.pow(555 - v, 2),
+        50000 - Math.pow(807 - v, 2));
       return false
     }
   </script>

@@ -1,0 +1,23 @@
+<head>
+  <script type="text/javascript">
+    window.onload = function () {
+      query = location.search;
+      target = document.getElementById("output");
+      target.innerHTML = 'Input is incorrect';
+      if (query.length == 10
+        && query.substr(0, 7) === '?input=') {
+        v = parseFloat(query.substr(7, 3));
+        target.innerHTML = Math.max(
+          20000 - Math.pow(128 - v, 2),
+          40000 - Math.pow(365 - v, 2),
+          25000 - Math.pow(555 - v, 2),
+          50000 - Math.pow(807 - v, 2));
+      }
+    }
+    //https://tomtkg.github.io/lecture/evaluator2.html?input=807
+  </script>
+</head>
+
+<body>
+  <div id="output"></div>
+</body>
