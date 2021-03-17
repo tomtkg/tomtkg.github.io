@@ -1,0 +1,33 @@
+<head>
+  <script type="text/javascript">
+    window.onload = function () {
+      query = location.search;
+      target = document.getElementById("output");
+      target.textContent = 'Input is incorrect';
+      if (query.length == 58
+        && query.substr(0, 10) === '?latitude='
+        && query.substr(20, 11) === '&longitude='
+        && query.substr(41, 6) === '&year='
+        && query.substr(49, 7) === '&month=') {
+        v1 = parseFloat(query.substr(10, 10));
+        v2 = parseFloat(query.substr(31, 10));
+        v3 = parseFloat(query.substr(47, 2));
+        v4 = parseFloat(query.substr(56, 8));
+        if (0 < v4 && v4 < 13) {
+          target.textContent
+            = Math.max(0, 25 - Math.pow(v1 - 34.614739, 2))
+            + Math.max(0, 25 - Math.pow(v2 - 135.734172, 2))
+            + 25 - Math.abs(v3 - 7) / 4
+            + 12.5 + 12.5 * Math.sin(0.2 * (v3 + v4 + 0.5) * Math.PI);
+        } else {
+          target.textContent = NaN
+        }
+      }
+    }
+    //https://tomtkg.github.io/lecture/evaluator4.html?latitude=034.614739&longitude=135.734172&year=07&month=05
+  </script>
+</head>
+
+<body>
+  <div id="output"></div>
+</body>

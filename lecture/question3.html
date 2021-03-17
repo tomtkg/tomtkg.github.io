@@ -1,0 +1,42 @@
+<head>
+  <script type="text/javascript">
+    function func1() {
+      v1 = parseFloat(document.F1.latitude.value);
+      v2 = parseFloat(document.F1.longitude.value);
+      document.F1.output.value = v1 + v2;
+      return false
+    }
+    function func2() {
+      v1 = parseFloat(document.F1.latitude.value);
+      v2 = parseFloat(document.F1.longitude.value);
+      document.F1.output.value = v1 + v2;
+      return false
+    }
+  </script>
+</head>
+
+<body>
+  問題3: 私が日本で行きたい場所はどこでしょう<br>
+  緯度，経度を入力してください<br>
+  <form name="F1" onsubmit="return func1();">
+    北緯: <input type="tel" name="latitude" maxlength="11" size="11" placeholder="035.682500">
+    東経: <input type="tel" name="longitude" maxlength="11" size="11" placeholder="139.752778">
+    <input type="submit" value="提出"><br>
+    スコア: <output name="output">0</output>
+  </form>
+  小数点以下6桁まで入力してください<br>
+  スコアは数字が大きいほうが良いとします
+  <br><br>
+  <img src="JapanMap.png" width="700" oncontextmenu="return false;"/>
+  <br><br>
+  Question3: Where do I want to go in Japan?<br>
+  Enter the latitude and longitude.<br>
+  <form name="F2" onsubmit="return func2();">
+    North latitude: <input type="tel" name="latitude" maxlength="11" size="11" placeholder="035.682500">
+    East longitude: <input type="tel" name="longitude" maxlength="11" size="11" placeholder="139.752778">
+    <input type="submit" value="Submit"><br>
+    Score: <output name="output">0</output>
+  </form>
+  Enter up to 6 decimal places.<br>
+  The higher the number, the better the score.
+</body>
