@@ -3,11 +3,11 @@
     window.onload = function () {
       query = location.search;
       target = document.getElementById("output");
-      target.innerHTML = 'Input is incorrect';
+      target.textContent = 'Input is incorrect';
       if (query.length == 10
         && query.substr(0, 7) === '?input=') {
         v = parseFloat(query.substr(7, 3));
-        target.innerHTML = Math.max(
+        target.textContent = Math.max(
           20000 - Math.pow(128 - v, 2),
           40000 - Math.pow(365 - v, 2),
           25000 - Math.pow(555 - v, 2),

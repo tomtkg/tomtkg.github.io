@@ -3,10 +3,10 @@
     window.onload = function () {
       query = location.search;
       target = document.getElementById("output");
-      target.innerHTML = 'Input is incorrect';
+      target.textContent = 'Input is incorrect';
       if (query.length == 8
         && query.substr(0, 7) === '?input=') {
-        target.innerHTML = scores[parseFloat(query.substr(7, 1))];
+        target.textContent = scores[parseFloat(query.substr(7, 1))];
       }
     }
     //https://tomtkg.github.io/lecture/evaluator1.html?input=7
