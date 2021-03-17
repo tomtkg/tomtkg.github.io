@@ -17,7 +17,7 @@ use_math: true
 * [solver2](lecture/solver2.txt){:target="_blank"} ([solver2.py](lecture/solver2.py){:target="_blank"})
 * [evaluator3.html?latitude=035.682500&longitude=139.752778](lecture/evaluator3.html?latitude=035.682500&longitude=139.752778){:target="_blank"}
 * solver3 (solver3.py)
-* [evaluator4.html?latitude=035.682500&longitude=139.752778&year=01&month=01](lecture/evaluator4.html?latitude=035.682500&longitude=139.752778&year=01&month=01]){:target="_blank"}
+* [evaluator4.html?latitude=035.682500&longitude=139.752778&year=01&month=01](lecture/evaluator4.html?latitude=035.682500&longitude=139.752778&year=01&month=01){:target="_blank"}
 * solver4 (solver4.py)
 
 ## Answer
