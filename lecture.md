@@ -10,14 +10,14 @@ use_math: true
 * [question3](lecture/question3.html){:target="_blank"}
 * [question4](lecture/question4.html){:target="_blank"}
 
-## Evaluator & Solver
-* [evaluator1.html?input=1](lecture/evaluator1.html?input=1){:target="_blank"}
+## Evaluator (using query string) & Solver (written in python)
+* [evaluator1](lecture/evaluator1.html?input=1){:target="_blank"} (input=1)
 * [solver1](lecture/solver1.txt){:target="_blank"} ([solver1.py](lecture/solver1.py){:target="_blank"})
-* [evaluator2.html?input=001](lecture/evaluator2.html?input=001){:target="_blank"}
+* [evaluator2](lecture/evaluator2.html?input=001){:target="_blank"} (input=001)
 * [solver2](lecture/solver2.txt){:target="_blank"} ([solver2.py](lecture/solver2.py){:target="_blank"})
-* [evaluator3.html?latitude=035.682500&longitude=139.752778](lecture/evaluator3.html?latitude=035.682500&longitude=139.752778){:target="_blank"}
+* [evaluator3](lecture/evaluator3.html?latitude=035.682500&longitude=139.752778){:target="_blank"} (latitude=035.682500&longitude=139.752778)
 * solver3 (solver3.py)
-* [evaluator4.html?latitude=035.682500&longitude=139.752778&year=01&month=01](lecture/evaluator4.html?latitude=035.682500&longitude=139.752778&year=01&month=01){:target="_blank"}
+* [evaluator4](lecture/evaluator4.html?latitude=035.682500&longitude=139.752778&year=01&month=01){:target="_blank"} (latitude=035.682500&longitude=139.752778&year=01&month=01)
 * solver4 (solver4.py)
 
 ## Answer
