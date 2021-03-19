@@ -63,8 +63,8 @@ IEEEなどに投稿する最終論文は，学会が用意した機械的なチ�
 - パワーポイントの画像をepsにするならMetafile to EPS Converterを使う．かつ詳細オプションのTrueTypeフォントとダウンロードオプションを画像のように変更
 - texlive使っているならgs_pdfwr.ps 33行目 standardfonts内の項目をコメントアウトする
 
-<a href="image/memo1.png"><img src="image/memo1.png" width="340"/></a>
-<a href="image/memo2.jpg"><img src="image/memo2.jpg" width="415"/></a>
+<a href="image/memo1.png"><img src="image/memo1.png" width="336"/></a>
+<a href="image/memo2.jpg"><img src="image/memo2.jpg" width="410"/></a>
 
 ### 参考文献スタイルファイル (.bst)変更メモ
 文献リストファイル (.bib)の中身はGoogle ScholarのBibTexを参考にする  
