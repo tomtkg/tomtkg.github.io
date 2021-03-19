@@ -16,8 +16,8 @@ Blue points are infeasible solution.
 Grey points are feasible solution.  
 
 ## Examples (DTLZ1)
-<img src="image/DTLZ1_M2PF.svg" width="230"/><img src="image/DTLZ1_M2Init.svg" width="230"/><img src="image/DTLZ1_M2Grid.svg" width="230"/>  
-<img src="image/DTLZ1_M3PF.svg" width="230"/><img src="image/DTLZ1_M3Init.svg" width="230"/><img src="image/DTLZ1_M3Grid.svg" width="230"/>  
+<img src="image/DTLZ1_M2PF.svg" width="252"/><img src="image/DTLZ1_M2Init.svg" width="252"/><img src="image/DTLZ1_M2Grid.svg" width="252"/>  
+<img src="image/DTLZ1_M3PF.svg" width="252"/><img src="image/DTLZ1_M3Init.svg" width="252"/><img src="image/DTLZ1_M3Grid.svg" width="252"/>  
 
 ## List of problems
 * [BT(Benchmark MOP with bias feature)](https://github.com/tomtkg/Test_Functions_for_Multi-objective_Optimization/blob/master/Problems/BT/README.md)  
@@ -48,6 +48,6 @@ I use [PlatEMO](https://github.com/BIMK/PlatEMO/){:target="_blank"}. Some Proble
 I hope visitors can help their visual understanding of multi-objective optimization problem.
  
 Reference  
-Ye Tian, Ran Cheng, Xingyi Zhang, and Yaochu Jin, [PlatEMO](https://github.com/BIMK/PlatEMO/){:target="_blank"}: A MATLAB platform
+Y. Tian, R. Cheng, X. Zhang, and Y. Jin, PlatEMO: A MATLAB platform
 for evolutionary multi-objective optimization [educational forum], IEEE
-Computational Intelligence Magazine, 2017, 12(4): 73-87".  
+Computational Intelligence Magazine, 2017, 12(4): 73-87.  

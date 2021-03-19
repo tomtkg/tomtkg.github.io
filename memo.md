@@ -34,7 +34,7 @@ title: Tom TKG's Homepage
 ### 進化計算学会論文誌の簡易まとめ
 進化計算学会論文誌に掲載されている論文を表形式でまとめた．  
 [表: 進化計算学会論文誌の論文](data/tjpnsec){:target="_blank"}  
-著者は4人まで載せている．著者が5人以上の論文も一部あるので，参考文献として書くときは注意されたい．
+著者は4人まで載せている．著者が5人以上の論文も一部あるため，参考文献を書くときは注意されたい．
 
 論文タイトルを用いてWord Cloudを作成した．  
 <a href="image/tjpnsec.png"><img src="image/tjpnsec.png"/></a>  
@@ -63,8 +63,8 @@ IEEEなどに投稿する最終論文は，学会が用意した機械的なチ�
 - パワーポイントの画像をepsにするならMetafile to EPS Converterを使う．かつ詳細オプションのTrueTypeフォントとダウンロードオプションを画像のように変更
 - texlive使っているならgs_pdfwr.ps 33行目 standardfonts内の項目をコメントアウトする
 
-<a href="image/memo1.png"><img src="image/memo1.png" width="300"/></a>
-<a href="image/memo2.jpg"><img src="image/memo2.jpg" width="365"/></a>
+<a href="image/memo1.png"><img src="image/memo1.png" width="340"/></a>
+<a href="image/memo2.jpg"><img src="image/memo2.jpg" width="415"/></a>
 
 ### 参考文献スタイルファイル (.bst)変更メモ
 文献リストファイル (.bib)の中身はGoogle ScholarのBibTexを参考にする  
