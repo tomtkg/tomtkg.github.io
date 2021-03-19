@@ -5,6 +5,7 @@ title: Tom TKG's Homepage
 
 [受賞歴](#受賞歴)  
 [PCにインストールしているもの](#pcにインストールしているもの)  
+[進化計算学会論文誌の簡易まとめ](#進化計算学会論文誌の簡易まとめ)  
 [Springer LNCSスタイルファイルのダウンロード方法](#springer-lncsスタイルファイルのダウンロード方法)  
 [IEEEなどの投稿規定を満たすPDF作成方法](#ieeeなどの投稿規定を満たすpdf作成方法)  
 [参考文献スタイルファイル (.bst)変更メモ](#参考文献スタイルファイル-bst変更メモ)  
@@ -29,6 +30,16 @@ title: Tom TKG's Homepage
 - Tex：TexStudio, TeXWorks.
 - Unix：Docker, GnuWin32, WSL.
 - その他：7-Zip, OpenVPN, MPC-HC, MS Office, WinMerge.
+
+### 進化計算学会論文誌の簡易まとめ
+進化計算学会論文誌に掲載されている論文を表形式でまとめました．  
+[表: 進化計算学会論文誌の論文](data/tjpnsec)  
+著者は4人まで載せています．著者が5人以上の論文も一部あるので，参考文献として書くときは注意してください．
+
+論文タイトルでWord Cloudを作りました．  
+<a href="image/tjpnsec.png"><img src="image/tjpnsec.png"/></a>  
+頻出単語は'最適化', '進化', '提案', '問題', '目的', '計算', '探索', '評価', '設計'です．
+
 
 ### Springer LNCSスタイルファイルのダウンロード方法
 まず最初に，2021年3月10日時点でのSpringer LNCSスタイルファイルのURLを示す.  
