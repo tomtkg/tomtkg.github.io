@@ -12,10 +12,8 @@ description: The site owner is an AI researcher and he is mainly interested in e
 
 Computational Intelligence, Evolutionary Computation, Optimization.
 
-## Publications
-Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Non-dominated Solution Sampling Using Environmental Selection in EMO algorithms**, Proc. of IEEE Congress on Evolutionary Computation (CEC2020), pp. 1--9, 2020. [WCCI2020](https://wcci2020.org){:target="_blank"}, [DOI](https://doi.org/10.1109/CEC48606.2020.9185529){:target="_blank"}.
-
-Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Incremental Lattice Design of Weight Vector Set**,  Proc. of ACM Genetic and Evolutionary Computation Conference (GECCO 2020), pp. 1486--1494, 2020. [GECCO2020](https://gecco-2020.sigevo.org){:target="_blank"}, [DOI](https://doi.org/10.1145/3377929.3398082){:target="_blank"}, [Code](https://github.com/tomtkg/ILD){:target="_blank"}, [Zip](/data/ILD-master.zip).
+## Latest publications
+Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Pareto Front Estimation Using Unit Hyperplane**, Proc. of The 11th Edition of International Conference Series on Evolutionary Multi-Criterion Optimization (EMO2021), Lecture Notes in Computer Science (LNCS), Vol. 12654, pp. 126--138, 2021. [EMO2021](https://emo2021.org){:target="_blank"}, [DOI](https://doi.org/10.1007/978-3-030-72062-9_11){:target="_blank"}.
 
 ## Awards
 IEEE CIS Japan Chapter Young Researcher Award presented in [the 2020 Symposium on Evolutionary Computation](http://www.jpnsec.org/yra.html){:target="_blank"}.  
