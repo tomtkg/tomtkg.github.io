@@ -13,7 +13,7 @@ description: The site owner is an AI researcher and he is mainly interested in e
 Computational Intelligence, Evolutionary Computation, Optimization.
 
 ## Latest publications
-Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Pareto Front Estimation Using Unit Hyperplane**, Proc. of The 11th Edition of International Conference Series on Evolutionary Multi-Criterion Optimization (EMO2021), Lecture Notes in Computer Science (LNCS), Vol. 12654, pp. 126--138, 2021. [EMO2021](https://emo2021.org){:target="_blank"}, [DOI](https://doi.org/10.1007/978-3-030-72062-9_11){:target="_blank"}.
+Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Pareto Front Estimation Using Unit Hyperplane**, Proc. of The 11th Edition of International Conference Series on Evolutionary Multi-Criterion Optimization (EMO2021), Lecture Notes in Computer Science (LNCS), Vol. 12654, Springer, Cham, pp. 126--138, 2021. [EMO2021](https://emo2021.org){:target="_blank"}, [DOI](https://doi.org/10.1007/978-3-030-72062-9_11){:target="_blank"}.
 
 ## Awards
 IEEE CIS Japan Chapter Young Researcher Award presented in [the 2020 Symposium on Evolutionary Computation](http://www.jpnsec.org/yra.html){:target="_blank"}.  
