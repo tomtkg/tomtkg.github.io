@@ -13,6 +13,7 @@ description: The site owner is an AI researcher and he is mainly interested in e
 Computational Intelligence, Evolutionary Computation, Optimization.
 
 ## Latest publications
+Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Weight Vector Arrangement Using Virtual Objective Vectors in Decomposition-based MOEA**, Proc. of IEEE Congress on Evolutionary Computation (CEC2021), pp. 1--8, 2021. [CEC021](https://cec2021.mini.pw.edu.pl/){:target="_blank"}.  
 Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Pareto Front Estimation Using Unit Hyperplane**, Proc. of The 11th Edition of International Conference Series on Evolutionary Multi-Criterion Optimization (EMO2021), Lecture Notes in Computer Science (LNCS), Vol. 12654, Springer, Cham, pp. 126--138, 2021. [EMO2021](https://emo2021.org){:target="_blank"}, [DOI](https://doi.org/10.1007/978-3-030-72062-9_11){:target="_blank"}.
 
 ## Awards
