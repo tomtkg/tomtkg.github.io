@@ -56,7 +56,7 @@ title: Tom TKG's Homepage
 自分がMatlabで3次元の図を作成するときに使っている関数．  
 区間[0-1]に正規化された3次元の点群dataとその名前nameを入力する．
 
-```matlab linenos
+{% highlight matlab linenos %}
 function SaveImage(data,name)
     figure('Position',[100 100 500 500],'Visible','on');
     set(gca,'Fontname','Times New Roman','FontSize',13,'NextPlot','add', ...
@@ -71,7 +71,7 @@ function SaveImage(data,name)
     exportgraphics(gcf,[name,'.emf'],'BackgroundColor','none','ContentType','vector');
     savefig([name,'.fig']); close;
 end
-```
+{% endhighlight %}
 
 図は正方形で余白はなるべく少なくする．画像はラスタ形式の透過背景で保存する．論文にはpdf，パワーポイントにはemfで出力した画像を用いる．
 
