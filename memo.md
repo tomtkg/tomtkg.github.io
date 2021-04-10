@@ -6,6 +6,7 @@ title: Tom TKG's Homepage
 [受賞歴](#受賞歴)  
 [PCにインストールしているもの](#pcにインストールしているもの)  
 [進化計算学会の簡易まとめ](#進化計算学会の簡易まとめ)  
+[Matlabで図を作成するときの設定](#Matlabで図を作成するときの設定)  
 [Springer LNCSスタイルファイルのダウンロード方法](#springer-lncsスタイルファイルのダウンロード方法)  
 [IEEEなどの投稿規定を満たすPDF作成方法](#ieeeなどの投稿規定を満たすpdf作成方法)  
 [参考文献スタイルファイル (.bst)変更メモ](#参考文献スタイルファイル-bst変更メモ)  
@@ -50,6 +51,21 @@ title: Tom TKG's Homepage
 会議の論文では'提案'と同じくらい'検討'が多くなっている．  
 遺伝的アルゴリズム GA，MOEA/D，差分進化 DE，粒子群最適化 PSOなど有名なアルゴリズムのワードが増えている．  
 '対話型'，並列'，'考慮'，'利用'，'解析'など実世界で使うことに関するワードが増えている．
+
+### Matlabで図を作成するときの設定
+自分がMatlabで3次元の図を作成するときに使っている設定．区間[0-1]に正規化された3次元の点群dataが存在する想定．
+```matlab
+figure('Position',[100 100 500 500],'Visible','on');
+set(gca,'Fontname','Times New Roman','FontSize',13,'NextPlot','add','Color','none','Box','on','View',[135 30],'LooseInset', get(gca, 'TightInset'));
+plot3(data(:,1),data(:,2),data(:,3),'o','MarkerSize',8,'Markerfacecolor',[.7 .7 .7],'Markeredgecolor',[.4 .4 .4]);
+xlim([-0.05 1.05]); ylim([-0.05 1.05]); zlim([-0.05 1.05]); zticks([0 0.5 1]); axis square;
+xlabel('\it f\rm_1','position',[0.4,1.2,-0.15]); ylabel('\it f\rm_2','position',[1.2,0.4,-0.15]); zlabel('\it f\rm_3','Rotation',0,'position',[0.4,-0.77,0.5]);
+exportgraphics(gcf,'image.pdf','BackgroundColor','none','ContentType','vector');
+exportgraphics(gcf,'image.emf','BackgroundColor','none','ContentType','vector');
+savefig('image.fig'); close;
+```
+図は正方形で余白はなるべく少なくする．画像はラスタ形式の透過背景で保存する．論文にはpdf，パワーポイントにはemfで出力した画像を用いる．
+
 
 ### Springer LNCSスタイルファイルのダウンロード方法
 まず最初に，2021年3月10日時点でのSpringer LNCSスタイルファイルのURLを示す.  
