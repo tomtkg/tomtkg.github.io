@@ -3,9 +3,10 @@ author: Tomoaki Takagi
 url: "https://tomtkg.github.io"
 #baseurl: "./"
 
-markdown: kramdown
 kramdown:
   math_engine: mathjax # katexと書いてもGithubPagesはmathjaxに上書きする
+  input: GFM
+  syntax_highlighter: rouge
 
 tracking_id: UA-170789008-1
 
