@@ -55,6 +55,7 @@ title: Tom TKG's Homepage
 ### Matlabで図を作成する関数
 自分がMatlabで3次元の図を作成するときに使っている関数．  
 区間[0-1]に正規化された3次元の点群dataとその名前nameを入力する．
+
 ```matlab linenos
 function SaveImage(data,name)
     figure('Position',[100 100 500 500],'Visible','on');
@@ -71,6 +72,7 @@ function SaveImage(data,name)
     savefig([name,'.fig']); close;
 end
 ```
+
 図は正方形で余白はなるべく少なくする．画像はラスタ形式の透過背景で保存する．論文にはpdf，パワーポイントにはemfで出力した画像を用いる．
 
 
