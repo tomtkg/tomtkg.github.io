@@ -78,7 +78,7 @@ end
 左はmatlabの基本設定で生成されるラスタ画像．右は自分の設定で生成されるベクタ画像．
 
 <a href="image/image.jpg"><img src="image/image.jpg" width="448"/></a>
-<object data="image/image.pdf#page=2" type="application/pdf" width="295"　height="335">
+<object data="image/image.pdf#page=2" type="application/pdf" width="295" height="335">
     <iframe src="image/image.pdf#page=2" frameborder="0" width="295" height="335">
     <p><a href="image/image.pdf"></a></p>
     </iframe>
