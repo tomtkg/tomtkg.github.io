@@ -75,14 +75,10 @@ end
 
 図は正方形で余白は極めて小さい．11行目にブレ-クポイントを設定して，目視で確認することが多い．  
 画像はベクタ形式の透過背景で保存．論文にはpdf，パワーポイントにはemfで出力した画像を用いる．  
-左はmatlabの基本設定で生成されるラスタ画像．右は自分の設定で生成されるベクタ画像．
+左は自分の設定で生成されるベクタ画像．右はmatlabの基本設定で生成されるラスタ画像．
 
+<embed src="image/image.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="300" height="315">
 <a href="image/image.jpg"><img src="image/image.jpg" width="420"/></a>
-<object data="image/image.pdf#page=2" type="application/pdf" width="300" height="315" border="0">
-    <iframe src="image/image.pdf#page=2" width="300" height="315" frameborder="0">
-    <p><a href="image/image.pdf"></a></p>
-    </iframe>
-</object>
 
 ### Springer LNCSスタイルファイルのダウンロード方法
 まず最初に，2021年3月10日時点でのSpringer LNCSスタイルファイルのURLを示す.  
