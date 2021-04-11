@@ -77,7 +77,7 @@ end
 画像はベクタ形式の透過背景で保存．論文にはpdf，パワーポイントにはemfで出力した画像を用いる．  
 左は自分の設定で生成されるベクタ画像．右はmatlabの基本設定で生成されるラスタ画像．
 
-<p><embed src="image/image.pdf#toolbar=0&navpanes=0&scrollbar=0&view=FitH&style=”border:none;”" type="application/pdf" width="300" height="315"><a href="image/image.jpg"><img src="image/image.jpg" width="420"/></a></p>
+<p><embed src="image/image.pdf#toolbar=0&navpanes=0&scrollbar=0&view=FitB" type="application/pdf" width="300" height="315"><a href="image/image.jpg"><img src="image/image.jpg" width="420"/></a></p>
 
 ### Springer LNCSスタイルファイルのダウンロード方法
 まず最初に，2021年3月10日時点でのSpringer LNCSスタイルファイルのURLを示す.  
