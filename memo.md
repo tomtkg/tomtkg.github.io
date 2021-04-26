@@ -4,7 +4,7 @@ title: Tom TKG's Homepage
 ---
 
 [受賞歴](#受賞歴)  
-[略歴とShort Biography](#略歴とShort-Biography)  
+[略歴とShort Biography](#略歴とshort-biography)  
 [PCにインストールしているもの](#pcにインストールしているもの)  
 [進化計算学会の簡易まとめ](#進化計算学会の簡易まとめ)  
 [Matlabで図を作成する関数](#matlabで図を作成する関数)  
