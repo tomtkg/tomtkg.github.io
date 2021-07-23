@@ -3,7 +3,10 @@ layout: default
 title: Tom TKG's Homepage
 ---
 
-## Conference Paper (First Author)
+## Journal Paper
+1. Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Multi-objective Evolutionary Algorithm Using Weight Vector Arrangement Based on Pareto Front Estimation**, Transaction of the Japanese Society for Evolutionary Computation, Vol. 12, 2021. DOI (in Japanese).
+
+## Conference Papers (First Author)
 1. Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Preliminary Study on Weight Vector Distribution Control Based on Intermediate Objective Value**,  Proc. of 2018 JPNSEC International Workshop on Evolutionary Computation, pp. 20--26, 2018.
 1. Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Distribution Control of Weight Vector Set for Multi-objective Evolutionary Algorithms**,  Proc. of the Bio-inspired Information and Communication Technologies ([BICT2019](https://bionetics2019.eai-conferences.org){:target="_blank"}), Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering (LNICST), Vol. 289, Springer, Cham, pp. 70--80, 2019. [DOI](https://doi.org/10.1007/978-3-030-24202-2_6){:target="_blank"}, [Code](https://github.com/tomtkg/MOEA-D-DCWV){:target="_blank"}, Acceptance rate 52%.
 1. Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Incremental Lattice Design of Weight Vector Set**,  Proc. of ACM Genetic and Evolutionary Computation Conference ([GECCO2020](https://gecco-2020.sigevo.org){:target="_blank"}), pp. 1486--1494, 2020. [DOI](https://doi.org/10.1145/3377929.3398082){:target="_blank"}, [Code](https://github.com/tomtkg/ILD){:target="_blank"}, Acceptance rate 36%.
@@ -11,7 +14,7 @@ title: Tom TKG's Homepage
 1. Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Pareto Front Estimation Using Unit Hyperplane**, Proc. of The 11th Edition of International Conference Series on Evolutionary Multi-Criterion Optimization ([EMO2021](https://emo2021.org){:target="_blank"}), Lecture Notes in Computer Science (LNCS), Vol. 12654, Springer, Cham, pp. 126--138, 2021. [DOI](https://doi.org/10.1007/978-3-030-72062-9_11){:target="_blank"}, Acceptance rate 51%.
 1. Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Weight Vector Arrangement Using Virtual Objective Vectors in Decomposition-based MOEA**, Proc. of IEEE Congress on Evolutionary Computation ([CEC2021](https://cec2021.mini.pw.edu.pl/){:target="_blank"}), pp. 1--8, 2021. Acceptance rate 60%.
 
-## Conference Paper (Second Author)
+## Conference Papers (Second Author)
 1. Kensuke Kano, Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Preliminary Study of Adaptive Grid-based Decomposition on Many-objective Evolutionary Optimization**, Proc. of ACM Genetic and Evolutionary Computation Conference (GECCO2020), pp. 1373--1380, 2020.
 1. Kohei Yamamoto, Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Visual Mapping of Multi-objective Optimization Problems and Evolutionary Algorithms**, Proc. of ACM Genetic and Evolutionary Computation Conference (GECCO2020), pp. 1872--1879, 2020.
 1. Ryo Kumagai, Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Study on Multi-objective Evolutionary Stage Generation Using MarioGAN**, Proc. of The 7th UEC Seminar in ASEAN, 2020 and The 2nd ASEAN-UEC Workshop on Energy and AI, pp. 63--64, 2020. Young Researcher Encouragement Award.
