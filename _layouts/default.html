@@ -5,7 +5,7 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="keywords" content="{{ site.author }}, tomtkg, Weight Vector Set, Multi-objective">
+    <meta name="keywords" content="{{ site.author }}, tomtkg">
     <meta name="author" content="{{ site.author }}">
     {% if page.use_math == true %}
         <script src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
@@ -28,10 +28,9 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="/feed.xml" />
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css" >
-    {% if site.favicon %}
-        <link rel="icon" type="image/ico" href="{{ site.favicon_location }}">
-        <link rel="shortcut-icon" type="image/ico" href="{{ site.favicon_location }}">
-    {% endif %}
+    <link rel="shortcut icon" href="{{ site.baseurl }}/image/favicon.ico">
+    <link rel="apple-touch-icon" href="{{ site.baseurl }}/image/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="{{ site.baseurl }}/image/android-chrome-192x192.png">
     {% if site.twitter_username %}
         <link rel="author" href="https://twitter.com/{{ site.twitter_username }}">
     {% endif %}
