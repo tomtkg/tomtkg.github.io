@@ -14,10 +14,6 @@ plugins:
  - jekyll-sitemap
  - jekyll-seo-tag
 
-footer: no
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
-
 sass:
     style: compressed
     sass_dir: _sass
