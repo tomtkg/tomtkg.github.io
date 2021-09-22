@@ -50,7 +50,6 @@
             <a id="author-name" class="alignable pull-left" href="https://tomtkg.github.io/">{{ site.title }}</a>
             <ul id="navlist" class="alignable pull-right navbar-ul">
                 {% for x in site.nav %}
-                {% if x.name == "Resume" %}
                 <li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
                     {% if forloop.last == false %}
                     /
