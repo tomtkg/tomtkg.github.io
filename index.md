@@ -39,5 +39,5 @@ Dec. 2020 Institute of Electrical and Electronics Engineers (IEEE)
 Feb. 2019 The Japanese Society for Evolutionary Computation (JPNSEC)  
 
 ## Link
-[GitHub](https://github.com/tomtkg), [Google Scholar](https://scholar.google.co.jp/citations?user=jsYC8NMAAAAJ), [DBLP](https://dblp.uni-trier.de/pers/hd/t/Takagi:Tomoaki), [ORCID](https://orcid.org/0000-0003-3748-9797), [Publons](https://publons.com/researcher/3926140), [IEEE](https://ieee-collabratec.ieee.org/app/p/tomtkg), [Company](https://www.timedia.co.jp), [University](https://www.uec.ac.jp), [Laboratory](http://hs.hc.uec.ac.jp/index.php?%E9%AB%98%E6%9C%A8%20%E6%99%BA%E7%AB%A0), [JPNSEC](http://www.jpnsec.org).
+[GitHub](https://github.com/tomtkg), [Google Scholar](https://scholar.google.co.jp/citations?user=jsYC8NMAAAAJ), [DBLP](https://dblp.uni-trier.de/pers/hd/t/Takagi:Tomoaki), [ORCID](https://orcid.org/0000-0003-3748-9797), [Publons](https://publons.com/researcher/3926140), [IEEE](https://ieee-collabratec.ieee.org/app/p/tomtkg), [Company](https://www.timedia.co.jp), [University](https://www.uec.ac.jp), [Laboratory](https://nic.lab.uec.ac.jp/index.php/tomoakitakagi), [JPNSEC](http://www.jpnsec.org).
 
