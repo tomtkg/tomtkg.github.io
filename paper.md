@@ -4,7 +4,7 @@ title: Tom TKG's Homepage
 ---
 
 ## Journal Paper
-1. Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Multi-objective Evolutionary Algorithm Using Weight Vector Arrangement Based on Pareto Front Estimation**, Transaction of the Japanese Society for Evolutionary Computation, Vol. 12, 2021. DOI (in Japanese).
+1. Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Multi-objective Evolutionary Algorithm Using Weight Vector Arrangement Based on Pareto Front Estimation**, Transaction of the Japanese Society for Evolutionary Computation, Vol. 12, No. 2, pp. 44--59, 2021. DOI (in Japanese).
 
 ## Conference Papers (First Author)
 1. Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Preliminary Study on Weight Vector Distribution Control Based on Intermediate Objective Value**,  Proc. of 2018 JPNSEC International Workshop on Evolutionary Computation, pp. 20--26, 2018.
