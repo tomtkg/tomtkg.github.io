@@ -4,7 +4,6 @@ url: "https://tomtkg.github.io"
 #baseurl: "./"
 
 highlighter: rouge
-markdown: CommonMarkGhPages
 kramdown:
   math_engine: mathjax # katexと書いてもGithubPagesはmathjaxに上書きする
   syntax_highlighter: rouge
