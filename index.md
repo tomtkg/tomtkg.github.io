@@ -17,9 +17,11 @@ Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Weight Vector Arrangement U
 Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Pareto Front Estimation Using Unit Hyperplane**, Proc. of The 11th Edition of International Conference Series on Evolutionary Multi-Criterion Optimization ([EMO2021](https://emo2021.org){:target="_blank"}), Lecture Notes in Computer Science (LNCS), Vol. 12654, Springer, Cham, pp. 126--138, 2021. [DOI](https://doi.org/10.1007/978-3-030-72062-9_11){:target="_blank"}.
 
 ## Awards
-IEEE CIS Japan Chapter Young Researcher Award presented in [the 2020 Symposium on Evolutionary Computation](http://www.jpnsec.org/yra.html){:target="_blank"}.  
-Winner of [the Evolutionary Computation Competition 2020 (EC-Comp 2020)](https://ec-comp.jpnsec.org/competitions/eccomp2020){:target="_blank"} on Single-Objective Track.  
-Winner of [the Evolutionary Computation Competition 2020 (EC-Comp 2020)](https://ec-comp.jpnsec.org/competitions/eccomp2020){:target="_blank"} on Multi-Objective Track.  
+IEEE CIS Japan Chapter Young Researcher Award, [2020 Symposium on Evolutionary Computation](http://www.jpnsec.org/yra.html){:target="_blank"}.  
+First award, Single-Objective Track, [Evolutionary Computation Competition 2020 (EC-Comp 2020)](https://ec-comp.jpnsec.org/competitions/eccomp2020){:target="_blank"}.  
+First award, Multi-Objective Track, [Evolutionary Computation Competition 2020 (EC-Comp 2020)](https://ec-comp.jpnsec.org/competitions/eccomp2020){:target="_blank"}.  
+First award, Single-Objective Track, [Evolutionary Computation Competition 2021 (EC-Comp 2021)](https://ec-comp.jpnsec.org/competitions/eccomp2021){:target="_blank"}.  
+Sponsorship award, Multi-Objective Track, [Evolutionary Computation Competition 2021 (EC-Comp 2021)](https://ec-comp.jpnsec.org/competitions/eccomp2021){:target="_blank"}.  
 
 ## Work Experience
 **TIMEINTERMEDIA, Inc., Tokyo, Japan**  
