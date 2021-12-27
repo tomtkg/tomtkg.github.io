@@ -24,6 +24,9 @@ title: Tom TKG's Homepage
 会場：Seville, Spain　申込〆切：　　原稿〆切：11/24(水)　採択通知：1/26(水)
 </details>
 <details>
+<summary>2022年6月26(土)-7月1(水)：<a href="https://mcdm2021.org" target="_blank">MCDM</a></summary>
+会場：Portsmouth, UK　申込〆切：　　原稿〆切：3/1(木)　採択通知：4/30(金)
+</details>
 <summary>2022年7月9(土)-13(水)：<a href="https://gecco-2022.sigevo.org" target="_blank">GECCO</a></summary>
 会場：Boston, USA　申込〆切：1/27(木)　原稿〆切：2/3(木)　採択通知：3/25(金)
 </details>
@@ -39,9 +42,18 @@ title: Tom TKG's Homepage
 <summary>2022年9月10(土)-14(水)：<a href="https://ppsn2022.cs.tu-dortmund.de" target="_blank">PPSN</a></summary>
 会場：Dortmund, Germany　申込〆切：　　原稿〆切：4/13(水)　採択通知：
 </details>
+<summary>2022年9月：<a href="http://www.jpnsec.org/symposium202202.html" target="_blank">第22回進化計算学会研究会</a></summary>
+会場：日本, オンライン　申込〆切：　　原稿〆切：　　採択通知：
+</details>
 <details>
+<summary>2022年11月29(火)-12月2(金)：<a href="http://scis.j-soft.org/2022" target="_blank">SCIS&ISIS</a></summary>
+会場：伊勢志摩　申込〆切：　　原稿〆切：6/24(金)　採択通知：8/19(木)
+</details>
 <summary>2022年12月4(日)-7(水)：<a href="https://www.ieeessci2022.org" target="_blank">IEEE SSCI</a></summary>
 会場：Singapore　申込〆切：　　原稿〆切：7/1(金)　採択通知：9/1(木)
+</details>
+<summary>2022年12月17(土)-18(日)：<a href="http://www.jpnsec.org/symposium202203.html" target="_blank">進化計算シンポジウム2022</a></summary>
+会場：札幌　申込〆切：　　原稿〆切：　　採択通知：
 </details>
 
 ### 受賞歴
