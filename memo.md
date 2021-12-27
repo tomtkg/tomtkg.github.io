@@ -15,46 +15,28 @@ title: Tom TKG's Homepage
 [参考文献スタイルファイル (.bst)変更メモ](#参考文献スタイルファイル-bst変更メモ)  
 
 ### 学会カレンダー
-<details>
-<summary>2022年3月17(木)-18(金)：<a href="http://www.jpnsec.org/symposium202201.html" target="_blank">第21回進化計算学会研究会</a></summary>
-会場：日本, オンライン　申込〆切：2/18(金)　原稿〆切：3/4(金)　採択通知：
-</details>
-<details>
-<summary>2022年4月20(水)-22(金)：<a href="http://www.evostar.org/2022" target="_blank">EvoStar</a></summary>
-会場：Seville, Spain　申込〆切：　　原稿〆切：11/24(水)　採択通知：1/26(水)
-</details>
-<details>
-<summary>2022年6月26(土)-7月1(水)：<a href="https://mcdm2021.org" target="_blank">MCDM</a></summary>
-会場：Portsmouth, UK　申込〆切：　　原稿〆切：3/1(木)　採択通知：4/30(金)
-</details>
-<summary>2022年7月9(土)-13(水)：<a href="https://gecco-2022.sigevo.org" target="_blank">GECCO</a></summary>
-会場：Boston, USA　申込〆切：1/27(木)　原稿〆切：2/3(木)　採択通知：3/25(金)
-</details>
-<details>
-<summary>2022年7月18(月)-23(土)：<a href="https://wcci2022.org" target="_blank">IEEE WCCI</a></summary>
-会場：Padua, Italy　申込〆切：　　原稿〆切：1/31(月)　採択通知：4/26(火)
-</details>
-<details>
-<summary>2022年8月21(日)-24(水)：<a href="https://ieee-cog.org/2022" target="_blank">IEEE CoG</a></summary>
-会場：Beijing, China　申込〆切：　　原稿〆切：3/1(火)　採択通知：4/30(土)
-</details>
-<details>
-<summary>2022年9月10(土)-14(水)：<a href="https://ppsn2022.cs.tu-dortmund.de" target="_blank">PPSN</a></summary>
-会場：Dortmund, Germany　申込〆切：　　原稿〆切：4/13(水)　採択通知：
-</details>
-<summary>2022年9月：<a href="http://www.jpnsec.org/symposium202202.html" target="_blank">第22回進化計算学会研究会</a></summary>
-会場：日本, オンライン　申込〆切：　　原稿〆切：　　採択通知：
-</details>
-<details>
-<summary>2022年11月29(火)-12月2(金)：<a href="http://scis.j-soft.org/2022" target="_blank">SCIS&ISIS</a></summary>
-会場：伊勢志摩　申込〆切：　　原稿〆切：6/24(金)　採択通知：8/19(木)
-</details>
-<summary>2022年12月4(日)-7(水)：<a href="https://www.ieeessci2022.org" target="_blank">IEEE SSCI</a></summary>
-会場：Singapore　申込〆切：　　原稿〆切：7/1(金)　採択通知：9/1(木)
-</details>
-<summary>2022年12月17(土)-18(日)：<a href="http://www.jpnsec.org/symposium202203.html" target="_blank">進化計算シンポジウム2022</a></summary>
-会場：札幌　申込〆切：　　原稿〆切：　　採択通知：
-</details>
+<details><summary>2022年3月17(木)-18(金)：<a href="http://www.jpnsec.org/symposium202201.html" target="_blank">第21回進化計算学会研究会</a></summary>
+会場：日本, オンライン　申込〆切：2/18(金)　原稿〆切：3/4(金)　採択通知：</details>
+<details><summary>2022年4月20(水)-22(金)：<a href="http://www.evostar.org/2022" target="_blank">EvoStar</a></summary>
+会場：Seville, Spain　申込〆切：　　原稿〆切：11/24(水)　採択通知：1/26(水)</details>
+<details><summary>2022年6月26(土)-7月1(水)：<a href="https://mcdm2021.org" target="_blank">MCDM</a></summary>
+会場：Portsmouth, UK　申込〆切：　　原稿〆切：3/1(木)　採択通知：4/30(金)</details>
+<details><summary>2022年7月9(土)-13(水)：<a href="https://gecco-2022.sigevo.org" target="_blank">GECCO</a></summary>
+会場：Boston, USA　申込〆切：1/27(木)　原稿〆切：2/3(木)　採択通知：3/25(金)</details>
+<details><summary>2022年7月18(月)-23(土)：<a href="https://wcci2022.org" target="_blank">IEEE WCCI</a></summary>
+会場：Padua, Italy　申込〆切：　　原稿〆切：1/31(月)　採択通知：4/26(火)</details>
+<details><summary>2022年8月21(日)-24(水)：<a href="https://ieee-cog.org/2022" target="_blank">IEEE CoG</a></summary>
+会場：Beijing, China　申込〆切：　　原稿〆切：3/1(火)　採択通知：4/30(土)</details>
+<details><summary>2022年9月10(土)-14(水)：<a href="https://ppsn2022.cs.tu-dortmund.de" target="_blank">PPSN</a></summary>
+会場：Dortmund, Germany　申込〆切：　　原稿〆切：4/13(水)　採択通知：</details>
+<details><summary>2022年9月：<a href="http://www.jpnsec.org/symposium202202.html" target="_blank">第22回進化計算学会研究会</a></summary>
+会場：日本, オンライン　申込〆切：　　原稿〆切：　　採択通知：</details>
+<details><summary>2022年11月29(火)-12月2(金)：<a href="http://scis.j-soft.org/2022" target="_blank">SCIS&ISIS</a></summary>
+会場：伊勢志摩　申込〆切：　　原稿〆切：6/24(金)　採択通知：8/19(木)</details>
+<details><summary>2022年12月4(日)-7(水)：<a href="https://www.ieeessci2022.org" target="_blank">IEEE SSCI</a></summary>
+会場：Singapore　申込〆切：　　原稿〆切：7/1(金)　採択通知：9/1(木)</details>
+<details><summary>2022年12月17(土)-18(日)：<a href="http://www.jpnsec.org/symposium202203.html" target="_blank">進化計算シンポジウム2022</a></summary>
+会場：札幌　申込〆切：　　原稿〆切：　　採択通知：</details>
 
 ### 受賞歴
 - 電気学会 2019年 電子・情報・システム部門大会 奨励賞
