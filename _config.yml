@@ -21,6 +21,8 @@ sass:
 nav:
  - name: "Home"
    link: "index"
+ - name: "研究"
+   link: "researchJP"
  - name: "Image"
    link: "image"
  - name: "Animation"
