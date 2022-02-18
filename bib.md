@@ -11,6 +11,6 @@ title: Tom TKG's Homepage
 1. [jMetal](https://github.com/jMetal/jMetal), [paper](https://doi.org/10.1145/2739482.2768462)
     - 基本言語はJavaですが，Python版，C++版もあります．
 1. [DEAP](https://github.com/DEAP/deap), [paper](https://jmlr.csail.mit.edu/papers/v13/fortin12a.html)
-    - 言語はPythonです．
+    - 言語はPythonです．色々なPythonライブラリで利用されています．
 1. [optuna](https://github.com/optuna/optuna), [paper](https://doi.org/10.1145/3292500.3330701)
     - 言語はPythonです．公開元は日本の企業Preferred Networksです．
