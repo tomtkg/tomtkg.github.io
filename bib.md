@@ -19,19 +19,19 @@ title: Tom TKG's Homepage
 1. [進化計算学会](http://www.jpnsec.org)
     - 3月，9月に研究会，12月にシンポジウムがあります．学会論文誌があります．
 1. [計測自動制御学会](https://www.sice.jp)
-    - CI研究会，FAN，SSI，知能システムシンポジウムがあります．学会誌「計測と制御」，論文集があります．
+    - CI研究会，FAN，SSI，知能システムシンポジウム，学会誌「計測と制御」があります．
 1. [情報処理学会](https://www.ipsj.or.jp)
-    - 全国大会，FIT，MPS研究会があります．学会誌「情報処理」，「数理モデル化と応用」があります．
+    - 全国大会，FIT，MPS研究会，学会誌「情報処理」「数理モデル化と応用」があります．
 1. [電子情報通信学会](https://www.ieice.org/jpn_r)
     - 総合大会，ソサイエティ大会，FITがあります．学会誌，論文誌があります．
 1. [システム制御情報学会](https://www.iscie.or.jp)
-    - 5月に研究発表講演会（SCI）があります．学会誌「システム／制御／情報」，学会論文誌があります．
+    - 5月に研究発表講演会（SCI）があります．学会誌，学会誌があります．
 1. [人工知能学会](https://www.ai-gakkai.or.jp)
-    - 全国大会(JSAI)があります．学会誌，論文誌があります．
+    - 全国大会(JSAI)，学会誌，論文誌があります．
 1. [電気学会](https://www.iee.jp)
-    - 全国大会，C部門大会があります．学会誌，論文誌Cがあります．
+    - 全国大会，C部門大会があります．論文誌Cがあります．
 1. [日本機械学会](https://www.jsme.or.jp)
-    - 最適化シンポジウムがあります．学会誌，論文誌があります．
+    - 最適化シンポジウムがあります．
 1. [IEEE Computational Intelligence Society ⽇本⽀部](http://www.ieee-jp.org/section/tokyo/chapter/CIS-11/index.php?TopPage-J)
     - 関連イベントを協賛していることが多いです．YRAの表彰をしています．
 1. [IEEE Systems, Man, and Cybernetics Society ⽇本⽀部](https://www.ieee-jp.org/section/tokyo/chapter/SMC-28)
