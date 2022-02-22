@@ -52,28 +52,10 @@ title: Tom TKG's Homepage
 2018年電気通信大学情報理工学部総合情報学科卒業．2020年同大学大学院情報理工学研究科情報学専攻博士前期課程修了．現在，同専攻博士後期課程在学中．進化計算，多目的最適化，これらの応用に関する研究に従事．2019年電気学会 電子・情報・システム部門大会奨励賞，2020年IEEE CIS日本支部Young Researcher Award，進化計算コンペティション単目的部門トップ賞，多目的部門トップ賞などを受賞．IEEE，進化計算学会，各会員．  
 Tomoaki Takagi received the B.E. and M.E. degrees from the University of Electro-Communications in 2018 and 2020, respectively. He is currently a Ph.D. student at the University of Electro-Communications. His research interests include evolutionary multi- and many-objective optimization and its applications. He is a student member of IEEE and the Japanese Society for Evolutionary Computation.
 
-### 研究テーマ
-- ロボットアームの制御最適化：2017年2月-2018年3月(終了)
-    - DE，kriging，NN，ハイパーパラメータ調整，単目的最適化
-    - 卒業論文
-- 1点の解情報を利用する重みベクトル制御：2018年6月-2019年3月(終了)
-    - MOEA/D，NSGA-III，tWFG4，凹型・凸型PF，多目的最適化
-    - FAN2018，シンポジウム2018，JPNSEC-IWEC，BICT2019
-- 仮想目的ベクトル群を利用する重みベクトル制御1：2019年3月-2020年3月(終了)
-    - MOEA/D，外部アーカイブ，サンプリング，凹型・凸型PF，多目的最適化
-    - 2019年C部門大会，16th研究会，修士論文
+### 研究テーマ(移行中)
 - 仮想目的ベクトル群を利用する重みベクトル制御2：2020年7月-2021年6月(終了)
     - パレートフロント推定，分離型・逆型PF，多目的最適化
     - 18th研究会，シンポジウム2020，CEC2021，進化計算学会論文誌
-- サンプリング法としての環境選択法1：2019年9月-2020年3月(中断)
-    - サンプリング，環境選択法，組み合わせ最適化
-    - シンポジウム2019，CEC2020，修士論文付録
-- 単位超平面上に均一分布する点群1：2020年2月-4月(中断)
-    - Simplex-lattice design，Uniform mixture design
-    - GECCO2020
-- ゲームを楽しくする乱数の設計：2020年11月-2020年12月(終了)
-    - ランダムウォーク，サロゲートアルゴリズム，制約付き単目的最適化
-    - 進化計算コンペティション2020
 - 劣解・非劣解の獲得を目的とする最適化：2019年2月-継続
     - 15th研究会，17th研究会，FAN2021
 - 単位超平面を基準とするパレートフロント推定：2020年9月-継続
@@ -82,8 +64,6 @@ Tomoaki Takagi received the B.E. and M.E. degrees from the University of Electro
     - 20th研究会
 - 3目的最適化結果の可視化法：2021年7月-継続
     - シンポジウム2021
-- 社会シミュレーションによる経済支援施策の設計：2021年10月-継続
-    - 進化計算コンペティション2021
 
 ### PCにインストールしているもの
 - ウェブブラウザ：Edge, Chrome.
