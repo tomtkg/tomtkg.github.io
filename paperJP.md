@@ -4,7 +4,7 @@ title: Tom TKG's Homepage
 ---
 
 ## 和文論文誌
-1. 高木智章, 髙玉圭樹, 佐藤寛之: **推定パレートフロントに基づいて重みベクトル群を配置する多目的進化アルゴリズム**, [進化計算学会論文誌](https://www.jstage.jst.go.jp/browse/tjpnsec/-char/ja){:target="_blank"}, 12巻, 2号, pp. 45--60, 2021. [DOI](https://doi.org/10.11394/tjpnsec.12.45){:target="_blank"}.
+1. 高木智章, 髙玉圭樹, 佐藤寛之: **推定パレートフロントに基づいて重みベクトル群を配置する多目的進化アルゴリズム**, [進化計算学会論文誌](https://www.jstage.jst.go.jp/browse/tjpnsec/-char/ja){:target="_blank"}, 12巻, 2号, pp. 45--60, 2021. [DOI](https://doi.org/10.11394/tjpnsec.12.45){:target="_blank"}, [Code](https://github.com/tomtkg/MOEA-D-PFE){:target="_blank"}.
 
 ## 国内学会論文(筆頭著者)
 1. 高木智章, 髙玉圭樹, 佐藤寛之: **多目的進化計算における重みベクトルの分布に関する基礎検討**,  第28回インテリジェント・システム・シンポジウム (FAN2018), pp. 165--170, 2018.
