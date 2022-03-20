@@ -47,6 +47,7 @@ title: Tom TKG's Homepage
 - FAN 2021 Online プレゼンテーション賞
 - 進化計算コンペティション2021 単目的部門 トップ賞
 - 進化計算コンペティション2021 多目的部門 審査員特別賞
+- 令和3年度 電気通信大学 学生表彰
 
 ### 略歴とShort Biography
 2018年電気通信大学情報理工学部総合情報学科卒業．2020年同大学大学院情報理工学研究科情報学専攻博士前期課程修了．現在，同専攻博士後期課程在学中．進化計算，多目的最適化，これらの応用に関する研究に従事．2019年電気学会 電子・情報・システム部門大会奨励賞，2020年IEEE CIS日本支部Young Researcher Award，進化計算コンペティション単目的部門トップ賞，多目的部門トップ賞などを受賞．IEEE，進化計算学会，各会員．  
@@ -70,7 +71,7 @@ Tomoaki Takagi received the B.E. and M.E. degrees from the University of Electro
 - エディタ：sakura-editor, VS Code.
 - コミュニケーション：Slack, Zoom.
 - ファイル共有：Dropbox, Google drive.
-- プログラミング：Matlab, Python.
+- プログラミング：Matlab, Python, Go.
 - 論文作成：Grammarly, Ghostscript, GSview.
 - EPS：Metafile to EPS Converter.
 - Git：Git Bash, GitHub Desktop.
