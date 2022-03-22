@@ -17,15 +17,15 @@ title: Tom TKG's Homepage
 
 ## 進化計算が関連する国際会議10選
 1. Genetic and Evolutionary Computation Conference (ACM GECCO)
-2. Congress on Evolutionary Computation (IEEE CEC)
-3. Evolutionary Multi-Criterion Optimization (EMO)
-4. Parallel Problem Solving from Nature (PPSN)
-5. Foundations of Genetic Algorithms (FOGA)
-6. Symposium Series on Computational Intelligence (IEEE SSCI)
-7. Systems, Man, and Cybernetics (IEEE SMC)
-8. The Leading European Event on Bio-Inspired Computation (EvoStar)
-9. Evolutionary Computation Theory and Applications (ECTA)
-10. Metaheuristics International Conference (MIC)
+1. Congress on Evolutionary Computation (IEEE CEC)
+1. Evolutionary Multi-Criterion Optimization (EMO)
+1. Parallel Problem Solving from Nature (PPSN)
+1. Foundations of Genetic Algorithms (FOGA)
+1. Symposium Series on Computational Intelligence (IEEE SSCI)
+1. Systems, Man, and Cybernetics (IEEE SMC)
+1. The Leading European Event on Bio-Inspired Computation (EvoStar)
+1. Evolutionary Computation Theory and Applications (ECTA)
+1. Metaheuristics International Conference (MIC)
 
 ## 進化計算が関連する国内学術団体10選
 1. [進化計算学会](http://www.jpnsec.org)
