@@ -18,13 +18,13 @@
         margin: 5px 0 5px 0;
     }
     ul {
-        padding: 0 20px 0 20px;;
+        padding: 0 20px 0 20px;
     }
     ol {
-        padding: 0 30px 0 30px;
+        padding: 0 20px 0 30px;
     }
     ol > li:before {
-        content: counter(list, decimal-leading-zero);
+        content: counter(list, decimal-leading-zero) ".";
         counter-increment: list;
         position: absolute;
         left: -30px;
