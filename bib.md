@@ -50,16 +50,16 @@ title: Tom TKG's Homepage
     - 関連イベントを協賛していることが多いです．
 
 ## 進化計算学会論文誌論文賞 [(bib)](data/tjpnsec.bib)
-1. 2012年：解の支配領域の自己制御による進化型多数目的最適化:多数目的 0/1 ナップザック問題における性能検証と挙動解析
-1. 2013年：被覆度を考慮したマルチスタート法による多目的連続関数最適化： Adaptive Weighted Aggregation
-1. 2014年：Distance-weighted Exponential Natural Evolution Strategyの提案と性能評価
-1. 2015年：二段階の非支配ソーティングと指向性交配による制約付き多目的最適化
-1. 2016年：大域的多峰性関数最適化のための実数値GAの枠組みBig-valley Explorerの提案
-1. 2017年：劣個体分布に基づくDII analysisの提案と応用
-1. 2018年：応答曲面法を用いた複数車種の同時最適化ベンチマーク問題の提案
-1. 2019年：リニアエアロスパイクエンジンの多目的設計最適化
-1. 2020年：オフィスビルにおける空調スケジュールのシミュレーションに基づく進化型多目的最適化
-1. 2021年：レプリカ交換型差分進化マルコフ連鎖による多峰性分布からの効率的なサンプリング
+1. 2012年: 解の支配領域の自己制御による進化型多数目的最適化: 多数目的 0/1 ナップザック問題における性能検証と挙動解析
+1. 2013年: 被覆度を考慮したマルチスタート法による多目的連続関数最適化: Adaptive Weighted Aggregation
+1. 2014年: Distance-weighted Exponential Natural Evolution Strategyの提案と性能評価
+1. 2015年: 二段階の非支配ソーティングと指向性交配による制約付き多目的最適化
+1. 2016年: 大域的多峰性関数最適化のための実数値GAの枠組みBig-valley Explorerの提案
+1. 2017年: 劣個体分布に基づくDII analysisの提案と応用
+1. 2018年: 応答曲面法を用いた複数車種の同時最適化ベンチマーク問題の提案
+1. 2019年: リニアエアロスパイクエンジンの多目的設計最適化
+1. 2020年: オフィスビルにおける空調スケジュールのシミュレーションに基づく進化型多目的最適化
+1. 2021年: レプリカ交換型差分進化マルコフ連鎖による多峰性分布からの効率的なサンプリング
 
 ## IEEE Transactions on Evolutionary Computation Outstanding Paper Award [(bib)](data/tevc.bib)
 1. Parameter control in evolutionary algorithms
