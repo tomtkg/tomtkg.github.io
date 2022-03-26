@@ -50,36 +50,36 @@ title: Tom TKG's Homepage
     - 関連イベントを協賛していることが多いです．
 
 ## 進化計算学会論文誌論文賞 [(bib)](data/tjpnsec.bib)
-1. 2021年：レプリカ交換型差分進化マルコフ連鎖による多峰性分布からの効率的なサンプリング
-1. 2020年：オフィスビルにおける空調スケジュールのシミュレーションに基づく進化型多目的最適化
-1. 2019年：リニアエアロスパイクエンジンの多目的設計最適化
-1. 2018年：応答曲面法を用いた複数車種の同時最適化ベンチマーク問題の提案
-1. 2017年：劣個体分布に基づくDII analysisの提案と応用
-1. 2016年：大域的多峰性関数最適化のための実数値GAの枠組みBig-valley Explorerの提案
-1. 2015年：二段階の非支配ソーティングと指向性交配による制約付き多目的最適化
-1. 2014年：Distance-weighted Exponential Natural Evolution Strategyの提案と性能評価
-1. 2013年：被覆度を考慮したマルチスタート法による多目的連続関数最適化： Adaptive Weighted Aggregation
 1. 2012年：解の支配領域の自己制御による進化型多数目的最適化:多数目的 0/1 ナップザック問題における性能検証と挙動解析
+1. 2013年：被覆度を考慮したマルチスタート法による多目的連続関数最適化： Adaptive Weighted Aggregation
+1. 2014年：Distance-weighted Exponential Natural Evolution Strategyの提案と性能評価
+1. 2015年：二段階の非支配ソーティングと指向性交配による制約付き多目的最適化
+1. 2016年：大域的多峰性関数最適化のための実数値GAの枠組みBig-valley Explorerの提案
+1. 2017年：劣個体分布に基づくDII analysisの提案と応用
+1. 2018年：応答曲面法を用いた複数車種の同時最適化ベンチマーク問題の提案
+1. 2019年：リニアエアロスパイクエンジンの多目的設計最適化
+1. 2020年：オフィスビルにおける空調スケジュールのシミュレーションに基づく進化型多目的最適化
+1. 2021年：レプリカ交換型差分進化マルコフ連鎖による多峰性分布からの効率的なサンプリング
 
 ## IEEE Transactions on Evolutionary Computation Outstanding Paper Award [(bib)](data/tevc.bib)
-1. One pixel attack for fooling deep neural networks
-1. A decision variable clustering-based evolutionary algorithm for large-scale many-objective optimization
-1. Performance of decomposition-based many-objective algorithms strongly depends on Pareto front shapes
-1. Multifactorial evolution: Toward evolutionary multitasking
-1. An efficient approach to nondominated sorting for evolutionary multiobjective optimization
-1. Cooperative co-evolution with differential grouping for large scale optimization
-1. Evolving diverse ensembles using genetic programming for classification with unbalanced data
-1. Using the averaged Hausdorff distance as a performance measure in evolutionary multiobjective optimization
-1. HCS: A new local search strategy for memetic multiobjective evolutionary algorithms
-1. Differential evolution algorithm with strategy adaptation for global numerical optimization
-1. A probabilistic memetic framework
-1. Measuring generalization performance in coevolutionary learning
-1. MOEA/D: A multiobjective evolutionary algorithm based on decomposition
-1. ParEGO: A hybrid algorithm with on-line landscape approximation for expensive multiobjective optimization problems
-1. Search bias in ant colony optimization: On the role of competition-balanced systems
-1. Symmetry breaking in population-based optimization
-1. Properties of an adaptive archiving algorithm for storing nondominated vectors
-1. The particle swarm-explosion, stability, and convergence in a multidimensional complex space
-1. Evolution of functional link networks
-1. Recent developments in evolutionary computation for manufacturing optimization: problems, solutions, and comparisons
 1. Parameter control in evolutionary algorithms
+1. Recent developments in evolutionary computation for manufacturing optimization: problems, solutions, and comparisons
+1. Evolution of functional link networks
+1. The particle swarm-explosion, stability, and convergence in a multidimensional complex space
+1. Properties of an adaptive archiving algorithm for storing nondominated vectors
+1. Symmetry breaking in population-based optimization
+1. Search bias in ant colony optimization: On the role of competition-balanced systems
+1. ParEGO: A hybrid algorithm with on-line landscape approximation for expensive multiobjective optimization problems
+1. MOEA/D: A multiobjective evolutionary algorithm based on decomposition
+1. Measuring generalization performance in coevolutionary learning
+1. A probabilistic memetic framework
+1. Differential evolution algorithm with strategy adaptation for global numerical optimization
+1. HCS: A new local search strategy for memetic multiobjective evolutionary algorithms
+1. Using the averaged Hausdorff distance as a performance measure in evolutionary multiobjective optimization
+1. Evolving diverse ensembles using genetic programming for classification with unbalanced data
+1. Cooperative co-evolution with differential grouping for large scale optimization
+1. An efficient approach to nondominated sorting for evolutionary multiobjective optimization
+1. Multifactorial evolution: Toward evolutionary multitasking
+1. Performance of decomposition-based many-objective algorithms strongly depends on Pareto front shapes
+1. A decision variable clustering-based evolutionary algorithm for large-scale many-objective optimization
+1. One pixel attack for fooling deep neural networks
