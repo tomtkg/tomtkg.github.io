@@ -49,7 +49,7 @@ title: Tom TKG's Homepage
 1. [IEEE Systems, Man, and Cybernetics Society ⽇本⽀部](https://www.ieee-jp.org/section/tokyo/chapter/SMC-28)
     - 関連イベントを協賛していることが多いです．
 
-## 進化計算学会論文誌論文賞 [(bib)](data/tjpnsec.bib)
+## 進化計算学会論文誌論文賞 [(bib)](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/tjpnsec.bib)
 1. 2012年: 解の支配領域の自己制御による進化型多数目的最適化: 多数目的 0/1 ナップザック問題における性能検証と挙動解析
 1. 2013年: 被覆度を考慮したマルチスタート法による多目的連続関数最適化: Adaptive Weighted Aggregation
 1. 2014年: Distance-weighted Exponential Natural Evolution Strategyの提案と性能評価
@@ -61,7 +61,7 @@ title: Tom TKG's Homepage
 1. 2020年: オフィスビルにおける空調スケジュールのシミュレーションに基づく進化型多目的最適化
 1. 2021年: レプリカ交換型差分進化マルコフ連鎖による多峰性分布からの効率的なサンプリング
 
-## IEEE Transactions on Evolutionary Computation Outstanding Paper Award [(bib)](data/tevc.bib)
+## IEEE Transactions on Evolutionary Computation Outstanding Paper Award [(bib)](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/tevc.bib)
 1. Parameter control in evolutionary algorithms
 1. Recent developments in evolutionary computation for manufacturing optimization: problems, solutions, and comparisons
 1. Evolution of functional link networks
