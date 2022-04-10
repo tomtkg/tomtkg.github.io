@@ -20,7 +20,7 @@ title: Tom TKG's Homepage
     - 言語はJavaです．1998年から続いているプロジェクトのようです．
 1. [ecr](https://github.com/jakobbossek/ecr2), [paper](http://doi.acm.org/10.1145/3205651.3208312)
     - 言語はRです．
-1. [pagmo, pygmo](https://github.com/esa/pagmo2), [paper](https://doi.org/10.21105/joss.02338)
+1. [pagmo/pygmo](https://github.com/esa/pagmo2), [paper](https://doi.org/10.21105/joss.02338)
     - C++版のpagmo，Python版のpygmoがあります．
 1. [PyGAD](https://github.com/ahmedfgad/GeneticAlgorithmPython), [paper](https://arxiv.org/abs/2106.06158)
     - 言語はPythonです．
