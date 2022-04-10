@@ -3,7 +3,7 @@ layout: default
 title: Tom TKG's Homepage
 ---
 
-## 進化計算ライブラリ5選
+## 進化計算ライブラリ10選 [(bib)](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/library.bib)
 1. [PlatEMO](https://github.com/BIMK/PlatEMO), [paper](https://doi.org/10.1109/MCI.2017.2742868)
     - 言語はMATLABです．150以上の進化アルゴリズム，300以上のベンチマーク問題があります．
 1. [pymoo](https://github.com/anyoptimization/pymoo), [paper](https://doi.org/10.1109/ACCESS.2020.2990567)
@@ -12,8 +12,18 @@ title: Tom TKG's Homepage
     - 基本言語はJavaですが，Python版，C++版もあります．
 1. [DEAP](https://github.com/DEAP/deap), [paper](https://jmlr.csail.mit.edu/papers/v13/fortin12a.html)
     - 言語はPythonです．色々なPythonライブラリで利用されています．
-1. [optuna](https://github.com/optuna/optuna), [paper](https://doi.org/10.1145/3292500.3330701)
+1. [Optuna](https://github.com/optuna/optuna), [paper](https://doi.org/10.1145/3292500.3330701)
     - 言語はPythonです．公開元は日本の企業Preferred Networksです．
+1. [Paradiseo](https://github.com/nojhan/paradiseo), [paper](https://doi.org/10.1145/3449726.3463276)
+    - 言語はC++です．1999年から続いているプロジェクトのようです．
+1. [ECJ](https://github.com/GMUEClab/ecj), [paper](https://doi.org/10.1145/3319619.3326865)
+    - 言語はJavaです．1998年から続いているプロジェクトのようです．
+1. [ecr](https://github.com/jakobbossek/ecr2), [paper](http://doi.acm.org/10.1145/3205651.3208312)
+    - 言語はRです．
+1. [pagmo, pygmo](https://github.com/esa/pagmo2), [paper](https://doi.org/10.21105/joss.02338)
+    - C++版のpagmo，Python版のpygmoがあります．
+1. [PyGAD](https://github.com/ahmedfgad/GeneticAlgorithmPython), [paper](https://arxiv.org/abs/2106.06158)
+    - 言語はPythonです．
 
 ## 進化計算が関連する国際会議10選
 1. Genetic and Evolutionary Computation Conference (ACM GECCO)
