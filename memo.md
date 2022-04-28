@@ -6,6 +6,7 @@ title: Tom TKG's Homepage
 [学会カレンダー](#学会カレンダー)  
 [受賞歴](#受賞歴)  
 [略歴とShort Biography](#略歴とshort-biography)  
+[ブログ](#ブログ)  
 [研究テーマ](#研究テーマ)  
 [PCにインストールしているもの](#pcにインストールしているもの)  
 [進化計算学会の簡易まとめ](#進化計算学会の簡易まとめ)  
@@ -54,6 +55,11 @@ title: Tom TKG's Homepage
 ### 略歴とShort Biography
 2018年電気通信大学情報理工学部総合情報学科卒業．2020年同大学大学院情報理工学研究科情報学専攻博士前期課程修了．現在，同専攻博士後期課程在学中．進化計算，多目的最適化，これらの応用に関する研究に従事．2019年電気学会 電子・情報・システム部門大会奨励賞，2020年IEEE CIS日本支部Young Researcher Award，進化計算コンペティション単目的部門トップ賞，多目的部門トップ賞などを受賞．IEEE，進化計算学会，各会員．  
 Tomoaki Takagi received the B.E. and M.E. degrees from the University of Electro-Communications in 2018 and 2020, respectively. He is currently a Ph.D. student at the University of Electro-Communications. His research interests include evolutionary multi- and many-objective optimization and its applications. He is a student member of IEEE and the Japanese Society for Evolutionary Computation.
+
+### ブログ
+- [中身が2行だけ書かれたプログラムを全力解説（前編）](https://www.timedia.co.jp/tech/20220414-tech)
+- [中身が2行だけ書かれたプログラムを全力解説（中編）](https://www.timedia.co.jp/tech/20220427-tech)
+- 中身が2行だけ書かれたプログラムを全力解説（後編）
 
 ### 研究テーマ(移行中)
 - 仮想目的ベクトル群を利用する重みベクトル制御2：2020年7月-2021年6月(終了)
