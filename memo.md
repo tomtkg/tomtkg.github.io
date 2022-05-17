@@ -59,7 +59,7 @@ Tomoaki Takagi received the B.E. and M.E. degrees from the University of Electro
 ### ブログ
 - [中身が2行だけ書かれたプログラムを全力解説（前編）](https://www.timedia.co.jp/tech/20220414-tech)
 - [中身が2行だけ書かれたプログラムを全力解説（中編）](https://www.timedia.co.jp/tech/20220427-tech)
-- 中身が2行だけ書かれたプログラムを全力解説（後編）
+- [中身が2行だけ書かれたプログラムを全力解説（後編）](https://www.timedia.co.jp/tech/20220517-tech)
 
 ### 研究テーマ(移行中)
 - 仮想目的ベクトル群を利用する重みベクトル制御2：2020年7月-2021年6月(終了)
