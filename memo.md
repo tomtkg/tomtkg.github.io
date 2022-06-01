@@ -28,12 +28,14 @@ title: Tom TKG's Homepage
 会場：Padua, Italy　申込〆切：　　原稿〆切：1/31(月)　採択通知：4/26(火)</details>
 <details><summary>2022年8月21(日)-24(水)：<a href="https://ieee-cog.org/2022" target="_blank">IEEE CoG</a></summary>
 会場：Beijing, China　申込〆切：　　原稿〆切：3/1(火)　採択通知：4/30(土)</details>
+<details><summary>2022年9月7(水)-8(木)：<a href="http://www.jpnsec.org/symposium202202.html" target="_blank">第22回進化計算学会研究会</a></summary>
+会場：日本, 東京　申込〆切：8/11(木)　原稿〆切：8/25(木)　採択通知：</details>
 <details><summary>2022年9月9(金)-11(日)：<a href="https://www.icmlc.com/" target="_blank">IEEE ICMLC</a></summary>
 会場：富山, 日本　申込〆切：　　原稿〆切：6/1(水)　採択通知：8/1(月)</details>
 <details><summary>2022年9月10(土)-14(水)：<a href="https://ppsn2022.cs.tu-dortmund.de" target="_blank">PPSN</a></summary>
 会場：Dortmund, Germany　申込〆切：　　原稿〆切：4/13(水)　採択通知：</details>
-<details><summary>2022年9月：<a href="http://www.jpnsec.org/symposium202202.html" target="_blank">第22回進化計算学会研究会</a></summary>
-会場：日本, オンライン　申込〆切：　　原稿〆切：　　採択通知：</details>
+<details><summary>2022年9月21(水)-22(木)：<a href="https://sites.google.com/view/fan2022" target="_blank">FAN</a></summary>
+会場：日本, 神戸　申込〆切：6/15(水)　原稿〆切：7/15(水)　採択通知：</details>
 <details><summary>2022年11月29(火)-12月2(金)：<a href="http://scis.j-soft.org/2022" target="_blank">SCIS&ISIS</a></summary>
 会場：伊勢志摩　申込〆切：　　原稿〆切：6/24(金)　採択通知：8/19(木)</details>
 <details><summary>2022年12月4(日)-7(水)：<a href="https://www.ieeessci2022.org" target="_blank">IEEE SSCI</a></summary>
