@@ -71,12 +71,13 @@ title: Tom TKG's Homepage
 - 東京都立 大学 [原田 智広](https://www.comp.sd.tmu.ac.jp/tomohiro-harada) 研究室
 - 東北　　 大学 [大林 茂　](http://www.ifs.tohoku.ac.jp/edge/oobayashi/J_oobayashi_official.html) 研究室
 - 東北　　 大学 [下山 幸治](https://www.ifs.tohoku.ac.jp/shimoyama) 研究室
+- 南方科技 大学 [石渕 久生](https://hisaolab-sustech.github.io) 研究室
 - 新潟　　 大学 [余　 俊　](https://www.eng.niigata-u.ac.jp/~yujun) 研究室
 - 室蘭工業 大学 [渡邉 真也](http://is.csse.muroran-it.ac.jp/index.php?Computational%20Intelligence%20Laboratory) 研究室
 - 横浜国立 大学 [白川 真一](http://shiralab.ynu.ac.jp) 研究室
 - 横浜国立 大学 [田邊 遼司](https://aopt-lab.github.io) 研究室
 - 横浜国立 大学 [中田 雅也](http://www.nkt.ynu.ac.jp) 研究室
-- JAXA 　　　　[大山 聖　 ](https://ladse.eng.isas.jaxa.jp) 研究室
+- JAXA　　　　　[大山 聖　 ](https://ladse.eng.isas.jaxa.jp) 研究室
 
 ## 進化計算学会論文誌論文賞 [(bib)](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/tjpnsec.bib)
 1. 2012年: 解の支配領域の自己制御による進化型多数目的最適化: 多数目的 0/1 ナップザック問題における性能検証と挙動解析
