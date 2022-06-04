@@ -59,6 +59,25 @@ title: Tom TKG's Homepage
 1. [IEEE Systems, Man, and Cybernetics Society ⽇本⽀部](https://www.ieee-jp.org/section/tokyo/chapter/SMC-28)
     - 関連イベントを協賛していることが多いです．
 
+## 進化計算が関連する研究室
+- 大阪公立 大学 [能島 裕介](https://cil-omu.herokuapp.com/index_j.php) 研究室
+- 筑波　　 大学 [秋本 洋平](https://www.bbo.cs.tsukuba.ac.jp) 研究室
+- 電気通信 大学 [佐藤 寛之](https://nic.lab.uec.ac.jp) 研究室
+- 電気通信 大学 [髙玉 圭樹](http://www.cas.lab.uec.ac.jp) 研究室
+- 電気通信 大学 [千葉 一永](http://www.di.mi.uec.ac.jp) 研究室
+- 東京　　 大学 [伊庭 斉志](http://www.iba.t.u-tokyo.ac.jp) 研究室
+- 東京工業 大学 [小野 功　](http://www.ic.dis.titech.ac.jp/main/doku.php) 研究室
+- 東京都立 大学 [金崎 雅博](https://kana2013.blogspot.com) 研究室
+- 東京都立 大学 [原田 智広](https://www.comp.sd.tmu.ac.jp/tomohiro-harada) 研究室
+- 東北　　 大学 [大林 茂　](http://www.ifs.tohoku.ac.jp/edge/oobayashi/J_oobayashi_official.html) 研究室
+- 東北　　 大学 [下山 幸治](https://www.ifs.tohoku.ac.jp/shimoyama) 研究室
+- 新潟　　 大学 [余　 俊　](https://www.eng.niigata-u.ac.jp/~yujun) 研究室
+- 室蘭工業 大学 [渡邉 真也](http://is.csse.muroran-it.ac.jp/index.php?Computational%20Intelligence%20Laboratory) 研究室
+- 横浜国立 大学 [白川 真一](http://shiralab.ynu.ac.jp) 研究室
+- 横浜国立 大学 [田邊 遼司](https://aopt-lab.github.io) 研究室
+- 横浜国立 大学 [中田 雅也](http://www.nkt.ynu.ac.jp) 研究室
+- JAXA 　　　　[大山 聖　 ](https://ladse.eng.isas.jaxa.jp) 研究室
+
 ## 進化計算学会論文誌論文賞 [(bib)](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/tjpnsec.bib)
 1. 2012年: 解の支配領域の自己制御による進化型多数目的最適化: 多数目的 0/1 ナップザック問題における性能検証と挙動解析
 1. 2013年: 被覆度を考慮したマルチスタート法による多目的連続関数最適化: Adaptive Weighted Aggregation
