@@ -66,6 +66,7 @@ Tomoaki Takagi received the B.E. and M.E. degrees from the University of Electro
 - [Excelで進化計算(1)](https://www.timedia.co.jp/tech/20220606-tech)
 - [Excelで進化計算(2)](https://www.timedia.co.jp/tech/20220608-tech)
 - [Excelで進化計算(3)](https://www.timedia.co.jp/tech/20220623-tech)
+- [Latin hypercube sampling(LHS) を調査](https://www.timedia.co.jp/tech/20220714-tech/)
 
 ### 研究テーマ(移行中)
 - 仮想目的ベクトル群を利用する重みベクトル制御2：2020年7月-2021年6月(終了)
