@@ -149,14 +149,9 @@ end
 <p><embed src="image/image.pdf#toolbar=0&navpanes=0&scrollbar=0&view=FitB" type="application/pdf" width="300" height="315"><a href="image/image.jpg"><img src="image/image.jpg" width="420"/></a></p>
 
 ### Springer LNCSスタイルファイルのダウンロード方法
-まず最初に，2021年3月10日時点でのSpringer LNCSスタイルファイルのURLを示す.  
-ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip  
-Springer LNCSのURLは，http，httpsではなくftpから始まっている．  
-Google Chrome，Microsoft Edgeなどはftpへの対応を止めたため，通常の設定ではファイルのダウンロードが不可能となっている．  
-ファイルをダウンロードする一番簡単な解決策はInternet Explorerで上記URLを開くことである．  
-ただし，安全に利用できないとして他のウェブブラウザでは利用を非推奨・不可能にしているものを，開発が終了した古いウェブブラウザを使って安全でない状態で利用する点に注意されたい．  
-他の手段，スタンドアロンのFTPソフトウエアを利用する方法でもダウンロードができる．  
-Springerがftpを利用しないファイル提供方法を用意することを期待したい．(ファイルの再頒布許可を期待したい）
+~~まず最初に，2021年3月10日時点でのSpringer LNCSスタイルファイルのURLを示す．ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip　Springer LNCSのURLは，http，httpsではなくftpから始まっている．Google Chrome，Microsoft Edgeなどはftpへの対応を止めたため，通常の設定ではファイルのダウンロードが不可能となっている．ファイルをダウンロードする一番簡単な解決策はInternet Explorerで上記URLを開くことである．ただし，安全に利用できないとして他のウェブブラウザでは利用を非推奨・不可能にしているものを，開発が終了した古いウェブブラウザを使って安全でない状態で利用する点に注意されたい．他の手段，スタンドアロンのFTPソフトウエアを利用する方法でもダウンロードができる．Springerがftpを利用しないファイル提供方法を用意することを期待したい．(ファイルの再頒布許可を期待したい）~~  
+[こちら](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)から，ダウンロードできるようになりました．  
+ftpは，使えなくなっていました．Versionと日付が新しいので，「LaTeX2e Proceedings Templates」をダウンロードして使うのが良いと思います．
 
 ### IEEEなどの投稿規定を満たすPDF作成方法
 IEEEなどに投稿する最終論文は，学会が用意した機械的なチェックをクリアしないと投稿できない．  
