@@ -13,7 +13,7 @@ description: The site owner is an AI researcher and he is mainly interested in e
 Computational Intelligence, Evolutionary Computation, Optimization.
 
 ## Latest publication
-Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Supervised Multi-objective Optimization Algorithm Using Estimation**, Proc. of IEEE Congress on Evolutionary Computation ([CEC2022](https://wcci2022.org){:target="_blank"}), 2022. [Code](https://github.com/tomtkg/SMOA){:target="_blank"}.
+Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Supervised Multi-objective Optimization Algorithm Using Estimation**, Proc. of IEEE Congress on Evolutionary Computation ([CEC2022](https://wcci2022.org){:target="_blank"}), pp. 1--8, 2022. [DOI](https://doi.org/10.1109/CEC55065.2022.9870375){:target="_blank"}, [Code](https://github.com/tomtkg/SMOA){:target="_blank"}.
 
 ## Awards
 IEEE CIS Japan Chapter Young Researcher Award, [2020 Symposium on Evolutionary Computation](http://www.jpnsec.org/yra.html){:target="_blank"}.  
