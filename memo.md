@@ -31,7 +31,7 @@ title: Tom TKG's Homepage
 <details><summary>2022年9月7(水)-8(木)：<a href="http://www.jpnsec.org/symposium202202.html" target="_blank">第22回進化計算学会研究会</a></summary>
 会場：日本, 東京　申込〆切：8/11(木)　原稿〆切：8/25(木)　採択通知：</details>
 <details><summary>2022年9月9(金)-11(日)：<a href="https://www.icmlc.com/" target="_blank">IEEE ICMLC</a></summary>
-会場：富山, 日本　申込〆切：　　原稿〆切：6/1(水)　採択通知：8/1(月)</details>
+会場：日本, 富山　申込〆切：　　原稿〆切：6/1(水)　採択通知：8/1(月)</details>
 <details><summary>2022年9月10(土)-14(水)：<a href="https://ppsn2022.cs.tu-dortmund.de" target="_blank">PPSN</a></summary>
 会場：Dortmund, Germany　申込〆切：　　原稿〆切：4/13(水)　採択通知：</details>
 <details><summary>2022年9月21(水)-22(木)：<a href="https://sites.google.com/view/fan2022" target="_blank">FAN</a></summary>
@@ -43,13 +43,15 @@ title: Tom TKG's Homepage
 <details><summary>2022年12月4(日)-7(水)：<a href="https://www.ieeessci2022.org" target="_blank">IEEE SSCI</a></summary>
 会場：Singapore　申込〆切：　　原稿〆切：7/1(金)　採択通知：9/1(木)</details>
 <details><summary>2022年12月17(土)-18(日)：<a href="http://www.jpnsec.org/symposium202203.html" target="_blank">進化計算シンポジウム2022</a></summary>
-会場：札幌　申込〆切：11/11(金)　原稿〆切：11/27(金)　採択通知：</details>
+会場：日本, 札幌　申込〆切：11/11(金)　原稿〆切：11/27(金)　採択通知：</details>
 <details><summary>2023年3月20(月)-24(金)：<a href="https://emo2023.liacs.leidenuniv.nl" target="_blank">EMO</a></summary>
 会場：Leiden, Netherlands　申込〆切：　　原稿〆切：10/27(木)　採択通知：11/21(月)　</details>
-<details><summary>2023年7月2(日)-5(水)：<a href="https://2023.ieee-cec.org" target="_blank">CEC</a></summary>
+<details><summary>2023年7月2(日)-5(水)：<a href="https://2023.ieee-cec.org" target="_blank">IEEE CEC</a></summary>
 会場：Chicago, USA　申込〆切：　　原稿〆切：　　　　採択通知：</details>
 <details><summary>2023年7月15(土)-19(水)：<a href="https://gecco-2023.sigevo.org" target="_blank">GECCO</a></summary>
 会場：Lisbon, Portugal　申込〆切：　　原稿〆切：　　　　採択通知：</details>
+<details><summary>2024年7月2(日)-5(水)：<a href="https://wcci2024.org/" target="_blank">IEEE WCCI</a></summary>
+会場：日本, 横浜　申込〆切：　　原稿〆切：　　　　採択通知：</details>
 
 ### 受賞歴
 - 電気学会 2019年 電子・情報・システム部門大会 奨励賞 2020/9/10
