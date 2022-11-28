@@ -45,13 +45,13 @@ title: Tom TKG's Homepage
 <details><summary>2022年12月17(土)-18(日)：<a href="http://www.jpnsec.org/symposium202203.html" target="_blank">進化計算シンポジウム2022</a></summary>
 会場：日本, 札幌　申込〆切：11/11(金)　原稿〆切：11/27(金)　採択通知：</details>
 <details><summary>2023年3月20(月)-24(金)：<a href="https://emo2023.liacs.leidenuniv.nl" target="_blank">EMO</a></summary>
-会場：Leiden, Netherlands　申込〆切：　　原稿〆切：10/27(木)　採択通知：11/21(月)　</details>
+会場：Leiden, Netherlands　申込〆切：　　原稿〆切：10/27(木)　採択通知：12/2(金)　</details>
 <details><summary>2023年7月2(日)-5(水)：<a href="https://2023.ieee-cec.org" target="_blank">IEEE CEC</a></summary>
 会場：Chicago, USA　申込〆切：　　原稿〆切：　　　　採択通知：</details>
 <details><summary>2023年7月15(土)-19(水)：<a href="https://gecco-2023.sigevo.org" target="_blank">GECCO</a></summary>
 会場：Lisbon, Portugal　申込〆切：　　原稿〆切：　　　　採択通知：</details>
-<details><summary>2024年7月2(日)-5(水)：<a href="https://wcci2024.org/" target="_blank">IEEE WCCI</a></summary>
-会場：日本, 横浜　申込〆切：　　原稿〆切：　　　　採択通知：</details>
+<details><summary>2024年7月2(日)-5(水)：<a href="https://wcci2024.org" target="_blank">IEEE WCCI</a></summary>
+会場：日本, 横浜　申込〆切：　　原稿〆切：1/15(月)　採択通知：3/15(金)</details>
 
 ### 受賞歴
 - 電気学会 2019年 電子・情報・システム部門大会 奨励賞 2020/9/10
@@ -82,6 +82,7 @@ Tomoaki Takagi received the B.E. and M.E. degrees from the University of Electro
 - [WCCI2022(3) 口頭発表レポート](https://www.timedia.co.jp/tech/20220825-tech)
 - [WCCI2022(4) 現地参加レポート](https://www.timedia.co.jp/tech/20220830-tech)
 - [EvoTorch触ってみた](https://www.timedia.co.jp/tech/20221101-tech)
+- [Issueを初投稿した話](https://www.timedia.co.jp/tech/20221124-tech)
 
 ### 研究テーマ(移行中)
 - 仮想目的ベクトル群を利用する重みベクトル制御2：2020年7月-2021年6月(終了)
@@ -107,8 +108,8 @@ Tomoaki Takagi received the B.E. and M.E. degrees from the University of Electro
 - Git：Git Bash, GitHub Desktop.
 - PDF：pdf_as, Sumatra PDF.
 - Tex：TexStudio, TeXWorks.
-- Unix：Docker, GnuWin32, WSL.
-- その他：7-Zip, OpenVPN, MPC-HC, MS Office, WinMerge.
+- Unix：Docker, GnuWin32, WSL2.
+- その他：7-Zip, OpenVPN, MPC-HC, Office365, WinMerge.
 
 ### 進化計算学会の簡易まとめ
 進化計算学会論文誌に掲載されている論文を表形式でまとめた．  
@@ -169,7 +170,7 @@ IEEEなどに投稿する最終論文は，学会が用意した機械的なチ�
 - texのコンパイルはplatexではなく，pdflatexを使う
 - pdffontsコマンドで使われているフォント情報を確認
     - pdffonts hoge.pdfで全体確認
-    - pdffonts -f 5 -l 6 hoge.pdf で5,6ページ目だけ確認
+    - pdffonts -f 4 -l 6 hoge.pdf で4～6ページだけ確認
 - Syntax ErrorかType3が表示されたらアウト
 - 基本的にeps画像が悪いと考えてよい
 - パワーポイントの画像をepsにするならMetafile to EPS Converterを使う．かつ詳細オプションのTrueTypeフォントとダウンロードオプションを画像のように変更
