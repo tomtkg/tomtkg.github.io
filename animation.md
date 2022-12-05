@@ -6,12 +6,12 @@ use_math: true
 
 ## GIF Animation
 ### OneMax problem:
-$$ \text{Maximize } f(\boldsymbol{x}) = \sum_{i=1}^n x_i$$&nbsp;&nbsp;&nbsp;&nbsp;$$x_i \in \{0,1\}$$&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) = (1,1,\dots,1)$$
+$$ \text{Maximize } f(\boldsymbol{x}) = \sum_{i=1}^n x_i$$&nbsp;&nbsp;&nbsp;&nbsp;$$x_i \in \{0,1\}$$&nbsp;&nbsp;&nbsp;&nbsp;$$f(\boldsymbol{x}^*) = f(1,1,\dots,1) = n$$
 
 <a href="animation/OneMax1.gif"><img src="animation/OneMax1.gif"></a>
 
 ### Extended OneMax problem:
-$$ \text{Maximize } f(\boldsymbol{x}) = \sum_{i=1}^n F(x_i)$$&nbsp;&nbsp;&nbsp;&nbsp;$$F(x_i) = \cases{1 & \text{if } x_i=1\cr 0 & \text{otherwise}}$$&nbsp;&nbsp;&nbsp;&nbsp;$$x_i \in \{0,1,\dots,5\}$$&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) = (1,1,\dots,1)$$
+$$ \text{Maximize } f(\boldsymbol{x}) = \sum_{i=1}^n F(x_i)$$&nbsp;&nbsp;&nbsp;&nbsp;$$F(x_i) = \cases{1 & \text{if } x_i=1\cr 0 & \text{otherwise}}$$&nbsp;&nbsp;&nbsp;&nbsp;$$x_i \in \{0,1,\dots,5\}$$&nbsp;&nbsp;&nbsp;$$f(\boldsymbol{x^*}) = f(1,1,\dots,1) = n$$
 
 <a href="animation/OneMax2.gif"><img src="animation/OneMax2.gif"></a>
 
@@ -31,21 +31,21 @@ $$ \text{Maximize } f(\boldsymbol{x}) = \sum_{j=1}^3\sum_{i=1}^n v_iF(x_i,j)$$&n
 
 ### Ackley function:
 $$ \text{Minimize } f(\boldsymbol{x}) = -20 \exp(-0.2 \sqrt{\frac{1}{n} \sum_{i=1}^n x_i^2}) - \exp(\frac{1}{n} \sum_{i=1}^n \cos(2\pi x_i)) + 20 + \exp(1)$$  
-$$-5 \leq x_i \leq 5$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) = (0,0,\dots,0)=0 $$
+$$-5 \leq x_i \leq 5$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f(\boldsymbol{x}^*) = f(0,0,\dots,0)=0 $$
 
 <a href="animation/AckleyGA.gif"><img src="animation/AckleyGA.gif" width="250"/></a><a href="animation/AckleyEP.gif"><img src="animation/AckleyEP.gif" width="250"/></a><a href="animation/AckleyPBIL.gif"><img src="animation/AckleyPBIL.gif" width="250"/></a>
 <a href="animation/AckleyDE.gif"><img src="animation/AckleyDE.gif" width="250"/></a><a href="animation/AckleyPSO.gif"><img src="animation/AckleyPSO.gif" width="250"/></a><a href="animation/AckleyAS.gif"><img src="animation/AckleyAS.gif" width="250"/></a>
 
 ### Rosenbrock function:
 $$ \text{Minimize } f(\boldsymbol{x}) = \sum_{i=1}^{n-1} (100(x_{i+1}-x_i^2)^2+(1-x_i)^2)$$  
-$$-5 \leq x_i \leq 5$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) = (1,1,\dots,1)=0 $$
+$$-5 \leq x_i \leq 5$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f(\boldsymbol{x}^*) = f(1,1,\dots,1)=0 $$
 
 <a href="animation/RosenbrockGA.gif"><img src="animation/RosenbrockGA.gif" width="250"/></a><a href="animation/RosenbrockEP.gif"><img src="animation/RosenbrockEP.gif" width="250"/></a><a href="animation/RosenbrockPBIL.gif"><img src="animation/RosenbrockPBIL.gif" width="250"/></a>
 <a href="animation/RosenbrockDE.gif"><img src="animation/RosenbrockDE.gif" width="250"/></a><a href="animation/RosenbrockPSO.gif"><img src="animation/RosenbrockPSO.gif" width="250"/></a><a href="animation/RosenbrockAS.gif"><img src="animation/RosenbrockAS.gif" width="250"/></a>
 
 ### Sphere function:
 $$ \text{Minimize } f(\boldsymbol{x}) = \sum_{i=1}^n x_i^2$$  
-$$-5 \leq x_i \leq 5$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f^*(\boldsymbol{x}) = (0,0,\dots,0)=0 $$
+$$-5 \leq x_i \leq 5$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f(\boldsymbol{x}^*) = f(0,0,\dots,0)=0 $$
 
 <a href="animation/SphereGA.gif"><img src="animation/SphereGA.gif" width="250"/></a><a href="animation/SphereEP.gif"><img src="animation/SphereEP.gif" width="250"/></a><a href="animation/SpherePBIL.gif"><img src="animation/SpherePBIL.gif" width="250"/></a>
 <a href="animation/SphereDE.gif"><img src="animation/SphereDE.gif" width="250"/></a><a href="animation/SpherePSO.gif"><img src="animation/SpherePSO.gif" width="250"/></a><a href="animation/SphereAS.gif"><img src="animation/SphereAS.gif" width="250"/></a>
