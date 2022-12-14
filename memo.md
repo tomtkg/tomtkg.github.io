@@ -83,6 +83,8 @@ Tomoaki Takagi received the B.E. and M.E. degrees from the University of Electro
 - [WCCI2022(4) 現地参加レポート](https://www.timedia.co.jp/tech/20220830-tech)
 - [EvoTorch触ってみた](https://www.timedia.co.jp/tech/20221101-tech)
 - [Issueを初投稿した話](https://www.timedia.co.jp/tech/20221124-tech)
+- [LaTeXで印刷に適した文書を作成する](https://www.timedia.co.jp/tech/20221201-tech)
+- [LaTeXの便利なパッケージ](https://www.timedia.co.jp/tech/20221208-tech)
 
 ### 研究テーマ(移行中)
 - 仮想目的ベクトル群を利用する重みベクトル制御2：2020年7月-2021年6月(終了)
