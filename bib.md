@@ -90,6 +90,7 @@ title: Tom TKG's Homepage
 1. 2019年: リニアエアロスパイクエンジンの多目的設計最適化
 1. 2020年: オフィスビルにおける空調スケジュールのシミュレーションに基づく進化型多目的最適化
 1. 2021年: レプリカ交換型差分進化マルコフ連鎖による多峰性分布からの効率的なサンプリング
+1. 2022年: 推定パレートフロントに基づいて重みベクトル群を配置する多目的進化アルゴリズム
 
 ## IEEE Transactions on Evolutionary Computation Outstanding Paper Award [(bib)](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/tevc.bib)
 1. Parameter control in evolutionary algorithms
@@ -113,3 +114,4 @@ title: Tom TKG's Homepage
 1. Performance of decomposition-based many-objective algorithms strongly depends on Pareto front shapes
 1. A decision variable clustering-based evolutionary algorithm for large-scale many-objective optimization
 1. One pixel attack for fooling deep neural networks
+1. Multifactorial evolutionary algorithm with online transfer parameter estimation: MFEA-II
