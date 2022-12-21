@@ -63,6 +63,7 @@ title: Tom TKG's Homepage
 - 進化計算コンペティション2021 単目的部門 トップ賞 2021/12/25
 - 進化計算コンペティション2021 多目的部門 審査員特別賞 2021/12/25
 - 令和3年度 電気通信大学 学生表彰 2022/3/24
+- 論文賞 進化計算学会論文誌 2022/12/18
 
 ### 略歴とShort Biography
 2018年電気通信大学情報理工学部総合情報学科卒業．2020年同大学大学院情報理工学研究科情報学専攻博士前期課程修了．現在，同専攻博士後期課程在学中．進化計算，多目的最適化，これらの応用に関する研究に従事．2019年電気学会 電子・情報・システム部門大会奨励賞，2020年IEEE CIS日本支部Young Researcher Award，進化計算コンペティション単目的部門トップ賞，多目的部門トップ賞などを受賞．IEEE，進化計算学会，各会員．  
@@ -85,6 +86,7 @@ Tomoaki Takagi received the B.E. and M.E. degrees from the University of Electro
 - [Issueを初投稿した話](https://www.timedia.co.jp/tech/20221124-tech)
 - [LaTeXで印刷に適した文書を作成する](https://www.timedia.co.jp/tech/20221201-tech)
 - [LaTeXの便利なパッケージ](https://www.timedia.co.jp/tech/20221208-tech)
+- [SSI2022 参加報告](https://www.timedia.co.jp/tech/20221215-tech)
 
 ### 研究テーマ(移行中)
 - 仮想目的ベクトル群を利用する重みベクトル制御2：2020年7月-2021年6月(終了)
