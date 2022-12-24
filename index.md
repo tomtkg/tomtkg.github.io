@@ -10,19 +10,19 @@ description: The site owner is an AI researcher and he is mainly interested in e
 
 ## Research Interest
 
-Computational Intelligence, Evolutionary Computation, Optimization.
+Computational Intelligence, Evolutionary Computation, and Optimization.
 
 ## Latest publication
+Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Pareto Front Estimation Using Unit Hyperplane**, Proc. of The 12th Edition of International Conference Series on Evolutionary Multi-Criterion Optimization ([EMO2023](https://emo2023.liacs.leidenuniv.nl){:target="_blank"}), 13 pages, 2023.
 Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Supervised Multi-objective Optimization Algorithm Using Estimation**, Proc. of IEEE Congress on Evolutionary Computation ([CEC2022](https://wcci2022.org){:target="_blank"}), pp. 1--8, 2022. [DOI](https://doi.org/10.1109/CEC55065.2022.9870375){:target="_blank"}, [Code](https://github.com/tomtkg/SMOA){:target="_blank"}.  
-Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Multi-objective Evolutionary Algorithm Using Weight Vector Arrangement Based on Pareto Front Estimation**, Transaction of the Japanese Society for Evolutionary Computation (Japanese), Vol. 12, No. 2, pp. 45--60, 2021. [DOI](https://doi.org/10.11394/tjpnsec.12.45){:target="_blank"}, [Code](https://github.com/tomtkg/MOEA-D-PFE){:target="_blank"}. Best Papar Award.
 
 ## Awards
+2022 Beat paper Award, [Transaction of the Japanese Society for Evolutionary Computation](http://www.jpnsec.org/prize.html){:target="_blank"}.  
+First Award, Single-Objective Track, [Evolutionary Computation Competition 2021](https://ec-comp.jpnsec.org/competitions/eccomp2021){:target="_blank"}.  
+Sponsorship Award, Multi-Objective Track, [Evolutionary Computation Competition 2021](https://ec-comp.jpnsec.org/competitions/eccomp2021){:target="_blank"}.  
+First Award, Single-Objective Track, [Evolutionary Computation Competition 2020](https://ec-comp.jpnsec.org/competitions/eccomp2020){:target="_blank"}.  
+First Award, Multi-Objective Track, [Evolutionary Computation Competition 2020](https://ec-comp.jpnsec.org/competitions/eccomp2020){:target="_blank"}.  
 IEEE CIS Japan Chapter Young Researcher Award, [2020 Symposium on Evolutionary Computation](http://www.jpnsec.org/yra.html){:target="_blank"}.  
-First Award, Single-Objective Track, [Evolutionary Computation Competition 2020 (EC-Comp 2020)](https://ec-comp.jpnsec.org/competitions/eccomp2020){:target="_blank"}.  
-First Award, Multi-Objective Track, [Evolutionary Computation Competition 2020 (EC-Comp 2020)](https://ec-comp.jpnsec.org/competitions/eccomp2020){:target="_blank"}.  
-First Award, Single-Objective Track, [Evolutionary Computation Competition 2021 (EC-Comp 2021)](https://ec-comp.jpnsec.org/competitions/eccomp2021){:target="_blank"}.  
-Sponsorship Award, Multi-Objective Track, [Evolutionary Computation Competition 2021 (EC-Comp 2021)](https://ec-comp.jpnsec.org/competitions/eccomp2021){:target="_blank"}.  
-2022 Beat paper Award, [Transaction of the Japanese Society for Evolutionary Computation](http://www.jpnsec.org/prize.html){:target="_blank"}. 
 
 ## Work Experience
 **TIMEINTERMEDIA, Inc., Tokyo, Japan**  
