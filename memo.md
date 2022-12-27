@@ -16,40 +16,47 @@ title: Tom TKG's Homepage
 [参考文献スタイルファイル (.bst)変更メモ](#参考文献スタイルファイル-bst変更メモ)  
 
 ### 学会カレンダー
-<details><summary>2022年3月17(木)-18(金)：<a href="http://www.jpnsec.org/symposium202201.html" target="_blank">第21回進化計算学会研究会</a></summary>
+<details><summary><strong>2022年</strong></summary>
+<details><summary>3月17(木)-18(金)：<a href="http://www.jpnsec.org/symposium202201.html" target="_blank">第21回進化計算学会研究会</a></summary>
 会場：日本, オンライン　申込〆切：2/18(金)　原稿〆切：3/4(金)　採択通知：</details>
-<details><summary>2022年4月20(水)-22(金)：<a href="http://www.evostar.org/2022" target="_blank">EvoStar</a></summary>
+<details><summary>4月20(水)-22(金)：<a href="http://www.evostar.org/2022" target="_blank">EvoStar</a></summary>
 会場：Seville, Spain　申込〆切：　　原稿〆切：11/24(水)　採択通知：1/26(水)</details>
-<details><summary>2022年6月26(土)-7月1(水)：<a href="https://mcdm2021.org" target="_blank">MCDM</a></summary>
+<details><summary>6月26(土)-7月1(水)：<a href="https://mcdm2021.org" target="_blank">MCDM</a></summary>
 会場：Portsmouth, UK　申込〆切：　　原稿〆切：3/1(木)　採択通知：4/30(金)</details>
-<details><summary>2022年7月9(土)-13(水)：<a href="https://gecco-2022.sigevo.org" target="_blank">GECCO</a></summary>
+<details><summary>7月9(土)-13(水)：<a href="https://gecco-2022.sigevo.org" target="_blank">GECCO</a></summary>
 会場：Boston, USA　申込〆切：1/27(木)　原稿〆切：2/3(木)　採択通知：3/25(金)</details>
-<details><summary>2022年7月18(月)-23(土)：<a href="https://wcci2022.org" target="_blank">IEEE WCCI</a></summary>
+<details><summary>7月18(月)-23(土)：<a href="https://wcci2022.org" target="_blank">IEEE WCCI</a></summary>
 会場：Padua, Italy　申込〆切：　　原稿〆切：1/31(月)　採択通知：4/26(火)</details>
 <details><summary>2022年8月21(日)-24(水)：<a href="https://ieee-cog.org/2022" target="_blank">IEEE CoG</a></summary>
 会場：Beijing, China　申込〆切：　　原稿〆切：3/1(火)　採択通知：4/30(土)</details>
-<details><summary>2022年9月7(水)-8(木)：<a href="http://www.jpnsec.org/symposium202202.html" target="_blank">第22回進化計算学会研究会</a></summary>
+<details><summary>9月7(水)-8(木)：<a href="http://www.jpnsec.org/symposium202202.html" target="_blank">第22回進化計算学会研究会</a></summary>
 会場：日本, 東京　申込〆切：8/11(木)　原稿〆切：8/25(木)　採択通知：</details>
-<details><summary>2022年9月9(金)-11(日)：<a href="https://www.icmlc.com/" target="_blank">IEEE ICMLC</a></summary>
+<details><summary>9月9(金)-11(日)：<a href="https://www.icmlc.com/" target="_blank">IEEE ICMLC</a></summary>
 会場：日本, 富山　申込〆切：　　原稿〆切：6/1(水)　採択通知：8/1(月)</details>
-<details><summary>2022年9月10(土)-14(水)：<a href="https://ppsn2022.cs.tu-dortmund.de" target="_blank">PPSN</a></summary>
+<details><summary>9月10(土)-14(水)：<a href="https://ppsn2022.cs.tu-dortmund.de" target="_blank">PPSN</a></summary>
 会場：Dortmund, Germany　申込〆切：　　原稿〆切：4/13(水)　採択通知：</details>
 <details><summary>2022年9月21(水)-22(木)：<a href="https://sites.google.com/view/fan2022" target="_blank">FAN</a></summary>
 会場：日本, 神戸　申込〆切：6/15(水)　原稿〆切：7/15(水)　採択通知：</details>
-<details><summary>2022年11月25(金)-27(日)：<a href="https://ssi2022.sice.or.jp" target="_blank">SSI</a></summary>
+<details><summary>11月25(金)-27(日)：<a href="https://ssi2022.sice.or.jp" target="_blank">SSI</a></summary>
 会場：日本, 大阪　申込〆切：　　原稿〆切：　　採択通知：</details>
-<details><summary>2022年11月29(火)-12月2(金)：<a href="http://scis.j-soft.org/2022" target="_blank">SCIS&ISIS</a></summary>
+<details><summary>11月29(火)-12月2(金)：<a href="http://scis.j-soft.org/2022" target="_blank">SCIS&ISIS</a></summary>
 会場：日本, 伊勢志摩　申込〆切：　　原稿〆切：6/24(金)　採択通知：8/19(木)</details>
-<details><summary>2022年12月4(日)-7(水)：<a href="https://www.ieeessci2022.org" target="_blank">IEEE SSCI</a></summary>
+<details><summary>12月4(日)-7(水)：<a href="https://www.ieeessci2022.org" target="_blank">IEEE SSCI</a></summary>
 会場：Singapore　申込〆切：　　原稿〆切：7/1(金)　採択通知：9/1(木)</details>
-<details><summary>2022年12月17(土)-18(日)：<a href="http://www.jpnsec.org/symposium202203.html" target="_blank">進化計算シンポジウム2022</a></summary>
+<details><summary>12月17(土)-18(日)：<a href="http://www.jpnsec.org/symposium202203.html" target="_blank">進化計算シンポジウム2022</a></summary>
 会場：日本, 札幌　申込〆切：11/11(金)　原稿〆切：11/27(金)　採択通知：</details>
+</details>
+
+<details><summary>2023年3月6(月)-7(火)：<a href="http://www.jpnsec.org/symposium202301.html" target="_blank">第23回進化計算学会研究会</a></summary>
+会場：日本, 東京　申込〆切：2/10(金)　原稿〆切：2/24(金)　採択通知：</details>
 <details><summary>2023年3月20(月)-24(金)：<a href="https://emo2023.liacs.leidenuniv.nl" target="_blank">EMO</a></summary>
 会場：Leiden, Netherlands　申込〆切：　　原稿〆切：10/27(木)　採択通知：12/2(金)　</details>
 <details><summary>2023年7月2(日)-5(水)：<a href="https://2023.ieee-cec.org" target="_blank">IEEE CEC</a></summary>
 会場：Chicago, USA　申込〆切：　　原稿〆切：　　　　採択通知：</details>
 <details><summary>2023年7月15(土)-19(水)：<a href="https://gecco-2023.sigevo.org" target="_blank">GECCO</a></summary>
 会場：Lisbon, Portugal　申込〆切：　　原稿〆切：　　　　採択通知：</details>
+<details><summary>2023年12月5(火)-8(金)：<a href="https://attend.ieee.org/ssci-2023" target="_blank">IEEE SSCI</a></summary>
+会場：Mexico City, Mexico　申込〆切：　　原稿〆切：7/1(土)　採択通知：9/1(金)　</details>
 <details><summary>2024年7月2(日)-5(水)：<a href="https://wcci2024.org" target="_blank">IEEE WCCI</a></summary>
 会場：日本, 横浜　申込〆切：　　原稿〆切：1/15(月)　採択通知：3/15(金)</details>
 
@@ -63,13 +70,13 @@ title: Tom TKG's Homepage
 - 進化計算コンペティション2021 単目的部門 トップ賞 2021/12/25
 - 進化計算コンペティション2021 多目的部門 審査員特別賞 2021/12/25
 - 令和3年度 電気通信大学 学生表彰 2022/3/24
-- 論文賞 進化計算学会論文誌 2022/12/18
+- 進化計算学会 論文誌 2022年度論文賞 2022/12/18
 
 ### 略歴とShort Biography
 2018年電気通信大学情報理工学部総合情報学科卒業．2020年同大学大学院情報理工学研究科情報学専攻博士前期課程修了．現在，同専攻博士後期課程在学中．進化計算，多目的最適化，これらの応用に関する研究に従事．2019年電気学会 電子・情報・システム部門大会奨励賞，2020年IEEE CIS日本支部Young Researcher Award，進化計算コンペティション単目的部門トップ賞，多目的部門トップ賞などを受賞．IEEE，進化計算学会，各会員．  
 Tomoaki Takagi received the B.E. and M.E. degrees from the University of Electro-Communications in 2018 and 2020, respectively. He is currently a Ph.D. student at the University of Electro-Communications. His research interests include evolutionary multi- and many-objective optimization and its applications. He is a student member of IEEE and the Japanese Society for Evolutionary Computation.
 
-### ブログ
+### [ブログ](https://www.timedia.co.jp/author/tomtkg)
 - [中身が2行だけ書かれたプログラムを全力解説（前編）](https://www.timedia.co.jp/tech/20220414-tech)
 - [中身が2行だけ書かれたプログラムを全力解説（中編）](https://www.timedia.co.jp/tech/20220427-tech)
 - [中身が2行だけ書かれたプログラムを全力解説（後編）](https://www.timedia.co.jp/tech/20220517-tech)
