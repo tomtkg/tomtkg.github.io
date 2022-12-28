@@ -46,12 +46,12 @@ title: Tom TKG's Homepage
 <details><summary>12月17(土)-18(日)：<a href="http://www.jpnsec.org/symposium202203.html" target="_blank">進化計算シンポジウム2022</a></summary>
 会場：日本, 札幌　申込〆切：11/11(金)　原稿〆切：11/27(金)　採択通知：</details>
 </details>
-<br>
+<p></p>
 <details><summary>2023年3月6(月)-7(火)：<a href="http://www.jpnsec.org/symposium202301.html" target="_blank">第23回進化計算学会研究会</a></summary>
 会場：日本, 東京　申込〆切：2/10(金)　原稿〆切：2/24(金)　採択通知：</details>
 <details><summary>2023年3月20(月)-24(金)：<a href="https://emo2023.liacs.leidenuniv.nl" target="_blank">EMO</a></summary>
 会場：Leiden, Netherlands　申込〆切：　　原稿〆切：10/27(木)　採択通知：12/2(金)　</details>
-<details><summary>2023年7月2(日)-5(水)：<a href="https://2023.ieee-cec.org" target="_blank">IEEE CEC</a></summary>
+<details><summary>2023年7月1(土)-5(水)：<a href="https://2023.ieee-cec.org" target="_blank">IEEE CEC</a></summary>
 会場：Chicago, USA　申込〆切：　　原稿〆切：　　　　採択通知：</details>
 <details><summary>2023年7月15(土)-19(水)：<a href="https://gecco-2023.sigevo.org" target="_blank">GECCO</a></summary>
 会場：Lisbon, Portugal　申込〆切：　　原稿〆切：　　　　採択通知：</details>
