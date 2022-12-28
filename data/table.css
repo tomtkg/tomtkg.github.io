@@ -1,0 +1,26 @@
+table {
+	text-align: left;
+	border-collapse: collapse;
+}
+
+table th {
+	background: #555;
+	color: #fff;
+	position: sticky;
+	top: 0;
+	padding: 1px 4px;
+}
+
+table td {
+	background: #eee;
+	padding: 1px 4px;
+}
+
+table tr:nth-child(odd) td {
+	background: #fff;
+}
+
+.red {
+	color: #C00000;
+	font-weight: bold;
+}
