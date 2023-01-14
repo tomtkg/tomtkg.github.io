@@ -84,6 +84,7 @@ Tomoaki Takagi received the B.E. and M.E. degrees from the University of Electro
 - [Excelで進化計算(1)](https://www.timedia.co.jp/tech/20220606-tech)
 - [Excelで進化計算(2)](https://www.timedia.co.jp/tech/20220608-tech)
 - [Excelで進化計算(3)](https://www.timedia.co.jp/tech/20220623-tech)
+- [Excelで進化計算(4)](https://www.timedia.co.jp/tech/20230112-tech)
 - [Latin hypercube sampling(LHS) を調査](https://www.timedia.co.jp/tech/20220714-tech)
 - [WCCI2022(1) 事前準備レポート](https://www.timedia.co.jp/tech/20220816-tech)
 - [WCCI2022(2) 招待講演レポート](https://www.timedia.co.jp/tech/20220823-tech)
