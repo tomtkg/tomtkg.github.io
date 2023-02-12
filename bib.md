@@ -3,7 +3,14 @@ layout: default
 title: Tom TKG's Homepage
 ---
 
-## 進化計算ライブラリ10選 [(bib)](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/library.bib)
+[進化計算ライブラリ10選](#進化計算ライブラリ10選)  
+[進化計算が関連する国際会議10選](#進化計算が関連する国際会議10選)  
+[進化計算が関連する国内学術団体10選](#進化計算が関連する国内学術団体10選)  
+[進化計算が関連する研究室](#進化計算が関連する研究室)  
+[進化計算学会論文誌論文賞](#進化計算学会論文誌論文賞)  
+[IEEE Trans. Evol. Comput. 論文賞](#ieee-transactions-on-evolutionary-computation-outstanding-paper-award)  
+
+## [進化計算ライブラリ10選](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/library.bib)
 1. [PlatEMO](https://github.com/BIMK/PlatEMO), [paper](https://doi.org/10.1109/MCI.2017.2742868)
     - 言語はMATLABです．150以上の進化アルゴリズム，300以上のベンチマーク問題があります．
 1. [pymoo](https://github.com/anyoptimization/pymoo), [paper](https://doi.org/10.1109/ACCESS.2020.2990567)
@@ -26,7 +33,7 @@ title: Tom TKG's Homepage
     - 言語はPythonです．
 
 ## 進化計算が関連する国際会議10選
-1. Genetic and Evolutionary Computation Conference (ACM GECCO)
+1. Genetic and Evolutionary Computation Conference (GECCO)
 1. Congress on Evolutionary Computation (IEEE CEC)
 1. Evolutionary Multi-Criterion Optimization (EMO)
 1. Parallel Problem Solving from Nature (PPSN)
@@ -79,7 +86,7 @@ title: Tom TKG's Homepage
 - 横浜国立 大学 [中田 雅也](http://www.nkt.ynu.ac.jp) 研究室
 - JAXA　　　　　[大山 聖　 ](https://ladse.eng.isas.jaxa.jp) 研究室
 
-## 進化計算学会論文誌論文賞 [(bib)](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/tjpnsec.bib)
+## [進化計算学会論文誌論文賞](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/tjpnsec.bib)
 1. 2012年: 解の支配領域の自己制御による進化型多数目的最適化: 多数目的 0/1 ナップザック問題における性能検証と挙動解析
 1. 2013年: 被覆度を考慮したマルチスタート法による多目的連続関数最適化: Adaptive Weighted Aggregation
 1. 2014年: Distance-weighted Exponential Natural Evolution Strategyの提案と性能評価
@@ -92,7 +99,7 @@ title: Tom TKG's Homepage
 1. 2021年: レプリカ交換型差分進化マルコフ連鎖による多峰性分布からの効率的なサンプリング
 1. 2022年: 推定パレートフロントに基づいて重みベクトル群を配置する多目的進化アルゴリズム
 
-## IEEE Transactions on Evolutionary Computation Outstanding Paper Award [(bib)](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/tevc.bib)
+## [IEEE Transactions on Evolutionary Computation Outstanding Paper Award](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/tevc.bib)
 1. Parameter control in evolutionary algorithms
 1. Recent developments in evolutionary computation for manufacturing optimization: problems, solutions, and comparisons
 1. Evolution of functional link networks
