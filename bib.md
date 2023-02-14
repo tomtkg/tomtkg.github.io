@@ -9,6 +9,7 @@ title: Tom TKG's Homepage
 [進化計算が関連する研究室](#進化計算が関連する研究室)  
 [進化計算学会論文誌論文賞](#進化計算学会論文誌論文賞)  
 [IEEE Trans. Evol. Comput. 論文賞](#ieee-transactions-on-evolutionary-computation-outstanding-paper-award)  
+[書籍の紹介](#書籍の紹介)  
 
 ## [進化計算ライブラリ10選](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/library.bib)
 1. [PlatEMO](https://github.com/BIMK/PlatEMO), [paper](https://doi.org/10.1109/MCI.2017.2742868)
@@ -122,3 +123,15 @@ title: Tom TKG's Homepage
 1. A decision variable clustering-based evolutionary algorithm for large-scale many-objective optimization
 1. One pixel attack for fooling deep neural networks
 1. Multifactorial evolutionary algorithm with online transfer parameter estimation: MFEA-II
+
+## [書籍の紹介](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/book.bib)
+- C. Darwin, **On the origin of species**, Routledge, 1859.
+    - ダーウィンの進化論に関する書籍です．「種の起原」や「種の起源」と邦訳されます．
+- S. J. Russell and P. Norvig, **Artificial intelligence: A modern approach (4th Ed.)**, Pearson Education, Inc., 2020.
+    - 人工知能に関する書籍です．[HP](http://aima.cs.berkeley.edu)があります．第2版は[日本語版](https://www.kyoritsu-pub.co.jp/book/b10010674.html)もあります．
+- K. R. Chowdhary, **Fundamentals of artificial intelligence**, New Delhi: Springer India, 2020.
+    - 人工知能に関する書籍です．
+- A. P. Engelbrecht, **Computational intelligence: An introduction**, John Wiley & Sons, 2007.
+    - 計算知能に関する書籍です．
+- M. J. Kochenderfer, and T. A. Wheeler, **Algorithms for optimization**, MIT Press, 2019.
+    - 最適化に関する書籍です．[HP](https://algorithmsbook.com/optimization)があります．[日本語版](https://www.kyoritsu-pub.co.jp/book/b10024250.html)もあります．
