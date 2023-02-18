@@ -1,8 +1,4 @@
-@import "vars";
-
-/*
- * Basic
- */
+/* Basic */
 
 html {
     height: 100%;
@@ -16,7 +12,7 @@ body {
 }
 a {
     text-decoration: none;
-    color: $accent;
+    color: #0070C0;
 }
 a:hover {
     text-decoration: underline;
@@ -28,9 +24,7 @@ hr {
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
-/*
- * Navbar
- */
+/* Navbar */
 
 #author-name {
     font-size: 30px;
@@ -65,7 +59,7 @@ hr {
 /* Divs */
 
 .container {
-    max-width: $max-width;
+    max-width: 760px;
     margin: auto;
 }
 .wrapper {
@@ -85,7 +79,7 @@ hr {
 
 @media (max-width: 800px) {
     .container {
-        max-width: $med-width;
+        max-width: 600px;
         transition: 0.3s ease all;
     }
 }
