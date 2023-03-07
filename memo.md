@@ -99,6 +99,7 @@ Tomoaki Takagi received the B.E. and M.E. degrees from the University of Electro
 - [SSI2022 参加報告](https://www.timedia.co.jp/tech/20221215-tech)
 - [進化計算シンポジウム2022 参加報告](https://www.timedia.co.jp/tech/20230126-tech)
 - [進化計算学会 論文誌 論文賞を振り返る](https://www.timedia.co.jp/tech/20230131-tech)
+- [書評：『最適化アルゴリズム』](https://www.timedia.co.jp/tech/20230302-tech)
 
 ### 研究テーマ(移行中)
 - 仮想目的ベクトル群を利用する重みベクトル制御2：2020年7月-2021年6月(終了)
