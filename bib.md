@@ -100,29 +100,30 @@ title: Tom TKG's Homepage
 1. 2021年: レプリカ交換型差分進化マルコフ連鎖による多峰性分布からの効率的なサンプリング
 1. 2022年: 推定パレートフロントに基づいて重みベクトル群を配置する多目的進化アルゴリズム
 
-## [IEEE Transactions on Evolutionary Computation Outstanding Paper Award](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/tevc.bib)
-1. Parameter control in evolutionary algorithms
-1. Recent developments in evolutionary computation for manufacturing optimization: problems, solutions, and comparisons
-1. Evolution of functional link networks
-1. The particle swarm-explosion, stability, and convergence in a multidimensional complex space
-1. Properties of an adaptive archiving algorithm for storing nondominated vectors
-1. Symmetry breaking in population-based optimization
-1. Search bias in ant colony optimization: On the role of competition-balanced systems
-1. ParEGO: A hybrid algorithm with on-line landscape approximation for expensive multiobjective optimization problems
-1. MOEA/D: A multiobjective evolutionary algorithm based on decomposition
-1. Measuring generalization performance in coevolutionary learning
-1. A probabilistic memetic framework
-1. Differential evolution algorithm with strategy adaptation for global numerical optimization
-1. HCS: A new local search strategy for memetic multiobjective evolutionary algorithms
-1. Using the averaged Hausdorff distance as a performance measure in evolutionary multiobjective optimization
-1. Evolving diverse ensembles using genetic programming for classification with unbalanced data
-1. Cooperative co-evolution with differential grouping for large scale optimization
-1. An efficient approach to nondominated sorting for evolutionary multiobjective optimization
-1. Multifactorial evolution: Toward evolutionary multitasking
-1. Performance of decomposition-based many-objective algorithms strongly depends on Pareto front shapes
-1. A decision variable clustering-based evolutionary algorithm for large-scale many-objective optimization
-1. One pixel attack for fooling deep neural networks
-1. Multifactorial evolutionary algorithm with online transfer parameter estimation: MFEA-II
+## [IEEE Trans. on Evolutionary Computation Outstanding Paper Award](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/tevc.bib)
+1. (2002) Parameter control in evolutionary algorithms
+1. (2003) Recent developments in evolutionary computation for manufacturing optimization: problems, solutions, and comparisons
+1. (2004) Evolution of functional link networks
+1. (2005) The particle swarm-explosion, stability, and convergence in a multidimensional complex space
+1. (2006) Properties of an adaptive archiving algorithm for storing nondominated vectors
+1. (2007) Symmetry breaking in population-based optimization
+1. (2008) Search bias in ant colony optimization: On the role of competition-balanced systems
+1. (2009) ParEGO: A hybrid algorithm with on-line landscape approximation for expensive multiobjective optimization problems
+1. (2010) MOEA/D: A multiobjective evolutionary algorithm based on decomposition
+1. (2011) Measuring generalization performance in coevolutionary learning
+1. (2012) Differential evolution algorithm with strategy adaptation for global numerical optimization
+1. (2012) A probabilistic memetic framework
+1. (2013) HCS: A new local search strategy for memetic multiobjective evolutionary algorithms
+1. (2015) Using the averaged Hausdorff distance as a performance measure in evolutionary multiobjective optimization
+1. (2016) Evolving diverse ensembles using genetic programming for classification with unbalanced data
+1. (2017) Cooperative co-evolution with differential grouping for large scale optimization
+1. (2017) An evolutionary many-objective optimization algorithm using reference-point-based nondominated sorting approach, part I: solving problems with box constraints
+1. (2018) An efficient approach to nondominated sorting for evolutionary multiobjective optimization
+1. (2019) Multifactorial evolution: Toward evolutionary multitasking
+1. (2020) Performance of decomposition-based many-objective algorithms strongly depends on Pareto front shapes
+1. (2021) A decision variable clustering-based evolutionary algorithm for large-scale many-objective optimization
+1. (2022) One pixel attack for fooling deep neural networks
+1. (2023) Multifactorial evolutionary algorithm with online transfer parameter estimation: MFEA-II
 
 ## [ゼミ輪読におすすめの書籍10選](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/book.bib)
 1. C. Darwin, **On the origin of species**, Routledge, 1859.
