@@ -125,6 +125,17 @@ title: Tom TKG's Homepage
 1. (2022) One pixel attack for fooling deep neural networks
 1. (2023) Multifactorial evolutionary algorithm with online transfer parameter estimation: MFEA-II
 
+## [IEEE Computational Intelligence Magazine Outstanding Paper Award](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/cim.bib)
+1. (2015) A unified framework for symbiosis of evolutionary mechanisms with application to water clusters potential model design
+1. (2016) Image segmentation using extended topological active nets optimized by scatter search
+1. (2017) Big data opportunities and challenges: Discussions from data analytics perspectives [discussion forum]
+1. (2018) Learning in nonstationary environments: A survey
+1. (2019) How the brain formulates memory: A spatio-temporal model research frontier
+1. (2020) PlatEMO: A MATLAB platform for evolutionary multi-objective optimization [educational forum]
+1. (2021) Recent trends in deep learning based natural language processing
+1. (2022) Evolutionary fuzzy systems for explainable artificial intelligence: Why, when, what for, and where to?
+1. (2023) How Intense Are You? Predicting Intensities of Emotions and Sentiments using Stacked Ensemble
+
 ## [ゼミ輪読におすすめの書籍10選](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/book.bib)
 1. C. Darwin, **On the origin of species**, Routledge, 1859.
     - ダーウィンの進化論に関する書籍です．「種の起原」や「種の起源」と邦訳されます．
