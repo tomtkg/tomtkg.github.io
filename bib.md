@@ -8,7 +8,8 @@ title: Tom TKG's Homepage
 [進化計算が関連する国内学術団体10選](#進化計算が関連する国内学術団体10選)  
 [進化計算が関連する研究室](#進化計算が関連する研究室)  
 [進化計算学会論文誌論文賞](#進化計算学会論文誌論文賞)  
-[IEEE Trans. Evol. Comput. 論文賞](#ieee-transactions-on-evolutionary-computation-outstanding-paper-award)  
+[IEEE Trans. on Evolutionary Computation 論文賞](#ieee-trans-on-evolutionary-computation-論文賞)  
+[IEEE Computational Intelligence Magazine 論文賞](#ieee-computational-intelligence-magazine-論文賞)  
 [ゼミ輪読におすすめの書籍10選](#ゼミ輪読におすすめの書籍10選)  
 
 ## [進化計算ライブラリ10選](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/library.bib)
@@ -101,7 +102,7 @@ title: Tom TKG's Homepage
 1. レプリカ交換型差分進化マルコフ連鎖による多峰性分布からの効率的なサンプリング
 1. 推定パレートフロントに基づいて重みベクトル群を配置する多目的進化アルゴリズム
 
-## [IEEE Trans. on Evolutionary Computation Outstanding Paper Award](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/tevc.bib)
+## [IEEE Trans. on Evolutionary Computation 論文賞](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/tevc.bib)
 1. (2002) Parameter control in evolutionary algorithms
 1. (2003) Recent developments in evolutionary computation for manufacturing optimization: problems, solutions, and comparisons
 1. (2004) Evolution of functional link networks
@@ -126,7 +127,7 @@ title: Tom TKG's Homepage
 1. (2022) One pixel attack for fooling deep neural networks
 1. (2023) Multifactorial evolutionary algorithm with online transfer parameter estimation: MFEA-II
 
-## [IEEE Computational Intelligence Magazine Outstanding Paper Award](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/cim.bib)
+## [IEEE Computational Intelligence Magazine 論文賞](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/cim.bib)
 2015. A unified framework for symbiosis of evolutionary mechanisms with application to water clusters potential model design
 1. Image segmentation using extended topological active nets optimized by scatter search
 1. Big data opportunities and challenges: Discussions from data analytics perspectives
