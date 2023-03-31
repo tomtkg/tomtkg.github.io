@@ -88,7 +88,8 @@ title: Tom TKG's Homepage
 - JAXA　　　　　[大山 聖　 ](https://ladse.eng.isas.jaxa.jp) 研究室
 
 ## [進化計算学会論文誌論文賞](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/tjpnsec.bib)
-2012. 解の支配領域の自己制御による進化型多数目的最適化: 多数目的 0/1 ナップザック問題における性能検証と挙動解析
+{:start="2012"}
+1. 解の支配領域の自己制御による進化型多数目的最適化: 多数目的 0/1 ナップザック問題における性能検証と挙動解析
 1. 被覆度を考慮したマルチスタート法による多目的連続関数最適化: Adaptive Weighted Aggregation
 1. Distance-weighted Exponential Natural Evolution Strategyの提案と性能評価
 1. 二段階の非支配ソーティングと指向性交配による制約付き多目的最適化
