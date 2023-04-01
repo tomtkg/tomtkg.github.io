@@ -14,7 +14,7 @@ title: Tom TKG's Homepage
 
 ## [進化計算ライブラリ10選](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/library.bib)
 1. [PlatEMO](https://github.com/BIMK/PlatEMO), [paper](https://doi.org/10.1109/MCI.2017.2742868)
-    - 言語はMATLABです．150以上の進化アルゴリズム，300以上のベンチマーク問題があります．
+    - 言語はMATLABです．200以上の進化アルゴリズム，400以上のベンチマーク問題があります．
 1. [pymoo](https://github.com/anyoptimization/pymoo), [paper](https://doi.org/10.1109/ACCESS.2020.2990567)
     - 言語はPythonです．著者はBlank先生とDeb先生です．
 1. [jMetal](https://github.com/jMetal/jMetal), [paper](https://doi.org/10.1145/2739482.2768462)
@@ -89,54 +89,53 @@ title: Tom TKG's Homepage
 - JAXA　　　　　[大山 聖　 ](https://ladse.eng.isas.jaxa.jp) 研究室
 
 ## [進化計算学会論文誌論文賞](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/tjpnsec.bib)
-{:start="2012"}
-1. 解の支配領域の自己制御による進化型多数目的最適化: 多数目的 0/1 ナップザック問題における性能検証と挙動解析
-1. 被覆度を考慮したマルチスタート法による多目的連続関数最適化: Adaptive Weighted Aggregation
-1. Distance-weighted Exponential Natural Evolution Strategyの提案と性能評価
-1. 二段階の非支配ソーティングと指向性交配による制約付き多目的最適化
-1. 大域的多峰性関数最適化のための実数値GAの枠組みBig-valley Explorerの提案
-1. 劣個体分布に基づくDII analysisの提案と応用
-1. 応答曲面法を用いた複数車種の同時最適化ベンチマーク問題の提案
-1. リニアエアロスパイクエンジンの多目的設計最適化
-1. オフィスビルにおける空調スケジュールのシミュレーションに基づく進化型多目的最適化
-1. レプリカ交換型差分進化マルコフ連鎖による多峰性分布からの効率的なサンプリング
-1. 推定パレートフロントに基づいて重みベクトル群を配置する多目的進化アルゴリズム
+- 2012\. 解の支配領域の自己制御による進化型多数目的最適化: 多数目的 0/1 ナップザック問題における性能検証と挙動解析  
+- 2013\. 被覆度を考慮したマルチスタート法による多目的連続関数最適化: Adaptive Weighted Aggregation  
+- 2014\. Distance-weighted Exponential Natural Evolution Strategyの提案と性能評価  
+- 2015\. 二段階の非支配ソーティングと指向性交配による制約付き多目的最適化  
+- 2016\. 大域的多峰性関数最適化のための実数値GAの枠組みBig-valley Explorerの提案  
+- 2017\. 劣個体分布に基づくDII analysisの提案と応用  
+- 2018\. 応答曲面法を用いた複数車種の同時最適化ベンチマーク問題の提案  
+- 2019\. リニアエアロスパイクエンジンの多目的設計最適化  
+- 2020\. オフィスビルにおける空調スケジュールのシミュレーションに基づく進化型多目的最適化  
+- 2021\. レプリカ交換型差分進化マルコフ連鎖による多峰性分布からの効率的なサンプリング  
+- 2022\. 推定パレートフロントに基づいて重みベクトル群を配置する多目的進化アルゴリズム  
 
 ## [IEEE Trans. on Evolutionary Computation 論文賞](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/tevc.bib)
-1. (2002) Parameter control in evolutionary algorithms
-1. (2003) Recent developments in evolutionary computation for manufacturing optimization: problems, solutions, and comparisons
-1. (2004) Evolution of functional link networks
-1. (2005) The particle swarm-explosion, stability, and convergence in a multidimensional complex space
-1. (2006) Properties of an adaptive archiving algorithm for storing nondominated vectors
-1. (2007) Symmetry breaking in population-based optimization
-1. (2008) Search bias in ant colony optimization: On the role of competition-balanced systems
-1. (2009) ParEGO: A hybrid algorithm with on-line landscape approximation for expensive multiobjective optimization problems
-1. (2010) MOEA/D: A multiobjective evolutionary algorithm based on decomposition
-1. (2011) Measuring generalization performance in coevolutionary learning
-1. (2012) Differential evolution algorithm with strategy adaptation for global numerical optimization
-1. (2012) A probabilistic memetic framework
-1. (2013) HCS: A new local search strategy for memetic multiobjective evolutionary algorithms
-1. (2015) Using the averaged Hausdorff distance as a performance measure in evolutionary multiobjective optimization
-1. (2016) Evolving diverse ensembles using genetic programming for classification with unbalanced data
-1. (2017) Cooperative co-evolution with differential grouping for large scale optimization
-1. (2017) An evolutionary many-objective optimization algorithm using reference-point-based nondominated sorting approach, part I: solving problems with box constraints
-1. (2018) An efficient approach to nondominated sorting for evolutionary multiobjective optimization
-1. (2019) Multifactorial evolution: Toward evolutionary multitasking
-1. (2020) Performance of decomposition-based many-objective algorithms strongly depends on Pareto front shapes
-1. (2021) A decision variable clustering-based evolutionary algorithm for large-scale many-objective optimization
-1. (2022) One pixel attack for fooling deep neural networks
-1. (2023) Multifactorial evolutionary algorithm with online transfer parameter estimation: MFEA-II
+- 2002\. Parameter control in evolutionary algorithms
+- 2003\. Recent developments in evolutionary computation for manufacturing optimization: problems, solutions, and comparisons
+- 2004\. Evolution of functional link networks
+- 2005\. The particle swarm-explosion, stability, and convergence in a multidimensional complex space
+- 2006\. Properties of an adaptive archiving algorithm for storing nondominated vectors
+- 2007\. Symmetry breaking in population-based optimization
+- 2008\. Search bias in ant colony optimization: On the role of competition-balanced systems
+- 2009\. ParEGO: A hybrid algorithm with on-line landscape approximation for expensive multiobjective optimization problems
+- 2010\. MOEA/D: A multiobjective evolutionary algorithm based on decomposition
+- 2011\. Measuring generalization performance in coevolutionary learning
+- 2012\. Differential evolution algorithm with strategy adaptation for global numerical optimization
+- 2012\. A probabilistic memetic framework
+- 2013\. HCS: A new local search strategy for memetic multiobjective evolutionary algorithms
+- 2015\. Using the averaged Hausdorff distance as a performance measure in evolutionary multiobjective optimization
+- 2016\. Evolving diverse ensembles using genetic programming for classification with unbalanced data
+- 2017\. Cooperative co-evolution with differential grouping for large scale optimization
+- 2017\. An evolutionary many-objective optimization algorithm using reference-point-based nondominated sorting approach, part I: solving problems with box constraints
+- 2018\. An efficient approach to nondominated sorting for evolutionary multiobjective optimization
+- 2019\. Multifactorial evolution: Toward evolutionary multitasking
+- 2020\. Performance of decomposition-based many-objective algorithms strongly depends on Pareto front shapes
+- 2021\. A decision variable clustering-based evolutionary algorithm for large-scale many-objective optimization
+- 2022\. One pixel attack for fooling deep neural networks
+- 2023\. Multifactorial evolutionary algorithm with online transfer parameter estimation: MFEA-II
 
 ## [IEEE Computational Intelligence Magazine 論文賞](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/cim.bib)
-2015. A unified framework for symbiosis of evolutionary mechanisms with application to water clusters potential model design
-1. Image segmentation using extended topological active nets optimized by scatter search
-1. Big data opportunities and challenges: Discussions from data analytics perspectives
-1. Learning in nonstationary environments: A survey
-1. How the brain formulates memory: A spatio-temporal model research frontier
-1. PlatEMO: A MATLAB platform for evolutionary multi-objective optimization
-1. Recent trends in deep learning based natural language processing
-1. Evolutionary fuzzy systems for explainable artificial intelligence: Why, when, what for, and where to?
-1. How intense are you? Predicting intensities of emotions and sentiments using stacked ensemble
+- 2015\. A unified framework for symbiosis of evolutionary mechanisms with application to water clusters potential model design
+- 2016\. Image segmentation using extended topological active nets optimized by scatter search
+- 2017\. Big data opportunities and challenges: Discussions from data analytics perspectives
+- 2018\. Learning in nonstationary environments: A survey
+- 2019\. How the brain formulates memory: A spatio-temporal model research frontier
+- 2020\. PlatEMO: A MATLAB platform for evolutionary multi-objective optimization
+- 2021\. Recent trends in deep learning based natural language processing
+- 2022\. Evolutionary fuzzy systems for explainable artificial intelligence: Why, when, what for, and where to?
+- 2023\. How intense are you? Predicting intensities of emotions and sentiments using stacked ensemble
 
 ## [ゼミ輪読におすすめの書籍10選](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/book.bib)
 1. C. Darwin, **On the origin of species**, Routledge, 1859.
