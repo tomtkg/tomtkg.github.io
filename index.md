@@ -6,7 +6,7 @@ description: The site owner is an AI researcher and he is mainly interested in e
 
 <img class="profile-picture" src="myface.jpg">
 
-## I am an IT company researcher and a Ph.D. student.
+## I am an AI researcher at a company and a visiting researcher at a university.
 
 ## Research Interest
 
@@ -25,6 +25,9 @@ Computational Intelligence, Evolutionary Computation, and Optimization.
 * IEEE CIS Japan Chapter Young Researcher Award, [2020 Symposium on Evolutionary Computation](http://www.jpnsec.org/yra.html){:target="_blank"}.  
 
 ## Work Experience
+**The University of Electro-Communications, Chofu, Tokyo, Japan**  
+* Apr. 2023 - Present: Graduate School of Informatics and Engineering (Visiting Researcher)  
+
 **TIMEINTERMEDIA, Inc., Tokyo, Japan**  
 * Apr. 2022 - Present: Digital Innovation Division  
 * Apr. 2020 - Mar. 2022: AI Solution Division  
@@ -35,9 +38,9 @@ Computational Intelligence, Evolutionary Computation, and Optimization.
 
 ## Education
 **The University of Electro-Communications, Chofu, Tokyo, Japan**  
-* Apr. 2020 - Present: &nbsp;&nbsp;Doctor &nbsp;of Philosophy in Engineering  
-* Apr. 2018 - Mar.2020: &nbsp;Master &nbsp;of Engineering (Informatics)  
-* Apr. 2014 - Mar.2018: Bachelor of Engineering (Informatics)
+* Apr. 2020 - Mar. 2023: &nbsp;Doctor &nbsp;of Philosophy in Engineering  
+* Apr. 2018 - Mar. 2020: &nbsp;Master &nbsp;of Engineering (Informatics)  
+* Apr. 2014 - Mar. 2018: Bachelor of Engineering (Informatics)
 
 ## Professional and Society Memberships
 * Dec. 2020 Institute of Electrical and Electronics Engineers (IEEE)  
@@ -46,4 +49,3 @@ Computational Intelligence, Evolutionary Computation, and Optimization.
 ## Link
 [GitHub](https://github.com/tomtkg), [ORCID](https://orcid.org/0000-0003-3748-9797), [Laboratory](https://nic.lab.uec.ac.jp/index.php/tomoakitakagi), [University](https://www.uec.ac.jp), [Company](https://www.timedia.co.jp), [JPNSEC](http://www.jpnsec.org),  
 [Google Scholar](https://scholar.google.co.jp/citations?user=jsYC8NMAAAAJ), [DBLP](https://dblp.uni-trier.de/pers/hd/t/Takagi:Tomoaki), [Web of Science](https://www.webofscience.com/wos/author/record/AAF-1794-2021), [Semantic Scholar](https://www.semanticscholar.org/author/94460343), [IEEE](https://ieee-collabratec.ieee.org/app/p/tomtkg).
-
