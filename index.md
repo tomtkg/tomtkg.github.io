@@ -38,7 +38,7 @@ Computational Intelligence, Evolutionary Computation, and Optimization.
 
 ## Education
 **The University of Electro-Communications, Chofu, Tokyo, Japan**  
-* Apr. 2020 - Mar. 2023: &nbsp;Doctor &nbsp;of Philosophy in Engineering  
+* Apr. 2020 - Mar. 2023: &nbsp;Doctor &nbsp;of Philosophy
 * Apr. 2018 - Mar. 2020: &nbsp;Master &nbsp;of Engineering (Informatics)  
 * Apr. 2014 - Mar. 2018: Bachelor of Engineering (Informatics)
 
