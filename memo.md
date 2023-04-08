@@ -7,7 +7,6 @@ title: Tom TKG's Homepage
 [受賞歴](#受賞歴)  
 [略歴とShort Biography](#略歴とshort-biography)  
 [ブログ](#ブログ)  
-[研究テーマ](#研究テーマ)  
 [PCにインストールしているもの](#pcにインストールしているもの)  
 [進化計算学会の簡易まとめ](#進化計算学会の簡易まとめ)  
 [Matlabで図を作成する関数](#matlabで図を作成する関数)  
@@ -79,8 +78,8 @@ title: Tom TKG's Homepage
 - 進化計算学会 論文誌 2022年度論文賞 2022/12/18
 
 ### 略歴とShort Biography
-2018年電気通信大学情報理工学部総合情報学科卒業．2020年同大学大学院情報理工学研究科情報学専攻博士前期課程修了．現在，同専攻博士後期課程在学中．進化計算，多目的最適化，これらの応用に関する研究に従事．2019年電気学会 電子・情報・システム部門大会奨励賞，2020年IEEE CIS日本支部Young Researcher Award，進化計算コンペティション単目的部門トップ賞，多目的部門トップ賞などを受賞．IEEE，進化計算学会，各会員．  
-Tomoaki Takagi received the B.E. and M.E. degrees from the University of Electro-Communications in 2018 and 2020, respectively. He is currently a Ph.D. student at the University of Electro-Communications. His research interests include evolutionary multi- and many-objective optimization and its applications. He is a student member of IEEE and the Japanese Society for Evolutionary Computation.
+2018年電気通信大学情報理工学部総合情報学科卒業．2020年同大学大学院情報理工学研究科情報学専攻博士前期課程修了．2023年同専攻博士後期課程修了．博士(工学)．2023年電気通信大学 客員研究員．進化計算，多目的最適化，これらの応用に関する研究に従事．2020年IEEE CIS日本支部Young Researcher Award，進化計算コンペティション2020単目的部門と多目的部門のトップ賞，2022年度進化計算学会論文誌論文賞などを受賞．IEEE，進化計算学会，各会員．  
+Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of Electro-Communications, Japan, in 2018, 2020, and 2023, respectively. He is currently a Visiting Researcher at The University of Electro-Communications. His research interests include evolutionary multi- and many-objective optimization and its applications. He is also a member of IEEE and the Japanese Society for Evolutionary Computation. He received IEEE CIS Japan Chapter Young Researcher Award in 2020, the Evolutionary Computation Competition First Award for Single-Objective and Multi-Objective Track in 2020, and the Transaction of the Japanese Society for Evolutionary Computation Beat Paper Award in 2022.
 
 ### [ブログ](https://www.timedia.co.jp/author/tomtkg)
 - [中身が2行だけ書かれたプログラムを全力解説（前編）](https://www.timedia.co.jp/tech/20220414-tech)
@@ -106,25 +105,12 @@ Tomoaki Takagi received the B.E. and M.E. degrees from the University of Electro
 - [書評：『最適化アルゴリズム』](https://www.timedia.co.jp/tech/20230302-tech)
 - [IEEE Access 論文採択・公開までを振り返る](https://www.timedia.co.jp/tech/20230316-tech)
 
-### 研究テーマ(移行中)
-- 仮想目的ベクトル群を利用する重みベクトル制御2：2020年7月-2021年6月(終了)
-    - パレートフロント推定，分離型・逆型PF，多目的最適化
-    - 18th研究会，シンポジウム2020，CEC2021，進化計算学会論文誌
-- 劣解・非劣解の獲得を目的とする最適化：2019年2月-継続
-    - 15th研究会，17th研究会，FAN2021
-- 単位超平面を基準とするパレートフロント推定：2020年9月-継続
-    - シンポジウム2020，EMO2021，FAN2021，進化計算学会論文誌
-- 教師あり多目的最適化アルゴリズム：2021年5月-継続
-    - 20th研究会
-- 3目的最適化結果の可視化法：2021年7月-継続
-    - シンポジウム2021
-
 ### PCにインストールしているもの
 - ウェブブラウザ：Edge, Chrome.
 - エディタ：sakura-editor, VS Code.
 - コミュニケーション：Slack, Zoom.
 - ファイル共有：Dropbox, Google drive.
-- プログラミング：Matlab, Python, Go.
+- プログラミング：MATLAB, Python, GO.
 - 論文作成：Grammarly, Ghostscript, GSview.
 - EPS：Metafile to EPS Converter.
 - Git：Git Bash, GitHub Desktop.
@@ -138,20 +124,10 @@ Tomoaki Takagi received the B.E. and M.E. degrees from the University of Electro
 [表: 進化計算学会論文誌の論文](data/tjpnsec){:target="_blank"}  
 著者は4人まで載せている．著者が5人以上の論文も一部あるため，参考文献を書くときは注意されたい．
 
-論文タイトルを用いてWord Cloudを作成した．  
-<a href="image/tjpnsec.png"><img src="image/tjpnsec.png"/></a>  
-頻出単語は'最適化'，'進化'，'提案'，'問題'，'目的'，'計算'，'探索'，'評価'，'設計'であった．
-
 進化計算学会が主催している会議の論文を表形式でまとめた．  
 [表: 進化計算学会主催会議の論文](data/jpnsec){:target="_blank"}  
 著者は4人まで載せている．著者が5人以上の論文も一部あるため，参考文献を書くときは注意されたい．  
 ページ数の情報が一部欠落している．また，論文の中身は非公開となっている．
-
-論文タイトルを用いてWord Cloudを作成した．  
-<a href="image/jpnsec.png"><img src="image/jpnsec.png"/></a>  
-会議の論文では'提案'と同じくらい'検討'が多くなっている．  
-遺伝的アルゴリズム GA，MOEA/D，差分進化 DE，粒子群最適化 PSOなど有名なアルゴリズムのワードが増えている．  
-'対話型'，並列'，'考慮'，'利用'，'解析'など実世界で使うことに関するワードが増えている．
 
 ### Matlabで図を作成する関数
 自分がMatlabで3次元の図を作成するときに使っている関数．  
