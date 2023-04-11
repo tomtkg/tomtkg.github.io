@@ -9,7 +9,6 @@ description: The site owner is an AI researcher and he is mainly interested in e
 ## I am an AI researcher at a company and a visiting researcher at a university.
 
 ## Research Interest
-
 Computational Intelligence, Evolutionary Computation, and Optimization.
 
 ## Latest publication
