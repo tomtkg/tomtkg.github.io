@@ -3,6 +3,9 @@ layout: default
 title: Tom TKG's Homepage
 ---
 
+## Doctoral Thesis (Japanese)
+Tomoaki Takagi: **Pareto Front Estimation for Multi-Objective Decision-Making and Supervised/Unsupervised Multi-Objective Optimization**, The University of Electro-Communications, March 2023. [PDF](https://uec.repo.nii.ac.jp/?action=repository_uri&item_id=10431&file_id=20&file_no=1){:target="_blank"}.
+
 ## Journal Paper
 1. Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Multi-objective Evolutionary Algorithm Using Weight Vector Arrangement Based on Pareto Front Estimation**, Transaction of the Japanese Society for Evolutionary Computation (Japanese), Vol. 12, No. 2, pp. 45--60, 2021. [DOI](https://doi.org/10.11394/tjpnsec.12.45){:target="_blank"}, [Code](https://github.com/tomtkg/MOEA-D-PFE){:target="_blank"}. Best Papar Award.
 1. Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Directional Pareto Front and Its Estimation to Encourage Multi-objective Decision-Making**, IEEE Access, Vol. 11, pp. 20619--20634, 2023. [DOI](https://doi.org/10.1109/ACCESS.2023.3250238){:target="_blank"}.
