@@ -3,6 +3,9 @@ layout: default
 title: Tom TKG's Homepage
 ---
 
+## 博士論文
+高木智章: **多目的意思決定に向けたパレートフロント推定と教師あり/なし多目的最適化**, 電気通信大学, 2023年3月. [Link](https://uec.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=10431&item_no=1&page_id=13&block_id=21){:target="_blank"}.
+
 ## 論文誌
 1. 高木智章, 髙玉圭樹, 佐藤寛之: **推定パレートフロントに基づいて重みベクトル群を配置する多目的進化アルゴリズム**, [進化計算学会論文誌](https://www.jstage.jst.go.jp/browse/tjpnsec/-char/ja){:target="_blank"}, 12巻, 2号, pp. 45--60, 2021. [DOI](https://doi.org/10.11394/tjpnsec.12.45){:target="_blank"}, [Code](https://github.com/tomtkg/MOEA-D-PFE){:target="_blank"}. [論文賞](https://www.uec.ac.jp/news/prize/2022/20221223_5046.html){:target="_blank"}.
 
