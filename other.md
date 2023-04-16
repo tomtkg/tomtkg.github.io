@@ -5,7 +5,6 @@ use_math: true
 ---
 
 ## 最適化の基礎講義 / Basic lecture on optimization
-
 ### Question
 * [question1](lecture/question1.html){:target="_blank"}
 * [question2](lecture/question2.html){:target="_blank"}
@@ -28,12 +27,13 @@ use_math: true
 * [answer3](lecture/answer3.html){:target="_blank"}
 * [answer4](lecture/answer4.html){:target="_blank"}
 
-## Image of multi-objective optimization test problems
+&nbsp;
 
-### Left image is Pareto front
-### Center image is Pareto front and random points  
+## Image of multi-objective optimization test problems
+**Left image is Pareto front**  
+**Center image is Pareto front and random points**  
 Point size _N_ = 200. Number of variables _D_ = 5 (if possible).
-### Right image is Pareto front and grid points  
+**Right image is Pareto front and grid points**  
 Point size _N_ = 21^5. Number of variables _D_ = 5 (if possible).
 
 Red points are Parto optimal solution.  
