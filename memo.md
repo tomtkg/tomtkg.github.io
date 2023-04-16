@@ -4,7 +4,6 @@ title: Tom TKG's Homepage
 ---
 
 [学会カレンダー](#学会カレンダー)  
-[受賞歴](#受賞歴)  
 [略歴とShort Biography](#略歴とshort-biography)  
 [ブログ](#ブログ)  
 [PCにインストールしているもの](#pcにインストールしているもの)  
@@ -65,20 +64,9 @@ title: Tom TKG's Homepage
 <details><summary>2024年7月2(日)-5(水)：<a href="https://wcci2024.org" target="_blank">IEEE WCCI</a></summary>
 会場：日本, 横浜　申込〆切：　　原稿〆切：1/15(月)　採択通知：3/15(金)</details>
 
-### 受賞歴
-- 電気学会 2019年 電子・情報・システム部門大会 奨励賞 2020/9/10
-- 進化計算コンペティション2020 単目的部門 トップ賞 2020/12/19
-- 進化計算コンペティション2020 多目的部門 トップ賞 2020/12/19
-- IEEE CIS 日本支部 YRA (進化計算シンポジウム2020) 2020/12/20
-- 令和2年度 電気通信大学 学生表彰 2021/3/25
-- FAN 2021 Online プレゼンテーション賞 2021/9/23
-- 進化計算コンペティション2021 単目的部門 トップ賞 2021/12/25
-- 進化計算コンペティション2021 多目的部門 審査員特別賞 2021/12/25
-- 令和3年度 電気通信大学 学生表彰 2022/3/24
-- 進化計算学会 論文誌 2022年度論文賞 2022/12/18
-
 ### 略歴とShort Biography
-2018年電気通信大学情報理工学部総合情報学科卒業．2020年同大学大学院情報理工学研究科情報学専攻博士前期課程修了．2023年同専攻博士後期課程修了．博士(工学)．2023年電気通信大学 客員研究員．進化計算，多目的最適化，これらの応用に関する研究に従事．2020年IEEE CIS日本支部Young Researcher Award，進化計算コンペティション2020単目的部門と多目的部門のトップ賞，2022年度進化計算学会論文誌論文賞などを受賞．IEEE，進化計算学会，各会員．  
+2018年電気通信大学情報理工学部総合情報学科卒業．2020年同大学大学院情報理工学研究科情報学専攻博士前期課程修了．2023年同専攻博士後期課程修了．博士(工学)．2023年電気通信大学 客員研究員．進化計算，多目的最適化，これらの応用に関する研究に従事．2020年IEEE CIS日本支部Young Researcher Award，進化計算コンペティション2020単目的部門と多目的部門のトップ賞，2022年度進化計算学会論文誌論文賞などを受賞．IEEE，進化計算学会，各会員．
+
 Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of Electro-Communications, Japan, in 2018, 2020, and 2023, respectively. He is currently a Visiting Researcher at The University of Electro-Communications. His research interests include evolutionary multi- and many-objective optimization and its applications. He is also a member of IEEE and the Japanese Society for Evolutionary Computation. He received IEEE CIS Japan Chapter Young Researcher Award in 2020, the Evolutionary Computation Competition First Award for Single-Objective and Multi-Objective Track in 2020, and the Transaction of the Japanese Society for Evolutionary Computation Beat Paper Award in 2022.
 
 ### [ブログ](https://www.timedia.co.jp/author/tomtkg)
