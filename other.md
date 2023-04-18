@@ -30,11 +30,10 @@ use_math: true
 &nbsp;
 
 ## Image of multi-objective optimization test problems
-**Left image is Pareto front**  
-**Center image is Pareto front and random points**  
-Point size _N_ = 200. Number of variables _D_ = 5 (if possible).
-**Right image is Pareto front and grid points**  
-Point size _N_ = 21^5. Number of variables _D_ = 5 (if possible).
+Number of variables _D_ = 5 (if possible).  
+**Left image is Pareto front.**  
+**Center image is Pareto front and random points.** Point size _N_ = 200.   
+**Right image is Pareto front and grid points.** Point size _N_ = 21^5.
 
 Red points are Parto optimal solution.  
 Blue points are infeasible solution.  
