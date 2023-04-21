@@ -91,7 +91,9 @@ Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of
 - [進化計算シンポジウム2022 参加報告](https://www.timedia.co.jp/tech/20230126-tech)
 - [進化計算学会 論文誌 論文賞を振り返る](https://www.timedia.co.jp/tech/20230131-tech)
 - [書評：『最適化アルゴリズム』](https://www.timedia.co.jp/tech/20230302-tech)
-- [IEEE Access 論文採択・公開までを振り返る](https://www.timedia.co.jp/tech/20230316-tech)
+- [IEEE Access に論文が採択・公開されました](https://www.timedia.co.jp/tech/20230316-tech)
+- [情報処理学会 第85回全国大会 参加報告](https://www.timedia.co.jp/tech/20230327-tech)
+- [第23回 進化計算学会 研究会 参加報告](https://www.timedia.co.jp/tech/20230413-tech)
 
 ### PCにインストールしているもの
 - ウェブブラウザ：Edge, Chrome.
