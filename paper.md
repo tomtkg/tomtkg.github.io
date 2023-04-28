@@ -8,7 +8,7 @@ Tomoaki Takagi: **Pareto Front Estimation for Multi-Objective Decision-Making an
 
 ## Journal Paper
 1. Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Multi-objective Evolutionary Algorithm Using Weight Vector Arrangement Based on Pareto Front Estimation**, Transaction of the Japanese Society for Evolutionary Computation (Japanese), Vol. 12, No. 2, pp. 45--60, 2021. [DOI](https://doi.org/10.11394/tjpnsec.12.45){:target="_blank"}, [Code](https://github.com/tomtkg/MOEA-D-PFE){:target="_blank"}. Best Papar Award.
-1. Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Directional Pareto Front and Its Estimation to Encourage Multi-objective Decision-Making**, IEEE Access, Vol. 11, pp. 20619--20634, 2023. [DOI](https://doi.org/10.1109/ACCESS.2023.3250238){:target="_blank"}.
+1. Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Directional Pareto Front and Its Estimation to Encourage Multi-Objective Decision-Making**, IEEE Access, Vol. 11, pp. 20619--20634, 2023. [DOI](https://doi.org/10.1109/ACCESS.2023.3250238){:target="_blank"}.
 
 ## Conference Papers (First Author)
 1. Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Distribution Control of Weight Vector Set for Multi-objective Evolutionary Algorithms**,  Proc. of the Bio-inspired Information and Communication Technologies ([BICT2019](https://bionetics2019.eai-conferences.org){:target="_blank"}), Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering (LNICST), Vol. 289, Springer, Cham, pp. 70--80, 2019. [DOI](https://doi.org/10.1007/978-3-030-24202-2_6){:target="_blank"}, [Code](https://github.com/tomtkg/MOEA-D-DCWV){:target="_blank"}.
