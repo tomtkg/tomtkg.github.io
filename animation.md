@@ -4,7 +4,7 @@ title: Tom TKG's Homepage
 use_math: true
 ---
 
-## GIF Animation
+## GIF Animations
 ### OneMax problem:
 $$ \text{Maximize } f(\boldsymbol{x}) = \sum_{i=1}^n x_i$$&nbsp;&nbsp;&nbsp;&nbsp;$$x_i \in \{0,1\}$$&nbsp;&nbsp;&nbsp;&nbsp;$$f(\boldsymbol{x}^*) = f(1,1,\dots,1) = n$$
 
@@ -50,7 +50,7 @@ $$-5 \leq x_i \leq 5$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$f(\boldsymbol{x}^*) 
 <a href="animation/SphereGA.gif"><img src="animation/SphereGA.gif" width="250"/></a><a href="animation/SphereEP.gif"><img src="animation/SphereEP.gif" width="250"/></a><a href="animation/SpherePBIL.gif"><img src="animation/SpherePBIL.gif" width="250"/></a>
 <a href="animation/SphereDE.gif"><img src="animation/SphereDE.gif" width="250"/></a><a href="animation/SpherePSO.gif"><img src="animation/SpherePSO.gif" width="250"/></a><a href="animation/SphereAS.gif"><img src="animation/SphereAS.gif" width="250"/></a>
 
-## Javascript Animation
+## Javascript Animations
 ### Weight Vector Generation Method
 You can change the weight vector size in the animation
 * [Simplex-lattice design](animation/SLD.html){:target="_blank"}
@@ -58,7 +58,7 @@ You can change the weight vector size in the animation
 * [Riesz 𝑠-energy](animation/Energy.html){:target="_blank"}
 * Hammersley method
 
-### Weight Vector Change Method
+### Weight Vector Change Methods
 You can change the weight vector distribution in the animation
 * [Change method 1](animation/Change1.html){:target="_blank"}
 * [Change method 2](animation/Change2.html){:target="_blank"}
