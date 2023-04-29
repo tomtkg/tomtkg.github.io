@@ -6,7 +6,7 @@ title: Tom TKG's Homepage
 ## Doctoral Thesis (Japanese)
 Tomoaki Takagi: **Pareto Front Estimation for Multi-Objective Decision-Making and Supervised/Unsupervised Multi-Objective Optimization**, The University of Electro-Communications, March 2023. [DOI](http://doi.org/10.18952/00010335){:target="_blank"}.
 
-## Journal Paper
+## Journal Papers
 1. Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Multi-objective Evolutionary Algorithm Using Weight Vector Arrangement Based on Pareto Front Estimation**, Transaction of the Japanese Society for Evolutionary Computation (Japanese), Vol. 12, No. 2, pp. 45--60, 2021. [DOI](https://doi.org/10.11394/tjpnsec.12.45){:target="_blank"}, [Code](https://github.com/tomtkg/MOEA-D-PFE){:target="_blank"}. Best Papar Award.
 1. Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Directional Pareto Front and Its Estimation to Encourage Multi-Objective Decision-Making**, IEEE Access, Vol. 11, pp. 20619--20634, 2023. [DOI](https://doi.org/10.1109/ACCESS.2023.3250238){:target="_blank"}.
 
@@ -24,7 +24,7 @@ Tomoaki Takagi: **Pareto Front Estimation for Multi-Objective Decision-Making an
 1. Kohei Yamamoto, Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Visual Mapping of Multi-objective Optimization Problems and Evolutionary Algorithms**, Proc. of ACM Genetic and Evolutionary Computation Conference (GECCO2020), pp. 1872--1879, 2020.
 1. Shio Kawakami, Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Distance Minimization Problems for Multi-factorial Evolutionary Optimization Benchmarking**, Proc. of The 20th International Conference on Hybrid Intelligent Systems (HIS2020), Advances in Intelligent Systems and Computing, Vol. 1375, Springer, Cham, pp. 710--719, 2020.
 
-## Conference Papers (No DOI)
+## Conference Papers (NO DOI)
 1. Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Preliminary Study on Weight Vector Distribution Control Based on Intermediate Objective Value**,  Proc. of 2018 JPNSEC International Workshop on Evolutionary Computation, pp. 20--26, 2018.
 1. Ryo Kumagai, Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Study on Multi-objective Evolutionary Stage Generation Using MarioGAN**, Proc. of The 7th UEC Seminar in ASEAN, 2020 and The 2nd ASEAN-UEC Workshop on Energy and AI, pp. 63--64, 2020. Young Researcher Encouragement Award.
 1. Kensuke Kano, Tomoaki Takagi, Shoichiro Tanaka, Keiki Takadama, and Hiroyuki Sato: **Variable Elite Population in Grid-based Multi-objective Evolutionary Optimization**, Proc. of The 3rd ASEAN-UEC Workshop on Informatics and Engineering for SDGs, jointly held with ECTI Workshop on BEC, 2 pages, 2021.
