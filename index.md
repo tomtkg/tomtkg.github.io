@@ -6,7 +6,7 @@ description: The site owner is an AI researcher and he is mainly interested in e
 
 <img class="profile-picture" src="myface.jpg">
 
-<div style="text-align: center"><font size="6"><b>
+<div style="text-align: center"><font size="5"><b>
   I am an AI researcher at a company<br>
   and a visiting researcher at a university.
 </b></font></div>
