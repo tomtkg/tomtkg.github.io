@@ -6,6 +6,7 @@ title: Tom TKG's Homepage
 [学会カレンダー](#学会カレンダー)  
 [略歴とShort Biography](#略歴とshort-biography)  
 [ブログ](#ブログ)  
+[その他の経歴](#その他の経歴)  
 [PCにインストールしているもの](#pcにインストールしているもの)  
 [進化計算学会の簡易まとめ](#進化計算学会の簡易まとめ)  
 [Matlabで図を作成する関数](#matlabで図を作成する関数)  
@@ -94,6 +95,11 @@ Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of
 - [IEEE Access に論文が採択・公開されました](https://www.timedia.co.jp/tech/20230316-tech)
 - [情報処理学会 第85回全国大会 参加報告](https://www.timedia.co.jp/tech/20230327-tech)
 - [第23回 進化計算学会 研究会 参加報告](https://www.timedia.co.jp/tech/20230413-tech)
+
+### その他の経歴
+指導経験
+- 平成31年度 ティーチングアシスタント（プログラミング通論および演習）.
+- Teaching Assistant, Topics in Informatics I: Evolutionary Computation (国際科目), 2019.
 
 ### PCにインストールしているもの
 - ウェブブラウザ：Edge, Chrome.
