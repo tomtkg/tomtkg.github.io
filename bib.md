@@ -69,7 +69,7 @@ title: Tom TKG's Homepage
     - 関連イベントを協賛していることが多いです．
 
 ## 進化計算が関連する研究室
-- 大阪公立 大学 [能島 裕介](https://cil-omu.herokuapp.com/index_j.php) 研究室
+- 大阪公立 大学 [能島 裕介](https://ci-labo-omu.github.io) 研究室
 - 筑波　　 大学 [秋本 洋平](https://www.bbo.cs.tsukuba.ac.jp) 研究室
 - 電気通信 大学 [佐藤 寛之](https://nic.lab.uec.ac.jp) 研究室
 - 電気通信 大学 [髙玉 圭樹](http://www.cas.lab.uec.ac.jp) 研究室
