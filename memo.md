@@ -95,6 +95,8 @@ Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of
 - [IEEE Access に論文が採択・公開されました](https://www.timedia.co.jp/tech/20230316-tech)
 - [情報処理学会 第85回全国大会 参加報告](https://www.timedia.co.jp/tech/20230327-tech)
 - [第23回 進化計算学会 研究会 参加報告](https://www.timedia.co.jp/tech/20230413-tech)
+- [EMO2023 参加報告 前編](https://www.timedia.co.jp/tech/202305011-tech)
+- [EMO2023 参加報告 後編](https://www.timedia.co.jp/tech/20230518-tech)
 
 ### その他の経歴
 **指導経験**
