@@ -111,6 +111,13 @@ Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of
 - 運営スタッフ, 情報処理学会 第126回数理モデル化と問題解決(MPS)研究会, 2019.
 - オーガナイザー, スペシャルセッション「進化計算の新世代」, 計測自動制御学会 システム・情報部門 学術講演会 SSI2022, 2022.
 
+**資格**
+- 2014年11月: 実用英語技能検定2級
+- 2015年 3月: ITパスポート
+- 2015年 9月: 普通自動車第一種運転免許
+- 2015年11月: 基本情報技術者
+- 2023年 5月: AWS認定Cloud Practitioner
+
 ### PCにインストールしているもの
 - ウェブブラウザ：Edge, Chrome.
 - エディタ：sakura-editor, VS Code.
