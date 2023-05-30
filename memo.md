@@ -99,6 +99,7 @@ Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of
 - [第23回 進化計算学会 研究会 参加報告](https://www.timedia.co.jp/tech/20230413-tech)
 - [EMO2023 参加報告 前編](https://www.timedia.co.jp/tech/202305011-tech)
 - [EMO2023 参加報告 後編](https://www.timedia.co.jp/tech/20230518-tech)
+- [gitでコミットの順序を入れ替える 2023](https://www.timedia.co.jp/tech/20230530-tech)
 
 ### その他の経歴
 **指導経験**
