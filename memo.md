@@ -100,6 +100,7 @@ Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of
 - [EMO2023 参加報告 前編](https://www.timedia.co.jp/tech/202305011-tech)
 - [EMO2023 参加報告 後編](https://www.timedia.co.jp/tech/20230518-tech)
 - [gitでコミットの順序を入れ替える 2023](https://www.timedia.co.jp/tech/20230530-tech)
+- [Go言語プログラムの資料を自動生成する](https://www.timedia.co.jp/tech/20230606-tech)
 
 ### その他の経歴
 **指導経験**
