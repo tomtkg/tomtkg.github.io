@@ -57,7 +57,7 @@ title: Tom TKG's Homepage
 <details><summary>2023年7月15(土)-19(水)：<a href="https://gecco-2023.sigevo.org" target="_blank">GECCO</a></summary>
 会場：Lisbon, Portugal　申込〆切：　　原稿〆切：　　　　採択通知：</details>
 <details><summary>2023年9月12(火)-13(水)：<a href="http://www.jpnsec.org/symposium202302.html" target="_blank">第24回進化計算学会研究会</a></summary>
-会場：日本, 京都　申込〆切：　　原稿〆切：　　採択通知：</details>
+会場：日本, 京都　申込〆切：8/15(火)　原稿〆切：8/29(火)　採択通知：</details>
 <details><summary>2023年10月1(日)-4(水)：<a href="https://ieeesmc2023.org" target="_blank">IEEE SMC</a></summary>
 会場：Hawaii, USA　申込〆切：　　原稿〆切：4/23(日)　採択通知：5/27(土)　</details>
 <details><summary>2023年12月5(火)-8(金)：<a href="https://attend.ieee.org/ssci-2023" target="_blank">IEEE SSCI</a></summary>
