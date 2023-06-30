@@ -36,5 +36,5 @@ title: Tom TKG's Homepage
 * 2020年12月: Institute of Electrical and Electronics Engineers (IEEE) 
 
 ## リンク
-[GitHub](https://github.com/tomtkg), [ORCID](https://orcid.org/0000-0003-3748-9797), [研究室](https://nic.lab.uec.ac.jp/index.php/tomoakitakagi), [大学](https://www.uec.ac.jp), [会社](https://www.timedia.co.jp), [進化計算学会](http://www.jpnsec.org),  
+[GitHub](https://github.com/tomtkg), [ORCID](https://orcid.org/0000-0003-3748-9797), [Qiita](https://qiita.com/tomtkg), [研究室](https://nic.lab.uec.ac.jp/index.php/tomoakitakagi), [大学](https://www.uec.ac.jp), [会社](https://www.timedia.co.jp), [進化計算学会](http://www.jpnsec.org),  
 [Google Scholar](https://scholar.google.co.jp/citations?user=jsYC8NMAAAAJ), [DBLP](https://dblp.uni-trier.de/pers/hd/t/Takagi:Tomoaki), [Web of Science](https://www.webofscience.com/wos/author/record/AAF-1794-2021), [Semantic Scholar](https://www.semanticscholar.org/author/94460343), [IEEE](https://ieee-collabratec.ieee.org/app/p/tomtkg).
