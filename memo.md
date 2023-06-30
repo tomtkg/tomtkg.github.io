@@ -103,6 +103,7 @@ Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of
 - [Go言語プログラムの資料を自動生成する](https://www.timedia.co.jp/tech/20230606-tech)
 - [プログラムを高速化した話](https://www.timedia.co.jp/tech/20230613-tech)
 - [Go言語の配列操作の使い難さを改善する](https://www.timedia.co.jp/tech/20230615-tech)
+- [MATLAB EXPO 2023 JAPAN 参加報告](https://www.timedia.co.jp/tech/20230627-tech)
 
 ### その他の経歴
 **指導経験**
