@@ -111,8 +111,8 @@ Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of
 - Teaching Assistant, Topics in Informatics I: Evolutionary Computation（国際科目）, 2019.
 
 **講演・発表（論文なし）**
-- Tomoaki Takagi: **Pareto Front Estimation for Subset Selection**, Workshop on Subset Selection in Evolutionary Multi-objective Optimization at 2022 IEEE World Congress on Computational Intelligence (WCCI2022), 2022. [Link](https://cse.sustech.edu.cn/faculty/~shangk/SS-WCCI/){:target="_blank"}.
-- 高木智章: **MATLABによる点群データの可視化**, MATLAB EXPO 2023 JAPAN, 2023.
+- Tomoaki Takagi: **Pareto Front Estimation for Subset Selection**, Workshop on Subset Selection in Evolutionary Multi-objective Optimization at 2022 IEEE World Congress on Computational Intelligence ([WCCI2022](https://wcci2022.org/){:target="_blank"}), 2022. [Link](https://cse.sustech.edu.cn/faculty/~shangk/SS-WCCI/){:target="_blank"}.
+- 高木智章: **MATLABによる点群データの可視化**, [MATLAB EXPO 2023 JAPAN](https://www.matlabexpo.com/jp/2023.html), 2023. [Link](https://www.matlabexpo.com/content/dam/mathworks/mathworks-dot-com/images/events/matlabexpo/jp/2023/visualization-of-point-cloud-data-with-matlab-takagi.pdf){:target="_blank"}.
 
 **運営**
 - 運営スタッフ, 情報処理学会 第126回数理モデル化と問題解決(MPS)研究会, 2019.
