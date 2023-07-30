@@ -23,7 +23,7 @@ Tomoaki Takagi: **Pareto Front Estimation for Multi-Objective Decision-Making an
 1. Kensuke Kano, Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Preliminary Study of Adaptive Grid-based Decomposition on Many-objective Evolutionary Optimization**, Proc. of ACM Genetic and Evolutionary Computation Conference (GECCO2020), pp. 1373--1380, 2020.
 1. Kohei Yamamoto, Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Visual Mapping of Multi-objective Optimization Problems and Evolutionary Algorithms**, Proc. of ACM Genetic and Evolutionary Computation Conference (GECCO2020), pp. 1872--1879, 2020.
 1. Shio Kawakami, Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Distance Minimization Problems for Multi-factorial Evolutionary Optimization Benchmarking**, Proc. of The 20th International Conference on Hybrid Intelligent Systems (HIS2020), Advances in Intelligent Systems and Computing, Vol. 1375, Springer, Cham, pp. 710--719, 2020.
-1. Naru Okumura, Tomoaki Takagi, Yoshihiro Ohta, and Hiroyuki Sato: **Pareto Front Upconvert on Multi-objective Building Facility Control Optimization**, Proc. of ACM Genetic and Evolutionary Computation Conference (GECCO2023), 2023.
+1. Naru Okumura, Tomoaki Takagi, Yoshihiro Ohta, and Hiroyuki Sato: **Pareto Front Upconvert on Multi-objective Building Facility Control Optimization**, Proc. of ACM Genetic and Evolutionary Computation Conference (GECCO2023), pp. 1963--1971, 2023.
 
 ## Conference Papers (NO DOI)
 1. Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **A Preliminary Study on Weight Vector Distribution Control Based on Intermediate Objective Value**,  Proc. of 2018 JPNSEC International Workshop on Evolutionary Computation, pp. 20--26, 2018.
