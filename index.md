@@ -31,12 +31,7 @@ Computational Intelligence, Evolutionary Computation, and Optimization.
 * Apr. 2023 - Present: Graduate School of Informatics and Engineering (Visiting Researcher)  
 
 **TIMEINTERMEDIA, Inc., Tokyo, Japan**  
-* Apr. 2022 - Present: Digital Innovation Division  
-* Apr. 2020 - Mar. 2022: AI Solution Division  
-* Oct. 2019 - Mar. 2020: AI Solution Division (Part-time)  
-
-**National Maritime Research Institute, Tokyo, Japan**  
-* Jan. 2019 - Sep. 2019: Marine Risk Assessment (Part-time)
+* Apr. 2020 - Aug. 2023: AI Solution Division / Digital Innovation Division
 
 ## Education
 **The University of Electro-Communications, Chofu, Tokyo, Japan**  
