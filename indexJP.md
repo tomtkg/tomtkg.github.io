@@ -11,7 +11,7 @@ title: Tom TKG's Homepage
 人工知能，計算知能，進化計算，最適化，意思決定，可視化など
 
 ## 職歴
-* 2023年9月 - 現在: T株式会社 社員
+* 2023年9月 - 現在: 某T社 社員
 * 2023年4月 - 現在: 国立大学法人 電気通信大学 客員研究員
 * 2020年4月 - 2023年8月: 株式会社 タイムインターメディア 社員
 
@@ -37,5 +37,5 @@ title: Tom TKG's Homepage
 * 2020年12月: Institute of Electrical and Electronics Engineers (IEEE) 
 
 ## リンク
-[GitHub](https://github.com/tomtkg), [ORCID](https://orcid.org/0000-0003-3748-9797), [Qiita](https://qiita.com/tomtkg), [研究室](https://nic.lab.uec.ac.jp/index.php/tomoakitakagi), [大学](https://www.uec.ac.jp), [会社](https://www.timedia.co.jp), [進化計算学会](http://www.jpnsec.org),  
-[Google Scholar](https://scholar.google.co.jp/citations?user=jsYC8NMAAAAJ), [DBLP](https://dblp.uni-trier.de/pers/hd/t/Takagi:Tomoaki), [Web of Science](https://www.webofscience.com/wos/author/record/AAF-1794-2021), [Semantic Scholar](https://www.semanticscholar.org/author/94460343), [IEEE](https://ieee-collabratec.ieee.org/app/p/tomtkg).
+[GitHub](https://github.com/tomtkg), [ORCID](https://orcid.org/0000-0003-3748-9797), [Qiita](https://qiita.com/tomtkg), [研究室](https://nic.lab.uec.ac.jp/index.php/tomoakitakagi), [進化計算学会](http://www.jpnsec.org), [IEEE](https://ieee-collabratec.ieee.org/app/p/tomtkg),  
+[Google Scholar](https://scholar.google.co.jp/citations?user=jsYC8NMAAAAJ), [DBLP](https://dblp.uni-trier.de/pers/hd/t/Takagi:Tomoaki), [Web of Science](https://www.webofscience.com/wos/author/record/AAF-1794-2021), [Semantic Scholar](https://www.semanticscholar.org/author/94460343).
