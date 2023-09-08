@@ -27,14 +27,9 @@ Computational Intelligence, Evolutionary Computation, and Optimization.
 * IEEE CIS Japan Chapter Young Researcher Award, [2020 Symposium on Evolutionary Computation](http://www.jpnsec.org/yra.html){:target="_blank"}.  
 
 ## Work Experience
-**T Corporation, Works in Tokyo, Japan**  
-* Sep. 2023 - Present: 
-
-**The University of Electro-Communications, Chofu, Tokyo, Japan**  
-* Apr. 2023 - Present: Graduate School of Informatics and Engineering (Visiting Researcher)  
-
-**TIMEINTERMEDIA, Inc., Tokyo, Japan**  
-* Apr. 2020 - Aug. 2023: AI Solution Division / Digital Innovation Division
+* Sep. 2023 - Present: **A certain company, Works in Tokyo, Japan**
+* Apr. 2023 - Present: **The University of Electro-Communications, Tokyo, Japan**
+* Apr. 2020 - Aug. 2023: **TIMEINTERMEDIA, Inc., Tokyo, Japan**
 
 ## Education
 **The University of Electro-Communications, Chofu, Tokyo, Japan**  
@@ -47,5 +42,5 @@ Computational Intelligence, Evolutionary Computation, and Optimization.
 * Feb. 2019 The Japanese Society for Evolutionary Computation (JPNSEC)  
 
 ## Link
-[GitHub](https://github.com/tomtkg), [ORCID](https://orcid.org/0000-0003-3748-9797), [Qiita](https://qiita.com/tomtkg), [Laboratory](https://nic.lab.uec.ac.jp/index.php/tomoakitakagi), [University](https://www.uec.ac.jp), [Company](https://www.timedia.co.jp), [JPNSEC](http://www.jpnsec.org),  
-[Google Scholar](https://scholar.google.co.jp/citations?user=jsYC8NMAAAAJ), [DBLP](https://dblp.uni-trier.de/pers/hd/t/Takagi:Tomoaki), [Web of Science](https://www.webofscience.com/wos/author/record/AAF-1794-2021), [Semantic Scholar](https://www.semanticscholar.org/author/94460343), [IEEE](https://ieee-collabratec.ieee.org/app/p/tomtkg).
+[GitHub](https://github.com/tomtkg), [ORCID](https://orcid.org/0000-0003-3748-9797), [Qiita](https://qiita.com/tomtkg), [Laboratory](https://nic.lab.uec.ac.jp/index.php/tomoakitakagi), [JPNSEC](http://www.jpnsec.org), [IEEE](https://ieee-collabratec.ieee.org/app/p/tomtkg),  
+[Google Scholar](https://scholar.google.co.jp/citations?user=jsYC8NMAAAAJ), [DBLP](https://dblp.uni-trier.de/pers/hd/t/Takagi:Tomoaki), [Web of Science](https://www.webofscience.com/wos/author/record/AAF-1794-2021), [Semantic Scholar](https://www.semanticscholar.org/author/94460343).
