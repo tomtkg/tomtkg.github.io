@@ -83,7 +83,23 @@ title: Tom TKG's Homepage
 
 Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of Electro-Communications, Japan, in 2018, 2020, and 2023, respectively. He is currently a Visiting Researcher at The University of Electro-Communications. His research interests include evolutionary multi- and many-objective optimization and its applications. He is also a member of IEEE and the Japanese Society for Evolutionary Computation. He received IEEE CIS Japan Chapter Young Researcher Award in 2020, the Evolutionary Computation Competition First Award for Single-Objective and Multi-Objective Track in 2020, and the Transaction of the Japanese Society for Evolutionary Computation Beat Paper Award in 2022.
 
-### [ブログ](https://www.timedia.co.jp/author/tomtkg)
+### ブログ
+<details><summary><strong><a href="https://qiita.com/tomtkg" target="_blank">Qiita</a></strong></summary>
+
+- [中身が2行だけ書かれたMATLABプログラムを全力解説](https://qiita.com/tomtkg/items/1383ef938fa4f8d8a157)
+- [MATLABによる散布図と9つの図](https://qiita.com/tomtkg/items/c4bf989ab2e353cd9b89)
+- [Latin hypercube sampling (LHS) を調査](https://qiita.com/tomtkg/items/759126576184750a9971)
+- [Excelで進化計算](https://qiita.com/tomtkg/items/13d872bb24dd443dda99)
+- [LaTeXで印刷に適した文書を作成する](https://qiita.com/tomtkg/items/cf2730b12415dec48678)
+- [LaTeXの便利なパッケージ](https://qiita.com/tomtkg/items/a709e7953c101f9101a1)
+- [Go言語プログラムの資料を自動生成する](https://qiita.com/tomtkg/items/073b90c7feaae45cd7db)
+- [Go言語の配列操作の使い難さを改善する](https://qiita.com/tomtkg/items/4d9778e83e63b608419a)
+- [TypeScript × React-Tutorial: Tic-Tac-Toe / 三目並べ](https://qiita.com/tomtkg/items/a489006b85f5fb9896aa)
+- [TypeScript × React-Tutorial: Tic-Tac-Toe / 三目並べ Extra](https://qiita.com/tomtkg/items/380fc28d21e7b126f0b3)
+- [TypeScript × React-Tutorial: Tic-Tac-Toe / 三目並べ Deploy](https://qiita.com/tomtkg/items/3e6173a231fdbe463302)
+</details>
+<details><summary><strong><a href="https://www.timedia.co.jp/author/tomtkg" target="_blank">前社の技術ブログ</a></strong></summary>
+
 - [中身が2行だけ書かれたプログラムを全力解説（前編）](https://www.timedia.co.jp/tech/20220414-tech)
 - [中身が2行だけ書かれたプログラムを全力解説（中編）](https://www.timedia.co.jp/tech/20220427-tech)
 - [中身が2行だけ書かれたプログラムを全力解説（後編）](https://www.timedia.co.jp/tech/20220517-tech)
@@ -115,6 +131,7 @@ Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of
 - [プログラムを高速化した話](https://www.timedia.co.jp/tech/20230613-tech)
 - [Go言語の配列操作の使い難さを改善する](https://www.timedia.co.jp/tech/20230615-tech)
 - [MATLAB EXPO 2023 JAPAN 参加報告](https://www.timedia.co.jp/tech/20230627-tech)
+</details>
 
 ### その他の経歴
 **指導経験**
