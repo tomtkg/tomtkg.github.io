@@ -7,7 +7,6 @@ title: Tom TKG's Homepage
 [略歴とShort Biography](#略歴とshort-biography)  
 [ブログ](#ブログ)  
 [その他の経歴](#その他の経歴)  
-[PCにインストールしているもの](#pcにインストールしているもの)  
 [進化計算学会の簡易まとめ](#進化計算学会の簡易まとめ)  
 [Matlabで図を作成する関数](#matlabで図を作成する関数)  
 [Springer LNCSスタイルファイルのダウンロード方法](#springer-lncsスタイルファイルのダウンロード方法)  
@@ -136,20 +135,6 @@ Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of
 - 2015年 9月: 普通自動車第一種運転免許
 - 2015年11月: 基本情報技術者
 - 2023年 5月: AWS認定Cloud Practitioner
-
-### PCにインストールしているもの
-- ウェブブラウザ：Edge, Chrome.
-- エディタ：sakura-editor, VS Code.
-- コミュニケーション：Slack, Zoom.
-- ファイル共有：Dropbox, Google drive.
-- プログラミング：MATLAB, Python, GO.
-- 論文作成：Grammarly, Ghostscript, GSview.
-- EPS：Metafile to EPS Converter.
-- Git：Git Bash, GitHub Desktop.
-- PDF：pdf_as, Sumatra PDF.
-- Tex：TexStudio, TeXWorks.
-- Unix：Docker, GnuWin32, WSL2.
-- その他：7-Zip, OpenVPN, MPC-HC, Office365, WinMerge.
 
 ### 進化計算学会の簡易まとめ
 進化計算学会論文誌に掲載されている論文を表形式でまとめた． [表: 進化計算学会論文誌の論文](data/tjpnsec){:target="_blank"}  
