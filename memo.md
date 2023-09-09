@@ -85,52 +85,55 @@ Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of
 
 ### ブログ
 <details><summary><strong><a href="https://qiita.com/tomtkg" target="_blank">Qiita</a></strong></summary>
-
-- [中身が2行だけ書かれたMATLABプログラムを全力解説](https://qiita.com/tomtkg/items/1383ef938fa4f8d8a157)
-- [MATLABによる散布図と9つの図](https://qiita.com/tomtkg/items/c4bf989ab2e353cd9b89)
-- [Latin hypercube sampling (LHS) を調査](https://qiita.com/tomtkg/items/759126576184750a9971)
-- [Excelで進化計算](https://qiita.com/tomtkg/items/13d872bb24dd443dda99)
-- [LaTeXで印刷に適した文書を作成する](https://qiita.com/tomtkg/items/cf2730b12415dec48678)
-- [LaTeXの便利なパッケージ](https://qiita.com/tomtkg/items/a709e7953c101f9101a1)
-- [Go言語プログラムの資料を自動生成する](https://qiita.com/tomtkg/items/073b90c7feaae45cd7db)
-- [Go言語の配列操作の使い難さを改善する](https://qiita.com/tomtkg/items/4d9778e83e63b608419a)
-- [TypeScript × React-Tutorial: Tic-Tac-Toe / 三目並べ](https://qiita.com/tomtkg/items/a489006b85f5fb9896aa)
-- [TypeScript × React-Tutorial: Tic-Tac-Toe / 三目並べ Extra](https://qiita.com/tomtkg/items/380fc28d21e7b126f0b3)
-- [TypeScript × React-Tutorial: Tic-Tac-Toe / 三目並べ Deploy](https://qiita.com/tomtkg/items/3e6173a231fdbe463302)
+<ul>
+  <li><a href="https://qiita.com/tomtkg/items/1383ef938fa4f8d8a157" target="_blank">中身が2行だけ書かれたMATLABプログラムを全力解説</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/c4bf989ab2e353cd9b89" target="_blank">MATLABによる散布図と9つの図</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/759126576184750a9971" target="_blank">Latin hypercube sampling (LHS) を調査</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/13d872bb24dd443dda99" target="_blank">Excelで進化計算</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/cf2730b12415dec48678" target="_blank">LaTeXで印刷に適した文書を作成する</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/a709e7953c101f9101a1" target="_blank">LaTeXの便利なパッケージ</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/073b90c7feaae45cd7db" target="_blank">Go言語プログラムの資料を自動生成する</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/4d9778e83e63b608419a" target="_blank">Go言語の配列操作の使い難さを改善する</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/a489006b85f5fb9896aa" target="_blank">TypeScript × React-Tutorial: Tic-Tac-Toe / 三目並べ</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/380fc28d21e7b126f0b3" target="_blank">TypeScript × React-Tutorial: Tic-Tac-Toe / 三目並べ Extra</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/3e6173a231fdbe463302" target="_blank">TypeScript × React-Tutorial: Tic-Tac-Toe / 三目並べ Deploy</a></li>
+</ul>
 </details>
+<p></p>
 <details><summary><strong><a href="https://www.timedia.co.jp/author/tomtkg" target="_blank">前社の技術ブログ</a></strong></summary>
-
-- [中身が2行だけ書かれたプログラムを全力解説（前編）](https://www.timedia.co.jp/tech/20220414-tech)
-- [中身が2行だけ書かれたプログラムを全力解説（中編）](https://www.timedia.co.jp/tech/20220427-tech)
-- [中身が2行だけ書かれたプログラムを全力解説（後編）](https://www.timedia.co.jp/tech/20220517-tech)
-- [散布図と9つの図](https://www.timedia.co.jp/tech/20220524-tech)
-- [Excelで進化計算(1)](https://www.timedia.co.jp/tech/20220606-tech)
-- [Excelで進化計算(2)](https://www.timedia.co.jp/tech/20220608-tech)
-- [Excelで進化計算(3)](https://www.timedia.co.jp/tech/20220623-tech)
-- [Excelで進化計算(4)](https://www.timedia.co.jp/tech/20230112-tech)
-- [Latin hypercube sampling(LHS) を調査](https://www.timedia.co.jp/tech/20220714-tech)
-- [WCCI2022(1) 事前準備レポート](https://www.timedia.co.jp/tech/20220816-tech)
-- [WCCI2022(2) 招待講演レポート](https://www.timedia.co.jp/tech/20220823-tech)
-- [WCCI2022(3) 口頭発表レポート](https://www.timedia.co.jp/tech/20220825-tech)
-- [WCCI2022(4) 現地参加レポート](https://www.timedia.co.jp/tech/20220830-tech)
-- [EvoTorch触ってみた](https://www.timedia.co.jp/tech/20221101-tech)
-- [Issueを初投稿した話](https://www.timedia.co.jp/tech/20221124-tech)
-- [LaTeXで印刷に適した文書を作成する](https://www.timedia.co.jp/tech/20221201-tech)
-- [LaTeXの便利なパッケージ](https://www.timedia.co.jp/tech/20221208-tech)
-- [SSI2022 参加報告](https://www.timedia.co.jp/tech/20221215-tech)
-- [進化計算シンポジウム2022 参加報告](https://www.timedia.co.jp/tech/20230126-tech)
-- [進化計算学会 論文誌 論文賞を振り返る](https://www.timedia.co.jp/tech/20230131-tech)
-- [書評：『最適化アルゴリズム』](https://www.timedia.co.jp/tech/20230302-tech)
-- [IEEE Access に論文が採択・公開されました](https://www.timedia.co.jp/tech/20230316-tech)
-- [情報処理学会 第85回全国大会 参加報告](https://www.timedia.co.jp/tech/20230327-tech)
-- [第23回 進化計算学会 研究会 参加報告](https://www.timedia.co.jp/tech/20230413-tech)
-- [EMO2023 参加報告 前編](https://www.timedia.co.jp/tech/202305011-tech)
-- [EMO2023 参加報告 後編](https://www.timedia.co.jp/tech/20230518-tech)
-- [gitでコミットの順序を入れ替える 2023](https://www.timedia.co.jp/tech/20230530-tech)
-- [Go言語プログラムの資料を自動生成する](https://www.timedia.co.jp/tech/20230606-tech)
-- [プログラムを高速化した話](https://www.timedia.co.jp/tech/20230613-tech)
-- [Go言語の配列操作の使い難さを改善する](https://www.timedia.co.jp/tech/20230615-tech)
-- [MATLAB EXPO 2023 JAPAN 参加報告](https://www.timedia.co.jp/tech/20230627-tech)
+<ul>
+  <li><a href="https://www.timedia.co.jp/tech/20220414-tech" target="_blank">中身が2行だけ書かれたプログラムを全力解説（前編）</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20220427-tech" target="_blank">中身が2行だけ書かれたプログラムを全力解説（中編）</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20220517-tech" target="_blank">中身が2行だけ書かれたプログラムを全力解説（後編）</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20220524-tech" target="_blank">散布図と9つの図</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20220606-tech" target="_blank">Excelで進化計算(1)</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20220608-tech" target="_blank">Excelで進化計算(2)</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20220623-tech" target="_blank">Excelで進化計算(3)</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20230112-tech" target="_blank">Excelで進化計算(4)</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20220714-tech" target="_blank">Latin hypercube sampling(LHS) を調査</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20220816-tech" target="_blank">WCCI2022(1) 事前準備レポート</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20220823-tech" target="_blank">WCCI2022(2) 招待講演レポート</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20220825-tech" target="_blank">WCCI2022(3) 口頭発表レポート</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20220830-tech" target="_blank">WCCI2022(4) 現地参加レポート</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20221101-tech" target="_blank">EvoTorch触ってみた</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20221124-tech" target="_blank">Issueを初投稿した話</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20221201-tech" target="_blank">LaTeXで印刷に適した文書を作成する</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20221208-tech" target="_blank">LaTeXの便利なパッケージ</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20221215-tech" target="_blank">SSI2022 参加報告</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20230126-tech" target="_blank">進化計算シンポジウム2022 参加報告</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20230131-tech" target="_blank">進化計算学会 論文誌 論文賞を振り返る</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20230302-tech" target="_blank">書評：『最適化アルゴリズム』</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20230316-tech" target="_blank">IEEE Access に論文が採択・公開されました</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20230327-tech" target="_blank">情報処理学会 第85回全国大会 参加報告</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20230413-tech" target="_blank">第23回 進化計算学会 研究会 参加報告</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/202305011-tech" target="_blank">EMO2023 参加報告 前編</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20230518-tech" target="_blank">EMO2023 参加報告 後編</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20230530-tech" target="_blank">gitでコミットの順序を入れ替える 2023</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20230606-tech" target="_blank">Go言語プログラムの資料を自動生成する</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20230613-tech" target="_blank">プログラムを高速化した話</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20230615-tech" target="_blank">Go言語の配列操作の使い難さを改善する</a></li>
+  <li><a href="https://www.timedia.co.jp/tech/20230627-tech" target="_blank">MATLAB EXPO 2023 JAPAN 参加報告</a></li>
+</ul>
 </details>
 
 ### その他の経歴
