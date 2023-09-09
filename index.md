@@ -27,9 +27,9 @@ Computational Intelligence, Evolutionary Computation, and Optimization.
 * IEEE CIS Japan Chapter Young Researcher Award, [2020 Symposium on Evolutionary Computation](http://www.jpnsec.org/yra.html){:target="_blank"}.  
 
 ## Work Experience
-* Sep. 2023 - Present: **A certain company, Works in Tokyo, Japan**
-* Apr. 2023 - Present: **The University of Electro-Communications, Tokyo, Japan**
-* Apr. 2020 - Aug. 2023: **TIMEINTERMEDIA, Inc., Tokyo, Japan**
+* Sep. 2023 - Present: A certain company, Works in Tokyo, Japan
+* Apr. 2023 - Present: The University of Electro-Communications, Tokyo, Japan
+* Apr. 2020 - Aug. 2023: TIMEINTERMEDIA, Inc., Tokyo, Japan
 
 ## Education
 **The University of Electro-Communications, Chofu, Tokyo, Japan**  
@@ -38,8 +38,8 @@ Computational Intelligence, Evolutionary Computation, and Optimization.
 * Apr. 2014 - Mar. 2018: Bachelor of Engineering (Informatics)
 
 ## Professional and Society Memberships
-* Dec. 2020 Institute of Electrical and Electronics Engineers (IEEE)  
-* Feb. 2019 The Japanese Society for Evolutionary Computation (JPNSEC)  
+* Dec. 2020 - Present: Institute of Electrical and Electronics Engineers (IEEE)  
+* Feb. 2019 - Present: The Japanese Society for Evolutionary Computation (JPNSEC)  
 
 ## Link
 [GitHub](https://github.com/tomtkg), [ORCID](https://orcid.org/0000-0003-3748-9797), [Qiita](https://qiita.com/tomtkg), [Laboratory](https://nic.lab.uec.ac.jp/index.php/tomoakitakagi), [JPNSEC](http://www.jpnsec.org), [IEEE](https://ieee-collabratec.ieee.org/app/p/tomtkg),  
