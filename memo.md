@@ -97,6 +97,7 @@ Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of
   <li><a href="https://qiita.com/tomtkg/items/a489006b85f5fb9896aa" target="_blank">TypeScript × React-Tutorial: Tic-Tac-Toe / 三目並べ</a></li>
   <li><a href="https://qiita.com/tomtkg/items/380fc28d21e7b126f0b3" target="_blank">TypeScript × React-Tutorial: Tic-Tac-Toe / 三目並べ Extra</a></li>
   <li><a href="https://qiita.com/tomtkg/items/3e6173a231fdbe463302" target="_blank">TypeScript × React-Tutorial: Tic-Tac-Toe / 三目並べ Deploy</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/3e6173a231fdbe463302" target="_blank">MATLABでGIFアニメーションを作成するベストプラクティス</a></li>
 </ul>
 </details>
 <p></p>
