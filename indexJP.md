@@ -32,10 +32,6 @@ title: Tom TKG's Homepage
 1. 令和3年度 電気通信大学 学生表彰 2022/3/24
 1. 進化計算学会 論文誌 2022年度論文賞 2022/12/18 
 
-## 所属学会
-* 2019年02月: 進化計算学会
-* 2020年12月: Institute of Electrical and Electronics Engineers (IEEE) 
-
 ## リンク
 [GitHub](https://github.com/tomtkg), [ORCID](https://orcid.org/0000-0003-3748-9797), [Qiita](https://qiita.com/tomtkg), [研究室](https://nic.lab.uec.ac.jp/index.php/tomoakitakagi), [進化計算学会](http://www.jpnsec.org), [IEEE](https://ieee-collabratec.ieee.org/app/p/tomtkg),  
 [Google Scholar](https://scholar.google.co.jp/citations?user=jsYC8NMAAAAJ), [DBLP](https://dblp.uni-trier.de/pers/hd/t/Takagi:Tomoaki), [Web of Science](https://www.webofscience.com/wos/author/record/AAF-1794-2021), [Semantic Scholar](https://www.semanticscholar.org/author/94460343).
