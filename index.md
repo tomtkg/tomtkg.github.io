@@ -37,10 +37,6 @@ Computational Intelligence, Evolutionary Computation, and Optimization.
 * Apr. 2018 - Mar. 2020: &nbsp;Master &nbsp;of Engineering (Informatics)  
 * Apr. 2014 - Mar. 2018: Bachelor of Engineering (Informatics)
 
-## Professional and Society Memberships
-* Dec. 2020 - Present: Institute of Electrical and Electronics Engineers (IEEE)  
-* Feb. 2019 - Present: The Japanese Society for Evolutionary Computation (JPNSEC)  
-
 ## Link
 [GitHub](https://github.com/tomtkg), [ORCID](https://orcid.org/0000-0003-3748-9797), [Qiita](https://qiita.com/tomtkg), [Laboratory](https://nic.lab.uec.ac.jp/index.php/tomoakitakagi), [JPNSEC](http://www.jpnsec.org), [IEEE](https://ieee-collabratec.ieee.org/app/p/tomtkg),  
 [Google Scholar](https://scholar.google.co.jp/citations?user=jsYC8NMAAAAJ), [DBLP](https://dblp.uni-trier.de/pers/hd/t/Takagi:Tomoaki), [Web of Science](https://www.webofscience.com/wos/author/record/AAF-1794-2021), [Semantic Scholar](https://www.semanticscholar.org/author/94460343).
