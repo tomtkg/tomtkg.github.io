@@ -45,6 +45,7 @@ title: Tom TKG's Homepage
 会場：日本, 札幌　申込〆切：11/11(金)　原稿〆切：11/27(金)　採択通知：</details>
 </details>
 <p></p>
+<details><summary><strong>2023年</strong></summary>
 <details><summary>2023年3月2(木)-4(土)：<a href="https://www.ipsj.or.jp/event/taikai/85/index.html" target="_blank">情報処理学会 第85回全国大会</a></summary>
 会場：日本, 東京　申込〆切：12/12(月)　原稿〆切：1/13(金)　採択通知：</details>
 <details><summary>2023年3月6(月)-7(火)：<a href="http://www.jpnsec.org/symposium202301.html" target="_blank">第23回進化計算学会研究会</a></summary>
@@ -69,6 +70,8 @@ title: Tom TKG's Homepage
 会場：Mexico City, Mexico　申込〆切：　　原稿〆切：8/15(火)　採択通知：8/31(木)　</details>
 <details><summary>2023年12月22(金)-23(土)：<a href="http://www.jpnsec.org/symposium202303.html" target="_blank">進化計算シンポジウム2023</a></summary>
 会場：日本, 神奈川　申込〆切：　　原稿〆切：　　採択通知：</details>
+</details>
+<p></p>
 <details><summary>2024年4月3(水)-5(金)：<a href="https://www.evostar.org/2024" target="_blank">EvoStar</a></summary>
 会場：Aberystwyth, Wales, UK　申込〆切：　　原稿〆切：11/1(月水)　採択通知：　　</details>
 <details><summary>2024年7月2(日)-5(水)：<a href="https://wcci2024.org" target="_blank">IEEE WCCI</a></summary>
