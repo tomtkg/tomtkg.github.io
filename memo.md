@@ -82,9 +82,9 @@ title: Tom TKG's Homepage
 会場：Hagenberg, Austria　申込〆切：　　原稿〆切：　　採択通知：　　</details>
 
 ### 略歴とShort Biography
-2018年電気通信大学情報理工学部総合情報学科卒業．2020年同大学大学院情報理工学研究科情報学専攻博士前期課程修了．2023年同専攻博士後期課程修了．博士（工学）．2023年より電気通信大学客員研究員．進化計算，多目的最適化，これらの応用に関する研究に従事．2020年IEEE CIS日本支部Young Researcher Award，進化計算コンペティション2020単目的部門と多目的部門のトップ賞，2022年度進化計算学会論文誌論文賞などを受賞．IEEE，進化計算学会，各会員．
+2018年電気通信大学情報理工学部総合情報学科卒業．2020年同大学大学院情報理工学研究科情報学専攻博士前期課程修了．2023年同専攻博士後期課程修了．博士（工学）．進化計算，多目的最適化，これらの応用に関する研究に従事．2020年IEEE CIS日本支部Young Researcher Award，進化計算コンペティション2020単目的部門と多目的部門のトップ賞，2022年度進化計算学会論文誌論文賞などを受賞．進化計算学会会員．
 
-Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of Electro-Communications, Japan, in 2018, 2020, and 2023, respectively. He is currently a Visiting Researcher at The University of Electro-Communications. His research interests include evolutionary multi- and many-objective optimization and its applications. He is also a member of IEEE and the Japanese Society for Evolutionary Computation. He received IEEE CIS Japan Chapter Young Researcher Award in 2020, the Evolutionary Computation Competition First Award for Single-Objective and Multi-Objective Track in 2020, and the Transaction of the Japanese Society for Evolutionary Computation Beat Paper Award in 2022.
+Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of Electro-Communications, Japan, in 2018, 2020, and 2023, respectively. His research interests include evolutionary multi- and many-objective optimization and its applications. He is also a member of the Japanese Society for Evolutionary Computation. He received IEEE CIS Japan Chapter Young Researcher Award in 2020, the Evolutionary Computation Competition First Award for Single-Objective and Multi-Objective Track in 2020, and the Transaction of the Japanese Society for Evolutionary Computation Beat Paper Award in 2022.
 
 ### ブログ
 <details><summary><strong><a href="https://qiita.com/tomtkg" target="_blank">Qiita</a></strong></summary>

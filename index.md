@@ -7,8 +7,7 @@ description: The site owner is an AI researcher and he is mainly interested in e
 <img class="profile-picture" src="myface.jpg">
 
 <div style="text-align: center"><font size="5"><b>
-  I am an AI researcher at a company<br>
-  and a visiting researcher at a university.
+  I am an AI researcher at a company.
 </b></font></div>
 
 ## Research Interest
@@ -19,6 +18,7 @@ Computational Intelligence, Evolutionary Computation, and Optimization.
 * Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Directional Pareto Front and Its Estimation to Encourage Multi-Objective Decision-Making**, IEEE Access, Vol. 11, pp. 20619--20634, 2023. [DOI](https://doi.org/10.1109/ACCESS.2023.3250238){:target="_blank"}.
 
 ## Awards
+* Winner of the MATLAB programming contest, [MATLAB EXPO 2024 JAPAN](https://www.matlabexpo.com/jp/online/2024.html)
 * 2022 Beat paper Award, [Transaction of the Japanese Society for Evolutionary Computation](http://www.jpnsec.org/prize.html){:target="_blank"}.  
 * First Award, Single-Objective Track, [Evolutionary Computation Competition 2021](https://ec-comp.jpnsec.org/competitions/eccomp2021){:target="_blank"}.  
 * Sponsorship Award, Multi-Objective Track, [Evolutionary Computation Competition 2021](https://ec-comp.jpnsec.org/competitions/eccomp2021){:target="_blank"}.  
@@ -28,7 +28,7 @@ Computational Intelligence, Evolutionary Computation, and Optimization.
 
 ## Work Experience
 * Sep. 2023 - Present: A certain company, Works in Tokyo, Japan
-* Apr. 2023 - Present: The University of Electro-Communications, Tokyo, Japan
+* Apr. 2023 - Mar. 2024: The University of Electro-Communications, Tokyo, Japan
 * Apr. 2020 - Aug. 2023: TIMEINTERMEDIA, Inc., Tokyo, Japan
 
 ## Education
@@ -38,5 +38,5 @@ Computational Intelligence, Evolutionary Computation, and Optimization.
 * Apr. 2014 - Mar. 2018: Bachelor of Engineering (Informatics)
 
 ## Link
-[GitHub](https://github.com/tomtkg), [ORCID](https://orcid.org/0000-0003-3748-9797), [Qiita](https://qiita.com/tomtkg), [Laboratory](https://nic.lab.uec.ac.jp/index.php/tomoakitakagi), [JPNSEC](http://www.jpnsec.org), [IEEE](https://ieee-collabratec.ieee.org/app/p/tomtkg),  
+[GitHub](https://github.com/tomtkg), [ORCID](https://orcid.org/0000-0003-3748-9797), [Qiita](https://qiita.com/tomtkg), [Credly](https://www.credly.com/users/tomtkg), [MATLAB](https://jp.mathworks.com/matlabcentral/cody/players/14679670), [Laboratory](https://nic.lab.uec.ac.jp/index.php/tomoakitakagi), [IEEE](https://ieee-collabratec.ieee.org/app/p/tomtkg),  
 [Google Scholar](https://scholar.google.co.jp/citations?user=jsYC8NMAAAAJ), [DBLP](https://dblp.uni-trier.de/pers/hd/t/Takagi:Tomoaki), [Web of Science](https://www.webofscience.com/wos/author/record/AAF-1794-2021), [Semantic Scholar](https://www.semanticscholar.org/author/94460343).
