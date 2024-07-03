@@ -102,6 +102,8 @@ Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of
   <li><a href="https://qiita.com/tomtkg/items/3e6173a231fdbe463302" target="_blank">TypeScript × React-Tutorial: Tic-Tac-Toe / 三目並べ Deploy</a></li>
   <li><a href="https://qiita.com/tomtkg/items/b4a40570f846988fafdc" target="_blank">MATLABでGIFアニメーションを作成するベストプラクティス</a></li>
   <li><a href="https://qiita.com/tomtkg/items/0bedf0d4f6e53294eed0" target="_blank">MATLABプログラミングコンテスト必勝法</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/347926686a546c4e7583" target="_blank">JDLA Generative AI Testの勉強メモ</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/addb4eed2d5293f91875" target="_blank">プログラミングの問題集を作成・公開しました</a></li>
 </ul>
 </details>
 <p></p>
@@ -162,6 +164,7 @@ Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of
 - 2023年 5月: AWS認定Cloud Practitioner
 - 2023年12月: Certified MATLAB Associate
 - 2024年 5月: PythonZen & PEP 8 検定試験
+- 2024年 6月: JDLA Generative AI Test 2024
 
 ### 進化計算学会の簡易まとめ
 進化計算学会論文誌に掲載されている論文を表形式でまとめた． [表: 進化計算学会論文誌の論文](data/tjpnsec){:target="_blank"}  
