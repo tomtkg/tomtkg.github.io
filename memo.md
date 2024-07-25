@@ -165,6 +165,7 @@ Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of
 - 2023年12月: Certified MATLAB Associate
 - 2024年 5月: PythonZen & PEP 8 検定試験
 - 2024年 6月: JDLA Generative AI Test 2024
+- 2024年 7月: G検定 (JDLA Deep Learning for GENERAL)
 
 ### 進化計算学会の簡易まとめ
 進化計算学会論文誌に掲載されている論文を表形式でまとめた． [表: 進化計算学会論文誌の論文](data/tjpnsec){:target="_blank"}  
