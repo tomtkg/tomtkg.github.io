@@ -104,6 +104,11 @@ Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of
   <li><a href="https://qiita.com/tomtkg/items/0bedf0d4f6e53294eed0" target="_blank">MATLABプログラミングコンテスト必勝法</a></li>
   <li><a href="https://qiita.com/tomtkg/items/347926686a546c4e7583" target="_blank">JDLA Generative AI Testの勉強メモ</a></li>
   <li><a href="https://qiita.com/tomtkg/items/addb4eed2d5293f91875" target="_blank">プログラミングの問題集を作成・公開しました</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/a39894f789ffb2a55b19" target="_blank">簡単なボードゲーム（へクス五目）を実装してみた</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/e5644ccf5b9a08f200bd" target="_blank">へクス五目に関する考察</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/c57376161baa12095c9e" target="_blank">paizaプログラミング問題Rank C, D (Python)</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/2c3b737848e47ff91903" target="_blank">paizaプログラミング問題Rank A, B (Python)</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/22810085c548b134e8ce" target="_blank">paizaプログラミング問題Rank S (Python)</a></li>
 </ul>
 </details>
 <p></p>
