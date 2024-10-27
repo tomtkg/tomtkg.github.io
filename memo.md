@@ -46,40 +46,42 @@ title: Tom TKG's Homepage
 </details>
 <p></p>
 <details><summary><strong>2023年</strong></summary>
-<details><summary>2023年3月2(木)-4(土)：<a href="https://www.ipsj.or.jp/event/taikai/85/index.html" target="_blank">情報処理学会 第85回全国大会</a></summary>
+<details><summary>3月2(木)-4(土)：<a href="https://www.ipsj.or.jp/event/taikai/85/index.html" target="_blank">情報処理学会 第85回全国大会</a></summary>
 会場：日本, 東京　申込〆切：12/12(月)　原稿〆切：1/13(金)　採択通知：</details>
-<details><summary>2023年3月6(月)-7(火)：<a href="http://www.jpnsec.org/symposium202301.html" target="_blank">第23回進化計算学会研究会</a></summary>
+<details><summary>3月6(月)-7(火)：<a href="http://www.jpnsec.org/symposium202301.html" target="_blank">第23回進化計算学会研究会</a></summary>
 会場：日本, 東京　申込〆切：2/17(金)　原稿〆切：2/24(金)　採択通知：</details>
-<details><summary>2023年3月20(月)-24(金)：<a href="https://emo2023.liacs.leidenuniv.nl" target="_blank">EMO</a></summary>
+<details><summary>3月20(月)-24(金)：<a href="https://emo2023.liacs.leidenuniv.nl" target="_blank">EMO</a></summary>
 会場：Leiden, Netherlands　申込〆切：　　原稿〆切：10/27(木)　採択通知：12/2(金)　</details>
-<details><summary>2023年7月1(土)-5(水)：<a href="https://2023.ieee-cec.org" target="_blank">IEEE CEC</a></summary>
+<details><summary>7月1(土)-5(水)：<a href="https://2023.ieee-cec.org" target="_blank">IEEE CEC</a></summary>
 会場：Chicago, USA　申込〆切：　　原稿〆切：1/27(金)　採択通知：</details>
-<details><summary>2023年7月15(土)-19(水)：<a href="https://gecco-2023.sigevo.org" target="_blank">GECCO</a></summary>
+<details><summary>7月15(土)-19(水)：<a href="https://gecco-2023.sigevo.org" target="_blank">GECCO</a></summary>
 会場：Lisbon, Portugal　申込〆切：2/3(金)　原稿〆切：2/10(金)　採択通知：3/31(金)</details>
-<details><summary>2023年8月30(水)-9月(土)：<a href="https://www.iee.jp/eiss/conf/conf2023" target="_blank">電気学会 電子・情報・システム部門大会</a></summary>
+<details><summary>8月30(水)-9月(土)：<a href="https://www.iee.jp/eiss/conf/conf2023" target="_blank">電気学会 電子・情報・システム部門大会</a></summary>
 会場：日本, 北海道　申込〆切：5/15(月)　原稿〆切：6/15(金)　採択通知：</details>
-<details><summary>2023年9月7(木)-8(金)：<a href="https://sites.google.com/view/fan2023" target="_blank">FAN</a></summary>
+<details><summary>9月7(木)-8(金)：<a href="https://sites.google.com/view/fan2023" target="_blank">FAN</a></summary>
 会場：日本, 福岡　申込〆切：7/12(水)　原稿〆切：7/28(金)　採択通知：7/18(火)</details>
-<details><summary>2023年9月12(火)-13(水)：<a href="http://www.jpnsec.org/symposium202302.html" target="_blank">第24回進化計算学会研究会</a></summary>
+<details><summary>9月12(火)-13(水)：<a href="http://www.jpnsec.org/symposium202302.html" target="_blank">第24回進化計算学会研究会</a></summary>
 会場：日本, 京都　申込〆切：8/15(火)　原稿〆切：8/29(火)　採択通知：</details>
-<details><summary>2023年10月1(日)-4(水)：<a href="https://ieeesmc2023.org" target="_blank">IEEE SMC</a></summary>
+<details><summary>10月1(日)-4(水)：<a href="https://ieeesmc2023.org" target="_blank">IEEE SMC</a></summary>
 会場：Hawaii, USA　申込〆切：　　原稿〆切：4/23(日)　採択通知：5/27(土)　</details>
-<details><summary>2023年11月10(金)-12(日)：<a href="https://ssi2023.sice.or.jp" target="_blank">SSI</a></summary>
+<details><summary>11月10(金)-12(日)：<a href="https://ssi2023.sice.or.jp" target="_blank">SSI</a></summary>
 会場：日本, 東京　申込〆切：9/1(金)　原稿〆切：9/22(金)　採択通知：</details>
-<details><summary>2023年12月5(火)-8(金)：<a href="https://attend.ieee.org/ssci-2023" target="_blank">IEEE SSCI</a></summary>
+<details><summary>12月5(火)-8(金)：<a href="https://attend.ieee.org/ssci-2023" target="_blank">IEEE SSCI</a></summary>
 会場：Mexico City, Mexico　申込〆切：　　原稿〆切：8/15(火)　採択通知：8/31(木)　</details>
-<details><summary>2023年12月22(金)-23(土)：<a href="http://www.jpnsec.org/symposium202303.html" target="_blank">進化計算シンポジウム2023</a></summary>
+<details><summary>12月22(金)-23(土)：<a href="http://www.jpnsec.org/symposium202303.html" target="_blank">進化計算シンポジウム2023</a></summary>
 会場：日本, 神奈川　申込〆切：　　原稿〆切：　　採択通知：</details>
 </details>
 <p></p>
-<details><summary>2024年4月3(水)-5(金)：<a href="https://www.evostar.org/2024" target="_blank">EvoStar</a></summary>
+<details><summary><strong>2024年</strong></summary>
+<details><summary>4月3(水)-5(金)：<a href="https://www.evostar.org/2024" target="_blank">EvoStar</a></summary>
 会場：Aberystwyth, Wales, UK　申込〆切：　　原稿〆切：11/1(月水)　採択通知：　　</details>
-<details><summary>2024年7月2(日)-5(水)：<a href="https://wcci2024.org" target="_blank">IEEE WCCI</a></summary>
+<details><summary>7月2(日)-5(水)：<a href="https://wcci2024.org" target="_blank">IEEE WCCI</a></summary>
 会場：日本, 横浜　申込〆切：　　原稿〆切：1/15(月)　採択通知：3/15(金)</details>
-<details><summary>2024年7月14(日)-18(木)：<a href="https://gecco-2024.sigevo.org" target="_blank">GECCO</a></summary>
+<details><summary>7月14(日)-18(木)：<a href="https://gecco-2024.sigevo.org" target="_blank">GECCO</a></summary>
 会場：Melbourne, Australia　申込〆切：1/25(木)　原稿〆切：2/1(木)　採択通知：3/21(木)</details>
-<details><summary>2024年9月14(土)-18(水)：<a href="https://ppsn2024.heuristiclab.com" target="_blank">PPSN</a></summary>
+<details><summary>9月14(土)-18(水)：<a href="https://ppsn2024.heuristiclab.com" target="_blank">PPSN</a></summary>
 会場：Hagenberg, Austria　申込〆切：　　原稿〆切：　　採択通知：　　</details>
+</details>
 
 ### 略歴とShort Biography
 2018年電気通信大学情報理工学部総合情報学科卒業．2020年同大学大学院情報理工学研究科情報学専攻博士前期課程修了．2023年同専攻博士後期課程修了．博士（工学）．進化計算，多目的最適化，これらの応用に関する研究に従事．2020年IEEE CIS日本支部Young Researcher Award，進化計算コンペティション2020単目的部門と多目的部門のトップ賞，2022年度進化計算学会論文誌論文賞などを受賞．進化計算学会会員．
