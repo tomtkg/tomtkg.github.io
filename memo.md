@@ -109,6 +109,10 @@ Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of
   <li><a href="https://qiita.com/tomtkg/items/c57376161baa12095c9e" target="_blank">paizaプログラミング問題Rank C, D (Python)</a></li>
   <li><a href="https://qiita.com/tomtkg/items/2c3b737848e47ff91903" target="_blank">paizaプログラミング問題Rank A, B (Python)</a></li>
   <li><a href="https://qiita.com/tomtkg/items/22810085c548b134e8ce" target="_blank">paizaプログラミング問題Rank S (Python)</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/c4610899d402f50e6d54" target="_blank">おぼろげながら浮かんできたんです 46という数字が</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/11990e399df4f48771ea" target="_blank">MATLABで音楽作成　ドレミファソラシド</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/02ea464616b37f203060" target="_blank">MATLAB Shorts Mini HackをHackする（裏技紹介）</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/1906f729bcfb5deaea3c" target="_blank">拡散進化アルゴリズムの論文を再現する</a></li>
 </ul>
 </details>
 <p></p>
