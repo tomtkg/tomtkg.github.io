@@ -13,10 +13,6 @@ description: The site owner is an AI researcher and he is mainly interested in e
 ## Research Interest
 Computational Intelligence, Evolutionary Computation, and Optimization.
 
-## Latest Publications
-* Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Pareto Front Upconvert by Iterative Estimation Modeling and Solution Sampling**, Proc. of The 12th Edition of International Conference Series on Evolutionary Multi-Criterion Optimization ([EMO2023](https://emo2023.liacs.leidenuniv.nl){:target="_blank"}), Lecture Notes in Computer Science (LNCS), Vol. 13970, Springer, Cham, pp. 218--230, 2023. [DOI](https://doi.org/10.1007/978-3-031-27250-9_16){:target="_blank"}, [Code](https://github.com/tomtkg/I-SMOA){:target="_blank"}.
-* Tomoaki Takagi, Keiki Takadama, and Hiroyuki Sato: **Directional Pareto Front and Its Estimation to Encourage Multi-Objective Decision-Making**, IEEE Access, Vol. 11, pp. 20619--20634, 2023. [DOI](https://doi.org/10.1109/ACCESS.2023.3250238){:target="_blank"}.
-
 ## Awards
 * Winner of the MATLAB programming contest, [MATLAB EXPO 2024 JAPAN](https://www.matlabexpo.com/jp/online/2024.html)
 * 2022 Beat paper Award, [Transaction of the Japanese Society for Evolutionary Computation](http://www.jpnsec.org/prize.html){:target="_blank"}.  
