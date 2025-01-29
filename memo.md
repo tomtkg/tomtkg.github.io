@@ -115,6 +115,12 @@ Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of
   <li><a href="https://qiita.com/tomtkg/items/11990e399df4f48771ea" target="_blank">MATLABで音楽作成　ドレミファソラシド</a></li>
   <li><a href="https://qiita.com/tomtkg/items/02ea464616b37f203060" target="_blank">MATLAB Shorts Mini HackをHackする（裏技紹介）</a></li>
   <li><a href="https://qiita.com/tomtkg/items/1906f729bcfb5deaea3c" target="_blank">拡散進化アルゴリズムの論文を再現する</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/7abb1bc4c362b7883da6" target="_blank">Parasitic number (寄生数) について</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/1811b4b010c30263866d" target="_blank">Evil number と Odious number</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/55ccaa24c04c22d5baa9" target="_blank">2点間の距離が1以下で面積が最大となる多角形 LSP</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/e316ba5766e3e6ca8125" target="_blank">Largest Small n-Polygons 生成プログラムの紹介</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/3bc0aaafb3b506f3ead3" target="_blank">電脳少女プログラミング2088全問解答 (Python)</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/3bc0aaafb3b506f3ead3" target="_blank">paiza用ローカルテスト環境の紹介 (Python)</a></li>
 </ul>
 </details>
 <p></p>
