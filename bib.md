@@ -6,7 +6,6 @@ title: Tom TKG's Homepage
 [進化計算ライブラリ10選](#進化計算ライブラリ10選)  
 [進化計算が関連する国際会議10選](#進化計算が関連する国際会議10選)  
 [進化計算が関連する国内学術団体10選](#進化計算が関連する国内学術団体10選)  
-[進化計算が関連する研究室](#進化計算が関連する研究室)  
 [進化計算学会論文誌論文賞](#進化計算学会論文誌論文賞)  
 [IEEE Trans. on Evolutionary Computation 論文賞](#ieee-trans-on-evolutionary-computation-論文賞)  
 [IEEE Computational Intelligence Magazine 論文賞](#ieee-computational-intelligence-magazine-論文賞)  
@@ -68,26 +67,6 @@ title: Tom TKG's Homepage
 1. [IEEE Systems, Man, and Cybernetics Society ⽇本⽀部](https://www.ieee-jp.org/section/tokyo/chapter/SMC-28)
     - 関連イベントを協賛していることが多いです．
 
-## 進化計算が関連する研究室
-- 大阪公立 大学 [能島 裕介](https://ci-labo-omu.github.io) 研究室
-- 筑波　　 大学 [秋本 洋平](https://www.bbo.cs.tsukuba.ac.jp) 研究室
-- 電気通信 大学 [佐藤 寛之](https://nic.lab.uec.ac.jp) 研究室
-- 電気通信 大学 [髙玉 圭樹](http://www.cas.lab.uec.ac.jp) 研究室
-- 電気通信 大学 [千葉 一永](http://www.di.mi.uec.ac.jp) 研究室
-- 東京　　 大学 [伊庭 斉志](http://www.iba.t.u-tokyo.ac.jp) 研究室
-- 東京工業 大学 [小野 功　](http://www.ic.dis.titech.ac.jp/main/doku.php) 研究室
-- 東京都立 大学 [金崎 雅博](https://kana2013.blogspot.com) 研究室
-- 東京都立 大学 [原田 智広](https://www.comp.sd.tmu.ac.jp/tomohiro-harada) 研究室
-- 東北　　 大学 [大林 茂　](http://www.ifs.tohoku.ac.jp/edge/oobayashi/J_oobayashi_official.html) 研究室
-- 東北　　 大学 [下山 幸治](https://www.ifs.tohoku.ac.jp/shimoyama) 研究室
-- 南方科技 大学 [石渕 久生](https://hisaolab-sustech.github.io) 研究室
-- 新潟　　 大学 [余　 俊　](https://www.eng.niigata-u.ac.jp/~yujun) 研究室
-- 室蘭工業 大学 [渡邉 真也](http://is.csse.muroran-it.ac.jp/index.php?Computational%20Intelligence%20Laboratory) 研究室
-- 横浜国立 大学 [白川 真一](http://shiralab.ynu.ac.jp) 研究室
-- 横浜国立 大学 [田邊 遼司](https://aopt-lab.github.io) 研究室
-- 横浜国立 大学 [中田 雅也](http://www.nkt.ynu.ac.jp) 研究室
-- JAXA　　　　　[大山 聖　 ](https://ladse.eng.isas.jaxa.jp) 研究室
-
 ## [進化計算学会論文誌論文賞](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/tjpnsec.bib)
 - 2012\. 解の支配領域の自己制御による進化型多数目的最適化: 多数目的 0/1 ナップザック問題における性能検証と挙動解析  
 - 2013\. 被覆度を考慮したマルチスタート法による多目的連続関数最適化: Adaptive Weighted Aggregation  
@@ -100,6 +79,9 @@ title: Tom TKG's Homepage
 - 2020\. オフィスビルにおける空調スケジュールのシミュレーションに基づく進化型多目的最適化  
 - 2021\. レプリカ交換型差分進化マルコフ連鎖による多峰性分布からの効率的なサンプリング  
 - 2022\. 推定パレートフロントに基づいて重みベクトル群を配置する多目的進化アルゴリズム  
+- 2023\. 学習分類子システムのルール進化に対するConditional VAEに基づく誤判定検知・訂正
+- 2023\. 実ロボット適用に向けた複数局所解探索のための複数群間移動に基づく群知能最適化
+- 2024\. 実世界問題の効率的解決に向けた多点並列追加サンプリング多目的Multi-Fidelity設計
 
 ## [IEEE Trans. on Evolutionary Computation 論文賞](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/tevc.bib)
 - 2002\. Parameter control in evolutionary algorithms
@@ -125,6 +107,8 @@ title: Tom TKG's Homepage
 - 2021\. A decision variable clustering-based evolutionary algorithm for large-scale many-objective optimization
 - 2022\. One pixel attack for fooling deep neural networks
 - 2023\. Multifactorial evolutionary algorithm with online transfer parameter estimation: MFEA-II
+- 2024\. A coevolutionary framework for constrained multiobjective optimization problems
+- 2025\. Indicator-based evolutionary algorithm for solving constrained multiobjective optimization problems
 
 ## [IEEE Computational Intelligence Magazine 論文賞](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/cim.bib)
 - 2015\. A unified framework for symbiosis of evolutionary mechanisms with application to water clusters potential model design
@@ -136,6 +120,8 @@ title: Tom TKG's Homepage
 - 2021\. Recent trends in deep learning based natural language processing
 - 2022\. Evolutionary fuzzy systems for explainable artificial intelligence: Why, when, what for, and where to?
 - 2023\. How intense are you? Predicting intensities of emotions and sentiments using stacked ensemble
+- 2024\. Evolutionary transfer optimization - A new frontier in evolutionary computation research
+- 2025\. Hands-on Bayesian neural networks - A tutorial for deep learning users
 
 ## [ゼミ輪読におすすめの書籍10選](https://raw.githubusercontent.com/tomtkg/tomtkg.github.io/master/data/book.bib)
 1. C. Darwin, **On the origin of species**, Routledge, 1859.
