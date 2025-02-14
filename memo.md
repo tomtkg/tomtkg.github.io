@@ -120,7 +120,10 @@ Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of
   <li><a href="https://qiita.com/tomtkg/items/55ccaa24c04c22d5baa9" target="_blank">2点間の距離が1以下で面積が最大となる多角形 LSP</a></li>
   <li><a href="https://qiita.com/tomtkg/items/e316ba5766e3e6ca8125" target="_blank">Largest Small n-Polygons 生成プログラムの紹介</a></li>
   <li><a href="https://qiita.com/tomtkg/items/3bc0aaafb3b506f3ead3" target="_blank">電脳少女プログラミング2088全問解答 (Python)</a></li>
-  <li><a href="https://qiita.com/tomtkg/items/3bc0aaafb3b506f3ead3" target="_blank">paiza用ローカルテスト環境の紹介 (Python)</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/25b657b5dbfedf47ee18" target="_blank">paiza用ローカルテスト環境の紹介 (Python)</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/79b3166ef0a590be79c8" target="_blank">Pythonが動くWebサイトを作ってみた</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/84a041a3761096450349" target="_blank">Pythonが動くWebサイトをより快適にしてみた</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/31e04eb75ebc0b61e3ee" target="_blank">Pythonプログラミング問題サイトを作ってみた</a></li>
 </ul>
 </details>
 <p></p>
