@@ -124,6 +124,8 @@ Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of
   <li><a href="https://qiita.com/tomtkg/items/79b3166ef0a590be79c8" target="_blank">Pythonが動くWebサイトを作ってみた</a></li>
   <li><a href="https://qiita.com/tomtkg/items/84a041a3761096450349" target="_blank">Pythonが動くWebサイトをより快適にしてみた</a></li>
   <li><a href="https://qiita.com/tomtkg/items/31e04eb75ebc0b61e3ee" target="_blank">Pythonプログラミング問題サイトを作ってみた</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/89b9c65929215cdd5a10" target="_blank">Java + Gradle + IntelliJ + Spring BootでHello World!</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/6c8154590859c9cb2677" target="_blank">AHC043参加記</a></li>
 </ul>
 </details>
 <p></p>
