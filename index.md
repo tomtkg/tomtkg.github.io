@@ -34,5 +34,5 @@ Computational Intelligence, Evolutionary Computation, and Optimization.
 * Apr. 2014 - Mar. 2018: Bachelor of Engineering (Informatics)
 
 ## Link
-[GitHub](https://github.com/tomtkg), [ORCID](https://orcid.org/0000-0003-3748-9797), [Qiita](https://qiita.com/tomtkg), [Credly](https://www.credly.com/users/tomtkg), [MATLAB](https://jp.mathworks.com/matlabcentral/cody/players/14679670), [Laboratory](https://nic.lab.uec.ac.jp/index.php/tomoakitakagi), [IEEE](https://ieee-collabratec.ieee.org/app/p/tomtkg),  
-[Google Scholar](https://scholar.google.co.jp/citations?user=jsYC8NMAAAAJ), [DBLP](https://dblp.uni-trier.de/pers/hd/t/Takagi:Tomoaki), [Web of Science](https://www.webofscience.com/wos/author/record/AAF-1794-2021), [Semantic Scholar](https://www.semanticscholar.org/author/94460343).
+[GitHub](https://github.com/tomtkg), [ORCID](https://orcid.org/0000-0003-3748-9797), [Qiita](https://qiita.com/tomtkg), [Credly](https://www.credly.com/users/tomtkg), [Open Badges](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/cjNlWEJsUXlhY1laanlhWUgzclhGQT09), [MATLAB](https://jp.mathworks.com/matlabcentral/cody/players/14679670), [Laboratory](https://nic.lab.uec.ac.jp/index.php/tomoakitakagi),  
+[Google Scholar](https://scholar.google.co.jp/citations?user=jsYC8NMAAAAJ), [DBLP](https://dblp.uni-trier.de/pers/hd/t/Takagi:Tomoaki), [Web of Science](https://www.webofscience.com/wos/author/record/AAF-1794-2021), [Semantic Scholar](https://www.semanticscholar.org/author/94460343), [IEEE](https://ieee-collabratec.ieee.org/app/p/tomtkg).
