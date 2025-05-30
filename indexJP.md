@@ -32,6 +32,7 @@ title: Tom TKG's Homepage
 1. 令和3年度 電気通信大学 学生表彰 2022/3/24
 1. 進化計算学会 論文誌 2022年度論文賞 2022/12/18
 1. MATLAB プログラミングコンテスト 優勝 2024/5/30
+1. MATLAB プログラミングコンテスト 優勝 2025/5/29
 
 ## リンク
 [GitHub](https://github.com/tomtkg), [ORCID](https://orcid.org/0000-0003-3748-9797), [Qiita](https://qiita.com/tomtkg), [Credly](https://www.credly.com/users/tomtkg), [Open Badges](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/cjNlWEJsUXlhY1laanlhWUgzclhGQT09), [MATLAB](https://jp.mathworks.com/matlabcentral/cody/players/14679670), [Laboratory](https://nic.lab.uec.ac.jp/index.php/tomoakitakagi),  
