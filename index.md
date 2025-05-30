@@ -16,12 +16,12 @@ Computational Intelligence, Evolutionary Computation, and Optimization.
 ## Awards
 * Winner of the MATLAB programming contest, [MATLAB EXPO 2025 JAPAN](https://www.matlabexpo.com/jp/2025.html)
 * Winner of the MATLAB programming contest, [MATLAB EXPO 2024 JAPAN](https://www.matlabexpo.com/jp/2024.html)
-* 2022 Beat paper Award, [Transaction of the Japanese Society for Evolutionary Computation](http://www.jpnsec.org/prize.html){:target="_blank"}
-* First Award, Single-Objective Track, [Evolutionary Computation Competition 2021](https://ec-comp.jpnsec.org/competitions/eccomp2021){:target="_blank"}
-* Sponsorship Award, Multi-Objective Track, [Evolutionary Computation Competition 2021](https://ec-comp.jpnsec.org/competitions/eccomp2021){:target="_blank"}
-* First Award, Single-Objective Track, [Evolutionary Computation Competition 2020](https://ec-comp.jpnsec.org/competitions/eccomp2020){:target="_blank"}
-* First Award, Multi-Objective Track, [Evolutionary Computation Competition 2020](https://ec-comp.jpnsec.org/competitions/eccomp2020){:target="_blank"}
-* IEEE CIS Japan Chapter Young Researcher Award, [2020 Symposium on Evolutionary Computation](http://www.jpnsec.org/yra.html){:target="_blank"}
+* 2022 Beat paper Award, [Transaction of the Japanese Society for Evolutionary Computation](https://www.jpnsec.org/bestpapers.html){:target="_blank"}
+* First Award, Single-Objective Track, [Evolutionary Computation Competition 2021](https://opthub.ai/ja/competitions/eccomp2021){:target="_blank"}
+* Sponsorship Award, Multi-Objective Track, [Evolutionary Computation Competition 2021](https://opthub.ai/ja/competitions/eccomp2021){:target="_blank"}
+* First Award, Single-Objective Track, [Evolutionary Computation Competition 2020](https://opthub.ai/ja/competitions/eccomp2020){:target="_blank"}
+* First Award, Multi-Objective Track, [Evolutionary Computation Competition 2020](https://opthub.ai/ja/competitions/eccomp2020){:target="_blank"}
+* IEEE CIS Japan Chapter Young Researcher Award, [2020 Symposium on Evolutionary Computation](https://www.jpnsec.org/yra.html){:target="_blank"}
 
 ## Work Experience
 * Sep. 2023 - Present: A certain company, Works in Tokyo, Japan
