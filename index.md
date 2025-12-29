@@ -24,6 +24,7 @@ Computational Intelligence, Evolutionary Computation, and Optimization.
 * IEEE CIS Japan Chapter Young Researcher Award, [2020 Symposium on Evolutionary Computation](https://www.jpnsec.org/yra.html){:target="_blank"}
 
 ## Work Experience
+* Nov. 2025 - Present: The University of Electro-Communications, Tokyo, Japan
 * Sep. 2023 - Present: A certain company, Works in Tokyo, Japan
 * Apr. 2023 - Mar. 2024: The University of Electro-Communications, Tokyo, Japan
 * Apr. 2020 - Aug. 2023: TIMEINTERMEDIA, Inc., Tokyo, Japan
