@@ -126,6 +126,10 @@ Tomoaki Takagi received the B.E., M.E., and Ph.D. degrees from The University of
   <li><a href="https://qiita.com/tomtkg/items/31e04eb75ebc0b61e3ee" target="_blank">Pythonプログラミング問題サイトを作ってみた</a></li>
   <li><a href="https://qiita.com/tomtkg/items/89b9c65929215cdd5a10" target="_blank">Java + Gradle + IntelliJ + Spring BootでHello World!</a></li>
   <li><a href="https://qiita.com/tomtkg/items/6c8154590859c9cb2677" target="_blank">AHC043参加記</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/aa80dcdc4520cb3c89ce" target="_blank">MATLAB 競技テクニック紹介</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/a8b98abe62dfda9ccffb" target="_blank">「技術的に不可能です」と初めて言った話</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/e98aa18d8ef5045daa84" target="_blank">Gitリポジトリを分析する方法（ファイル数，サイズ，プログラム行数，...）</a></li>
+  <li><a href="https://qiita.com/tomtkg/items/c29cdc64ad2fcd7ba359" target="_blank">MATLABプログラミングコンテスト2026</a></li>
 </ul>
 </details>
 <p></p>
