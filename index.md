@@ -4,18 +4,12 @@ title: Tom TKG's Homepage
 description: The site owner is an AI researcher and he is mainly interested in evolutionary computation and multi-objective optimization. You can see his papers, codes, and images on this site.
 ---
 
-<img class="profile-picture" src="myface.jpg">
-
-<div style="text-align: center"><font size="5"><b>
-  I am an AI researcher at a company.
-</b></font></div>
-
 ## Research Interest
 Computational Intelligence, Evolutionary Computation, and Optimization.
 
 ## Awards
-* Winner of the MATLAB programming contest, [MATLAB EXPO 2025 JAPAN](https://www.matlabexpo.com/jp/2025.html)
-* Winner of the MATLAB programming contest, [MATLAB EXPO 2024 JAPAN](https://www.matlabexpo.com/jp/2024.html)
+* Three-time winner of the MATLAB programming contests
+  * [MATLAB EXPO 2024 JAPAN](https://www.matlabexpo.com/jp/2024.html), [MATLAB EXPO 2025 JAPAN](https://www.matlabexpo.com/jp/2025.html), and [MATLAB EXPO 2026 JAPAN](https://www.matlabexpo.com/jp/2026.html).
 * 2022 Beat paper Award, [Transaction of the Japanese Society for Evolutionary Computation](https://www.jpnsec.org/bestpapers.html){:target="_blank"}
 * First Award, Single-Objective Track, [Evolutionary Computation Competition 2021](https://opthub.ai/ja/competitions/eccomp2021){:target="_blank"}
 * Sponsorship Award, Multi-Objective Track, [Evolutionary Computation Competition 2021](https://opthub.ai/ja/competitions/eccomp2021){:target="_blank"}
