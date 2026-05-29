@@ -3,9 +3,7 @@ layout: default
 title: Tom TKG's Homepage
 ---
 
-<img class="profile-picture" src="myface.jpg">
-
-## 肩書：企業のAI研究者，博士（工学）
+## 肩書：会社員，博士（工学）
 
 ## 研究の興味
 人工知能，計算知能，進化計算，最適化，意思決定，可視化など
@@ -35,6 +33,7 @@ title: Tom TKG's Homepage
 1. MATLAB プログラミングコンテスト 優勝 2024/5/30
 1. paiza×Qiita記事投稿キャンペーン 最優秀賞 2025/3/13
 1. MATLAB プログラミングコンテスト 優勝 2025/5/29
+1. MATLAB プログラミングコンテスト 優勝 2026/5/26
 
 ## リンク
 [GitHub](https://github.com/tomtkg), [ORCID](https://orcid.org/0000-0003-3748-9797), [Qiita](https://qiita.com/tomtkg), [Credly](https://www.credly.com/users/tomtkg), [Open Badges](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/cjNlWEJsUXlhY1laanlhWUgzclhGQT09), [MATLAB](https://jp.mathworks.com/matlabcentral/cody/players/14679670), [Laboratory](https://nic.lab.uec.ac.jp/index.php/tomoakitakagi),  
